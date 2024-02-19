@@ -90,12 +90,8 @@ FromId,ToId,Value
 "TRS-108",8,"Comment…"
 "TRS-109",8,"Comment…"
 "TRS-113",8,"Comment…"
-"TRS-117",8,"Comment…"
-"TRS-119",8,"Comment…"
-"TRS-120",8,"Comment…"
 "TRS-123",8,"Comment…"
 "TRS-124",8,"Comment…"
-"TRS-125",8,"Comment…"
 "TRS-126",8,"Comment…"
 "TRS-127",8,"Comment…"
 "TRS-131",8,"Comment…"
@@ -264,7 +260,6 @@ FromId,ToId,Value
 "TRS-1800",8,"Comment…"
 "TRS-1801",8,"Comment…"
 "TRS-1802",8,"Comment…"
-"TRS-1803",8,"Comment…"
 "TRS-1810",8,"Comment…"
 "TRS-1811",8,"Comment…"
 "TRS-1812",8,"Comment…"
@@ -292,16 +287,8 @@ FromId,ToId,Value
 "TRS-1848",8,"Comment…"
 "TRS-1849",8,"Comment…"
 "TRS-1850",8,"Comment…"
-"TRS-1851",8,"Comment…"
-"TRS-1852",8,"Comment…"
-"TRS-1854",8,"Comment…"
-"TRS-1855",8,"Comment…"
-"TRS-1856",8,"Comment…"
 "TRS-1857",8,"Comment…"
-"TRS-1858",8,"Comment…"
 "TRS-1860",8,"Comment…"
-"TRS-1861",8,"Comment…"
-"TRS-1862",8,"Comment…"
 "TRS-1863",8,"Comment…"
 "TRS-1875",8,"Comment…"
 "TRS-1879",8,"Comment…"
@@ -367,7 +354,6 @@ FromId,ToId,Value
 "TRS-209",8,"Comment…"
 "TRS-210",8,"Comment…"
 "TRS-213",8,"Comment…"
-"TRS-215",8,"Comment…"
 "TRS-216",8,"Comment…"
 "TRS-217",8,"Comment…"
 "TRS-218",8,"Comment…"
@@ -376,8 +362,6 @@ FromId,ToId,Value
 "TRS-221",8,"Comment…"
 "TRS-222",8,"Comment…"
 "TRS-223",8,"Comment…"
-"TRS-224",8,"Comment…"
-"TRS-225",8,"Comment…"
 "TRS-226",8,"Comment…"
 "TRS-227",8,"Comment…"
 "TRS-228",8,"Comment…"
@@ -398,7 +382,6 @@ FromId,ToId,Value
 "TRS-260",8,"Comment…"
 "TRS-263",8,"Comment…"
 "TRS-264",8,"Comment…"
-"TRS-265",8,"Comment…"
 "TRS-268",8,"Comment…"
 "TRS-333",8,"Comment…"
 "TRS-334",8,"Comment…"
@@ -540,12 +523,8 @@ FromId,ToId,Value
 "TRS-108",9,"Source…"
 "TRS-109",9,"Source…"
 "TRS-113",9,"Source…"
-"TRS-117",9,"Source…"
-"TRS-119",9,"Source…"
-"TRS-120",9,"Source…"
 "TRS-123",9,"Source…"
 "TRS-124",9,"Source…"
-"TRS-125",9,"Source…"
 "TRS-126",9,"Source…"
 "TRS-127",9,"Source…"
 "TRS-131",9,"Source…"
@@ -714,7 +693,6 @@ FromId,ToId,Value
 "TRS-1800",9,"Source…"
 "TRS-1801",9,"Source…"
 "TRS-1802",9,"Source…"
-"TRS-1803",9,"Source…"
 "TRS-1810",9,"Source…"
 "TRS-1811",9,"Source…"
 "TRS-1812",9,"Source…"
@@ -742,16 +720,8 @@ FromId,ToId,Value
 "TRS-1848",9,"Source…"
 "TRS-1849",9,"Source…"
 "TRS-1850",9,"Source…"
-"TRS-1851",9,"Source…"
-"TRS-1852",9,"Source…"
-"TRS-1854",9,"Source…"
-"TRS-1855",9,"Source…"
-"TRS-1856",9,"Source…"
 "TRS-1857",9,"Source…"
-"TRS-1858",9,"Source…"
 "TRS-1860",9,"Source…"
-"TRS-1861",9,"Source…"
-"TRS-1862",9,"Source…"
 "TRS-1863",9,"Source…"
 "TRS-1875",9,"Source…"
 "TRS-1879",9,"Source…"
@@ -817,7 +787,6 @@ FromId,ToId,Value
 "TRS-209",9,"Source…"
 "TRS-210",9,"Source…"
 "TRS-213",9,"Source…"
-"TRS-215",9,"Source…"
 "TRS-216",9,"Source…"
 "TRS-217",9,"Source…"
 "TRS-218",9,"Source…"
@@ -826,8 +795,6 @@ FromId,ToId,Value
 "TRS-221",9,"Source…"
 "TRS-222",9,"Source…"
 "TRS-223",9,"Source…"
-"TRS-224",9,"Source…"
-"TRS-225",9,"Source…"
 "TRS-226",9,"Source…"
 "TRS-227",9,"Source…"
 "TRS-228",9,"Source…"
@@ -848,7 +815,6 @@ FromId,ToId,Value
 "TRS-260",9,"Source…"
 "TRS-263",9,"Source…"
 "TRS-264",9,"Source…"
-"TRS-265",9,"Source…"
 "TRS-268",9,"Source…"
 "TRS-333",9,"Source…"
 "TRS-334",9,"Source…"
@@ -1006,18 +972,8 @@ FromId,ToId,Value
 "TRS-108",7,"have a form that makes it possible to couple mechanically the CONTROLLER and POD only using translation along a single pre-defined direction and with a single pre-defined orientation between the two parts."
 "TRS-109",7,"have a maximum visible perpendicular shut line gap between the CONTROLLER and the POD in the fully coupled and latched state of [MAX_PHY_GAP]."
 "TRS-113",7,"incorporate a latching mechanism between the CONTROLLER and the POD having features intending to prevent unintentional release during use."
-"TRS-117",7,"have at least the following physical UI controls:
-
-   -  non-latching button for starting and pausing the therapy (""Start/Pause Button"")
-   -  non-latching button for requesting a bolus (""Bolus Button"")
-   -  non-latching button for releasing the POD from the CONTROLLER (""Release Mechanism Button"")"
-"TRS-119",7,"have a Start/Pause Button and a Bolus Button have different physical features in order to be distinguished from each other and uniquely identified."
-"TRS-120",7,"have a Start/Pause Button and a Bolus Button that have different physical features from the surrounding surfaces.  
-
-Note: to allow the USER to recognise/distinguish them more easily"
 "TRS-123",7,"have an actuation force in the range of [START_PAUSE_BUTTON_MIN_ACTUATION_FORCE] to [START_PAUSE_BUTTON_MAX_ACTUATION_FORCE]."
 "TRS-124",7,"have a shortest side having a minimum length of [START_PAUSE_BUTTON_SIZE]."
-"TRS-125",7,"have a Start/Pause Button and a Bolus Button that are placed considering a location and axis of movement which minimize or prevent off-centre loading upon button press."
 "TRS-126",7,"ensure that, when attached to the injection site, visual indicators can be seen from all directions."
 "TRS-127",7,"provide visual feedback (alarms, indicators and markings) that are correctly perceived (in compliance with IEC 60601-1-8, clause 6.3.2.2) at a distance of 1 m by a person having a visual acuity of ‘0’ on the log MAR scale or 6-6 (20/20) vision (corrected if necessary) and an ambient luminance of 100 lx to 1500 lx. 
 
@@ -1547,7 +1503,6 @@ THEN transit to SYSTEM_STATE_CHANGE_POD.
 
 Note: RTC accuracy as per [TRS-1921]"
 "TRS-1802",7,"have a label that is only visible when not coupled to a CONTROLLER."
-"TRS-1803",7,"have a label that is only visible when not coupled to a POD."
 "TRS-1810",7,", GIVEN it is in SYSTEM_STATE_IDLE,
 
 WHEN the elapsed time since the coupling of an unused POD reaches [basal_SETTLING_TIME], 
@@ -1665,20 +1620,8 @@ THEN transit to SYSTEM_STATE_PAUSE."
    -  circular
    -  square with corner radii allowed
    -  rectangular with corner radii allowed"
-"TRS-1851",7,"have one of the following shapes:
-
-   -  circular
-   -  square with corner radii allowed
-   -  rectangular with corner radii allowed"
-"TRS-1852",7,"have a shortest side having a minimum length of [bolus_BUTTON_SIZE]."
-"TRS-1854",7,"have a shortest side having a minimum length of [REUSABLE_TO_DISPOSABLE_BUTTON_SIZE]."
-"TRS-1855",7,"have an actuation force in the range of [bolus_BUTTON_MIN_ACTUATION_FORCE] to [bolus_BUTTON_MAX_ACTUATION_FORCE]."
-"TRS-1856",7,"achieve the displacement required to release the mechanical latch as per [TRS-1862] when a force is applied to it in the range of [RELEASE_BUTTON_MIN_ACTUATION_FORCE] to [RELEASE_BUTTON_MAX_ACTUATION_FORCE]."
 "TRS-1857",7,"have a minimum snap ratio of [START_PAUSE_BUTTON_SNAP_RATIO]."
-"TRS-1858",7,"have a minimum snap ratio of [bolus_BUTTON_SNAP_RATIO]."
 "TRS-1860",7,"shall have a maximum displacement of [START_PAUSE_ACT_TRAVEL] +/- [START_PAUSE_ACT_TRAVEL_TOLL]."
-"TRS-1861",7,"shall have a maximum displacement of [bolus_ACT_TRAVEL] +/- [bolus_ACT_TRAVEL_TOLL]."
-"TRS-1862",7,"shall have a displacement required to release the mechanical latch of minimum [RELEASE_ACT_TRAVEL]."
 "TRS-1863",7,"have an external physical interface to Automatic Test Equipment (ATE) via which it can be placed in ATE mode state for testing and programming."
 "TRS-1875",7,"have a watchdog timer that will reset the MCU in the event of temporary hardware faults or failures related to FW processes."
 "TRS-1879",7,"have the means to detect when the DEVICE is in contact with a flat surface."
@@ -1867,13 +1810,6 @@ Notes:
 "TRS-213",7,"deliver [basal_SET_PULSE_HOUR]*[THERAPY_CYCLE_DURATION] basal pulses on the ""HIGH"" dose configuration setting.   
 
 Note: 95% coverage and 95% confidence."
-"TRS-215",7,"have external surfaces and UI markings that withstand a minimum of [CLEANING_CYCLES] cleaning cycles using the following substances.  
-
-   -  Isopropyl alcohol, 90% (by volume) in water
-   -  Ethyl alcohol, 90% (by volume) in water
-   -  Sodium hypochlorite (household bleach), 8% (by volume) dilution in water
-   -  Dishwashing liquid, 1.5% (by volume) dilution in water
-   -  Hydrogen peroxide, 3% (by volume) dilution in water."
 "TRS-216",7,"have a drug inspection window that can withstand a force of [WINDOW_CRASH_FORCE]."
 "TRS-217",7,"pass a visual inspection and maintain BASIC SAFETY and ESSENTIAL PERFORMANCE after the drop test executed in accordance to the IEC60601-1 15.3.4.1:
 
@@ -1921,16 +1857,6 @@ All DEVICE parts shall be in compliance with this requirement and tested accordi
    -  CONTROLLER properly coupled with POD"
 "TRS-222",7,"pass a visual inspection and maintain BASIC SAFETY and ESSENTIAL PERFORMANCE after being placed in a circulating air oven at a temperature of 70 °C, for a period of 7 hrs, then permitted to cool to room temperature."
 "TRS-223",7,"have external enclosures (excluding any rubber insert) that do not show a remaining impression larger than 2 mm in diameter left by a metal ball of diameter 5 mm pressed against them with a force of 20 N for a time period of 1h at 75 °C +/- 2 °C."
-"TRS-224",7,"fulfil the following criteria after being exposed to shipping and transport testing performed in accordance with ASTM D4169:
-
-a)  All labels shall be legible
-b)  Sterile barrier(s) shall remain intact
-c)  Primary drug container shall remain unbroken
-d)  No USER-accessible sharp edges or small pieces shall be generated
-e)  DEVICE shall be able to deliver fluid when CONTROLLER and POD are coupled
-f )  No cosmetic damage to the POD
-g)  No cosmetic damage to the CONTROLLER"
-"TRS-225",7,"have leakage currents not exceeding the values of the maximum allowable Touch Current (100 μA in normal condition and 500 μA in single fault condition) as per IEC 60601-1. Values shall be verified according to classification and working voltage rating. The test shall be performed after humidity preconditioning according to IEC60601-1, Clause 5.7."
 "TRS-226",7,"have patient leakage and auxiliary currents that are less than or equal to the maximum values specified in Table 3 and 4 of IEC 60601-1, Section 8.7 under Normal and Single Fault Conditions. Values shall be verified according to classification and working voltage rating. The test shall be performed after humidity preconditioning according to IEC60601-1, Clause 5.7"
 "TRS-227",7,"have minimum Creepage Distances of 3.4 mm and minimum Air Clearances of 2.1 mm"
 "TRS-228",7,"withstand voltages applied during the Dielectric Strength test as per IEC60601-1, clause 8.8.3."
@@ -1978,7 +1904,6 @@ Note: The values above indicated refer to the maximum dimensions of the area whi
    - Component Part Number
    - Material Recycle Symbol and standardized code"
 "TRS-264",7,"have a flat or cylindrical area of minimum [DISPOSABLE_LABEL_AREA] to accommodate the DEVICE label with all the required information and markings."
-"TRS-265",7,"have a flat or cylindrical area of minimum [REUSABLE_LABEL_AREA] to accommodate the DEVICE label with all the required information and markings."
 "TRS-268",7,"have a visible UI for information and alarms that use appropriate indicators/graphical icons coloured as reported in Appendix#3."
 "TRS-333",7,"have a minimum lifetime of [THERAPY_CYCLE_DURATION] hours before needing to be replaced."
 "TRS-334",7,"require destructive means (i.e. breaking open, cutting, drilling etc.) to be used to gain access to the drug or drug dispensing componentry."
@@ -2162,12 +2087,8 @@ Note [TBD]: Possible test methods: ASTM F2255 (lap-shear), F2256 (T-peel), F2258
 "TRS-108",6,"Controller-Pod connection: Orientation"
 "TRS-109",6,"Controller-Pod connection: Misalignment"
 "TRS-113",6,"Controller-Pod connection: Unintentional decoupling"
-"TRS-117",6,"Controls: Presence"
-"TRS-119",6,"Controls: Distinction criteria"
-"TRS-120",6,"Controls: Differentiation from adjacent surfaces"
 "TRS-123",6,"Controls: Start/pause button actuation force"
 "TRS-124",6,"Controls: Start/pause button dimensions"
-"TRS-125",6,"Controls: Location"
 "TRS-126",6,"Information signals: Device orientation"
 "TRS-127",6,"Alarms: Visibility"
 "TRS-131",6,"Information signals: Therapy delivering indicator"
@@ -2336,7 +2257,6 @@ Note [TBD]: Possible test methods: ASTM F2255 (lap-shear), F2256 (T-peel), F2258
 "TRS-1800",6,"Device FSM: Transition  PAUSE --> IDLE (start/pause button pressed)"
 "TRS-1801",6,"Device FSM: Transition, Therapy Cycle duration expired"
 "TRS-1802",6,"Labelling and Marking: Visibility of Pod part label"
-"TRS-1803",6,"Labelling and Marking: Visibility of Controller part label"
 "TRS-1810",6,"Device FSM: Transition  IDLE --> basal (settling time expired)"
 "TRS-1811",6,"Device FSM: Transition  IDLE --> basal (basal pulse interval time expired)"
 "TRS-1812",6,"Device FSM: Transition  IDLE --> basal (basal pulse interval expired, pause >= basal_interval)"
@@ -2364,16 +2284,8 @@ Note [TBD]: Possible test methods: ASTM F2255 (lap-shear), F2256 (T-peel), F2258
 "TRS-1848",6,"Device: Security - pre-programmed"
 "TRS-1849",6,"Information signals: Location"
 "TRS-1850",6,"Controls: Start/pause button shape"
-"TRS-1851",6,"Controls: bolus button shape"
-"TRS-1852",6,"Controls: bolus button dimensions"
-"TRS-1854",6,"Controls: Release mechanism button dimensions"
-"TRS-1855",6,"Controls: bolus button actuation force"
-"TRS-1856",6,"Controls: Release button actuation force"
 "TRS-1857",6,"Controls: Start/pause button snap ratio"
-"TRS-1858",6,"Controls: bolus button snap ratio"
 "TRS-1860",6,"Controls: Start/pause button activation travel"
-"TRS-1861",6,"Controls: bolus button activation travel"
-"TRS-1862",6,"Controls: Release button activation travel"
 "TRS-1863",6,"Device: ATE interface"
 "TRS-1875",6,"Controller: Watchdog"
 "TRS-1879",6,"Device: Components - Skin Sensor"
@@ -2439,7 +2351,6 @@ Note [TBD]: Possible test methods: ASTM F2255 (lap-shear), F2256 (T-peel), F2258
 "TRS-209",6,"Operating conditions: Transient cold to warm"
 "TRS-210",6,"Storage conditions: Between-use"
 "TRS-213",6,"Pod: Durability - Drug delivery (basal)"
-"TRS-215",6,"Labelling and Marking: Cleaning Durability"
 "TRS-216",6,"Pod: Drug inspection window - Strength"
 "TRS-217",6,"IEC 60601: Drop testing"
 "TRS-218",6,"IEC 60601: Impact testing"
@@ -2448,8 +2359,6 @@ Note [TBD]: Possible test methods: ASTM F2255 (lap-shear), F2256 (T-peel), F2258
 "TRS-221",6,"IEC 60601: Vibration"
 "TRS-222",6,"IEC 60601: Mould stress relief"
 "TRS-223",6,"IEC 60601: Resistance to heat"
-"TRS-224",6,"Transport simulation"
-"TRS-225",6,"IEC 60601: Touch currents"
 "TRS-226",6,"IEC 60601: Patient leakage & auxiliary currents"
 "TRS-227",6,"IEC 60601: Creepage and clearance"
 "TRS-228",6,"IEC 60601: Dielectric strength"
@@ -2470,7 +2379,6 @@ Note [TBD]: Possible test methods: ASTM F2255 (lap-shear), F2256 (T-peel), F2258
 "TRS-260",6,"Small parts protection"
 "TRS-263",6,"Labelling and Marking: Moulding markings"
 "TRS-264",6,"Labelling and Marking: Pod label area"
-"TRS-265",6,"Labelling and Marking: Controller label area"
 "TRS-268",6,"Labelling: Graphical symbols"
 "TRS-333",6,"Pod: Duration of use"
 "TRS-334",6,"Device security: Anti-tamper (1)"
