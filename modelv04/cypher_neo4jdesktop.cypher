@@ -8,11 +8,11 @@
 LOAD CSV WITH HEADERS FROM 'file:///Metamodel_ClassNodes_Purpose.csv' AS line MERGE (:Metamodel  :RequirementClass  :Purpose  {Id: line.Id });
 LOAD CSV WITH HEADERS FROM 'file:///Metamodel_ClassNodes_Stakeholder.csv' AS line MERGE (:Metamodel  :RequirementClass  :Stakeholder  {Id: line.Id });
 LOAD CSV WITH HEADERS FROM 'file:///Metamodel_ClassNodes_Technical.csv' AS line MERGE (:Metamodel  :RequirementClass  :Technical  {Id: line.Id });
-LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropsNodes_Common.csv' AS line MERGE (:Metamodel  :Prop  :Common  {Id: line.Id, Name: line.Name, PropType: line.PropType, DisplayName: line.DisplayName, Modifiable: toBoolean(line.Modifiable), Required: toBoolean(line.Required) });
-LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropsNodes_Stakeholder.csv' AS line MERGE (:Metamodel  :Prop  :Stakeholder  {Id: line.Id, Name: line.Name, PropType: line.PropType, DisplayName: line.DisplayName, Modifiable: toBoolean(line.Modifiable), Required: toBoolean(line.Required) });
-LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropsNodes_Technical.csv' AS line MERGE (:Metamodel  :Prop  :Technical  {Id: line.Id, Name: line.Name, PropType: line.PropType, DisplayName: line.DisplayName, Modifiable: toBoolean(line.Modifiable), Required: toBoolean(line.Required) });
-LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropOptionsNodes_Stakeholder.csv' AS line MERGE (:Metamodel  :PropOption  :Stakeholder  {Id: line.Id, Seq: toInteger(line.Seq), Value: line.Value });
-LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropOptionsNodes_Technical.csv' AS line MERGE (:Metamodel  :PropOption  :Technical  {Id: line.Id, Seq: toInteger(line.Seq), Value: line.Value });
+LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropsNodes_Common.csv' AS line MERGE (:Metamodel  :Prop  :Common  {Id: line.Id, Name: line.Name, Type: line.Type, DisplayName: line.DisplayName, Modifiable: toBoolean(line.Modifiable), Required: toBoolean(line.Required) });
+LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropsNodes_Stakeholder.csv' AS line MERGE (:Metamodel  :Prop  :Stakeholder  {Id: line.Id, Name: line.Name, Type: line.Type, DisplayName: line.DisplayName, Modifiable: toBoolean(line.Modifiable), Required: toBoolean(line.Required) });
+LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropsNodes_Technical.csv' AS line MERGE (:Metamodel  :Prop  :Technical  {Id: line.Id, Name: line.Name, Type: line.Type, DisplayName: line.DisplayName, Modifiable: toBoolean(line.Modifiable), Required: toBoolean(line.Required) });
+LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropOptionsNodes_Stakeholder.csv' AS line MERGE (:Metamodel  :PropOption  :Stakeholder  {Id: line.Id, Seq: toInteger(line.Seq), Value: line.Value, Level: toInteger(line.Level) });
+LOAD CSV WITH HEADERS FROM 'file:///Metamodel_PropOptionsNodes_Technical.csv' AS line MERGE (:Metamodel  :PropOption  :Technical  {Id: line.Id, Seq: toInteger(line.Seq), Value: line.Value, Level: toInteger(line.Level) });
 
 // METAMODEL RELS
 // CLASS DEPENDENCIES
@@ -74,3 +74,5 @@ DROP CONSTRAINT UniqueIdConstraint IF EXISTS;
 
 // Create CONSTRAINTs
 CREATE CONSTRAINT UniqueIdConstraint IF NOT EXISTS FOR (node:RequirementInst) REQUIRE node.Id IS UNIQUE;
+
+
