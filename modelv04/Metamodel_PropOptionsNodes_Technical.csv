@@ -1,0 +1,39 @@
+Id,Value,PropScope,Seq
+"22","DEVICE","Technical",0
+"23","CONTROLLER","Technical",1
+"24","POD","Technical",2
+"25","START_PAUSE BUTTON","Technical",3
+"26","SKIN NEEDLE","Technical",4
+"27","NEEDLE SHIELD","Technical",5
+"28","SEPTUM NEEDLE","Technical",6
+"29","FLUIDIC PATHWAY","Technical",7
+"30","CONTAINER","Technical",8
+"31","MOTOR DRIVE ASSY","Technical",9
+"32","PCBA","Technical",10
+"33","ENCODER","Technical",11
+"34","ADHESIVE PATCH","Technical",12
+"35","BOLUS BUTTON","Technical",13
+"36","RELEASE MECHANISM BUTTON","Technical",14
+"37","KITTED DEVICE","Technical",15
+"55","Purpose","Technical",0
+"56","Safety","Technical",1
+"57","Markets & Regulations","Technical",2
+"58","Capability & Performance","Technical",3
+"59","UI & Ease of use","Technical",4
+"60","Architecture And Design Decisions","Technical",5
+"61","Characteristics & Properties","Technical",6
+"62","Operation& Function","Technical",7
+"63","Function And Performance","Technical",8
+"64","UI","Technical",9
+"65","Normative and Applicable Standard-derived","Technical",10
+"66","Environmental","Technical",11
+"67","Manufacturing","Technical",12
+"68","Labelling And Marking","Technical",13
+"69","Physical And Aesthetical","Technical",14
+"70","Security","Technical",15
+"71","Packaging, Handling, Shipping And Transportation","Technical",16
+"72","Trace","Technical",1
+"73","Inspection","Technical",2
+"74","Demonstration","Technical",3
+"75","Test","Technical",4
+"76","Analysis","Technical",5

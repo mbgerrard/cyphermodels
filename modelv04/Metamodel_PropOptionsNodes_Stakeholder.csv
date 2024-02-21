@@ -1,0 +1,26 @@
+Id,Value,PropScope,Seq
+"14","STAKEHOLDERS","Stakeholder",0
+"15","CUSTOMER","Stakeholder",1
+"16","SUPPLIER","Stakeholder",2
+"17","PATIENT-USER","Stakeholder",3
+"18","MKT DEPT","Stakeholder",4
+"19","CLINICAL DEPT","Stakeholder",5
+"20","PRODUCTION DEPT","Stakeholder",6
+"21","RA DEPT","Stakeholder",7
+"38","Purpose","Stakeholder",0
+"39","Safety","Stakeholder",1
+"40","Markets & Regulations","Stakeholder",2
+"41","Capability & Performance","Stakeholder",3
+"42","UI & Ease of use","Stakeholder",4
+"43","Architecture And Design Decisions","Stakeholder",5
+"44","Characteristics & Properties","Stakeholder",6
+"45","Operation& Function","Stakeholder",7
+"46","Function And Performance","Stakeholder",8
+"47","UI","Stakeholder",9
+"48","Normative and Applicable Standard-derived","Stakeholder",10
+"49","Environmental","Stakeholder",11
+"50","Manufacturing","Stakeholder",12
+"51","Labelling And Marking","Stakeholder",13
+"52","Physical And Aesthetical","Stakeholder",14
+"53","Security","Stakeholder",15
+"54","Packaging, Handling, Shipping And Transportation","Stakeholder",16

@@ -1,0 +1,2 @@
+Id,NodeClass,CypherNode
+"100","Purpose","MERGE (:Metamodel :RequirementClass :Purpose {Id: '100'});"

@@ -1,0 +1,5 @@
+Id,Name,PropType,Scope,DisplayName,Domain,Modifiable,Required
+"6","Title","FREE_TEXT","Common","Title","Metamodel",False,True
+"7","Specification","FREE_TEXT","Common","Specification","Metamodel",False,True
+"8","Comments","FREE_TEXT","Common","Comments","Metamodel",False,False
+"9","Source","FREE_TEXT","Common","Source","Metamodel",False,False

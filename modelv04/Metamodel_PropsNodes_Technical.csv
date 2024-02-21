@@ -1,0 +1,7 @@
+Id,Name,PropType,Scope,DisplayName,Domain,Modifiable,Required
+"2","Components","TREE","Technical","Components","Metamodel",False,True
+"4","TechnicalCategory","SELECT_TEXT","Technical","Category","Metamodel",False,True
+"5","VerificationMethod","SELECT_TEXT","Technical","Verification Method","Metamodel",False,True
+"11","RCM","TAG","Technical","RCM","Metamodel",False,True
+"12","DesignControl","TAG","Technical","Design Control","Metamodel",False,True
+"13","Usability","TAG","Technical","Usability","Metamodel",False,True

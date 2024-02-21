@@ -1,0 +1,4 @@
+Id,Name,PropType,Scope,DisplayName,Domain,Modifiable,Required
+"1","Stakeholders","TREE","Stakeholder","Stakeholders","Metamodel",False,True
+"3","StakeholderCategory","SELECT_TEXT","Stakeholder","Category","Metamodel",False,True
+"10","UseErrorMitigation","TAG","Stakeholder","Use Error Mitigation","Metamodel",True,True
