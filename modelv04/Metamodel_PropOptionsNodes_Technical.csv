@@ -1,39 +1,39 @@
-Id,Value,PropScope,Level,Seq
-"209","DEVICE","Technical",0,0
-"210","CONTROLLER","Technical",-1,1
-"211","POD","Technical",-1,2
-"212","START_PAUSE BUTTON","Technical",-2,3
-"213","SKIN NEEDLE","Technical",-2,4
-"214","NEEDLE SHIELD","Technical",-2,5
-"215","SEPTUM NEEDLE","Technical",-2,6
-"216","FLUIDIC PATHWAY","Technical",-2,7
-"217","CONTAINER","Technical",-2,8
-"218","MOTOR DRIVE ASSY","Technical",-2,9
-"219","PCBA","Technical",-2,10
-"220","ENCODER","Technical",-2,11
-"221","ADHESIVE PATCH","Technical",-2,12
-"222","BOLUS BUTTON","Technical",-2,13
-"223","RELEASE MECHANISM BUTTON","Technical",-2,14
-"224","KITTED DEVICE","Technical",-1,15
-"242","Purpose","Technical",0,0
-"243","Safety","Technical",0,1
-"244","Markets & Regulations","Technical",0,2
-"245","Capability & Performance","Technical",0,3
-"246","UI & Ease of use","Technical",0,4
-"247","Architecture And Design Decisions","Technical",0,5
-"248","Characteristics & Properties","Technical",0,6
-"249","Operation& Function","Technical",0,7
-"250","Function And Performance","Technical",0,8
-"251","UI","Technical",0,9
-"252","Normative and Applicable Standard-derived","Technical",0,10
-"253","Environmental","Technical",0,11
-"254","Manufacturing","Technical",0,12
-"255","Labelling And Marking","Technical",0,13
-"256","Physical And Aesthetical","Technical",0,14
-"257","Security","Technical",0,15
-"258","Packaging, Handling, Shipping And Transportation","Technical",0,16
-"259","Trace","Technical",0,1
-"260","Inspection","Technical",0,2
-"261","Demonstration","Technical",0,3
-"262","Test","Technical",0,4
-"263","Analysis","Technical",0,5
+Id,Value,PropScope,Seq
+"209","DEVICE","Technical",0
+"210","CONTROLLER","Technical",1
+"211","POD","Technical",2
+"212","START_PAUSE BUTTON","Technical",3
+"213","SKIN NEEDLE","Technical",4
+"214","NEEDLE SHIELD","Technical",5
+"215","SEPTUM NEEDLE","Technical",6
+"216","FLUIDIC PATHWAY","Technical",7
+"217","CONTAINER","Technical",8
+"218","MOTOR DRIVE ASSY","Technical",9
+"219","PCBA","Technical",10
+"220","ENCODER","Technical",11
+"221","ADHESIVE PATCH","Technical",12
+"222","BOLUS BUTTON","Technical",13
+"223","RELEASE MECHANISM BUTTON","Technical",14
+"224","KITTED DEVICE","Technical",15
+"242","Purpose","Technical",0
+"243","Safety","Technical",1
+"244","Markets & Regulations","Technical",2
+"245","Capability & Performance","Technical",3
+"246","UI & Ease of use","Technical",4
+"247","Architecture And Design Decisions","Technical",5
+"248","Characteristics & Properties","Technical",6
+"249","Operation& Function","Technical",7
+"250","Function And Performance","Technical",8
+"251","UI","Technical",9
+"252","Normative and Applicable Standard-derived","Technical",10
+"253","Environmental","Technical",11
+"254","Manufacturing","Technical",12
+"255","Labelling And Marking","Technical",13
+"256","Physical And Aesthetical","Technical",14
+"257","Security","Technical",15
+"258","Packaging, Handling, Shipping And Transportation","Technical",16
+"259","Trace","Technical",1
+"260","Inspection","Technical",2
+"261","Demonstration","Technical",3
+"262","Test","Technical",4
+"263","Analysis","Technical",5

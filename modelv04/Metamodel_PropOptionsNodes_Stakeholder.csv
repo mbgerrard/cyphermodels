@@ -1,26 +1,26 @@
-Id,Value,PropScope,Level,Seq
-"201","STAKEHOLDERS","Stakeholder",0,0
-"202","CUSTOMER","Stakeholder",-1,1
-"203","SUPPLIER","Stakeholder",-1,2
-"204","PATIENT-USER","Stakeholder",-2,3
-"205","MKT DEPT","Stakeholder",-2,4
-"206","CLINICAL DEPT","Stakeholder",-2,5
-"207","PRODUCTION DEPT","Stakeholder",-2,6
-"208","RA DEPT","Stakeholder",-2,7
-"225","Purpose","Stakeholder",0,0
-"226","Safety","Stakeholder",0,1
-"227","Markets & Regulations","Stakeholder",0,2
-"228","Capability & Performance","Stakeholder",0,3
-"229","UI & Ease of use","Stakeholder",0,4
-"230","Architecture And Design Decisions","Stakeholder",0,5
-"231","Characteristics & Properties","Stakeholder",0,6
-"232","Operation& Function","Stakeholder",0,7
-"233","Function And Performance","Stakeholder",0,8
-"234","UI","Stakeholder",0,9
-"235","Normative and Applicable Standard-derived","Stakeholder",0,10
-"236","Environmental","Stakeholder",0,11
-"237","Manufacturing","Stakeholder",0,12
-"238","Labelling And Marking","Stakeholder",0,13
-"239","Physical And Aesthetical","Stakeholder",0,14
-"240","Security","Stakeholder",0,15
-"241","Packaging, Handling, Shipping And Transportation","Stakeholder",0,16
+Id,Value,PropScope,Seq
+"201","STAKEHOLDERS","Stakeholder",0
+"202","CUSTOMER","Stakeholder",1
+"203","SUPPLIER","Stakeholder",2
+"204","PATIENT-USER","Stakeholder",3
+"205","MKT DEPT","Stakeholder",4
+"206","CLINICAL DEPT","Stakeholder",5
+"207","PRODUCTION DEPT","Stakeholder",6
+"208","RA DEPT","Stakeholder",7
+"225","Purpose","Stakeholder",0
+"226","Safety","Stakeholder",1
+"227","Markets & Regulations","Stakeholder",2
+"228","Capability & Performance","Stakeholder",3
+"229","UI & Ease of use","Stakeholder",4
+"230","Architecture And Design Decisions","Stakeholder",5
+"231","Characteristics & Properties","Stakeholder",6
+"232","Operation& Function","Stakeholder",7
+"233","Function And Performance","Stakeholder",8
+"234","UI","Stakeholder",9
+"235","Normative and Applicable Standard-derived","Stakeholder",10
+"236","Environmental","Stakeholder",11
+"237","Manufacturing","Stakeholder",12
+"238","Labelling And Marking","Stakeholder",13
+"239","Physical And Aesthetical","Stakeholder",14
+"240","Security","Stakeholder",15
+"241","Packaging, Handling, Shipping And Transportation","Stakeholder",16
