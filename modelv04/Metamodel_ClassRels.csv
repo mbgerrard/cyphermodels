@@ -1,5 +1,5 @@
-FromId,ToId,CypherRel
-"102","101","MATCH (a), (b) WHERE a.Id = '102' AND b.Id = '101' MERGE (a)-[r:DEPENDS_ON{Domain: 'Metamodel', FromValidMin: 0, FromValidMax: -1, ToValidMin: 0, ToValidMax: -1, Sense: true}]->(b);"
-"102","102","MATCH (a), (b) WHERE a.Id = '102' AND b.Id = '102' MERGE (a)-[r:DEPENDS_ON{Domain: 'Metamodel', FromValidMin: 0, FromValidMax: -1, ToValidMin: 0, ToValidMax: -1, Sense: true}]->(b);"
-"101","101","MATCH (a), (b) WHERE a.Id = '101' AND b.Id = '101' MERGE (a)-[r:DEPENDS_ON{Domain: 'Metamodel', FromValidMin: 0, FromValidMax: -1, ToValidMin: 0, ToValidMax: -1, Sense: true}]->(b);"
-"101","100","MATCH (a), (b) WHERE a.Id = '101' AND b.Id = '100' MERGE (a)-[r:DEPENDS_ON{Domain: 'Metamodel', FromValidMin: 0, FromValidMax: -1, ToValidMin: 0, ToValidMax: -1, Sense: true}]->(b);"
+FromId,ToId
+"102","101"
+"102","102"
+"101","101"
+"101","100"

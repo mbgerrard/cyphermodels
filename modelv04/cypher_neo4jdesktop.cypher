@@ -74,5 +74,3 @@ DROP CONSTRAINT UniqueIdConstraint IF EXISTS;
 
 // Create CONSTRAINTs
 CREATE CONSTRAINT UniqueIdConstraint IF NOT EXISTS FOR (node:RequirementInst) REQUIRE node.Id IS UNIQUE;
-
-

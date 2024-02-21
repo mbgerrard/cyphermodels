@@ -1,2 +1,2 @@
-Id,NodeClass,CypherNode
-"101","Stakeholder","MERGE (:Metamodel :RequirementClass :Stakeholder {Id: '101'});"
+Id,NodeClass
+"101","Stakeholder"
