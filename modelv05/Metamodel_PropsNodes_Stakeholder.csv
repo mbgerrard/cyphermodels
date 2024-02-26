@@ -1,0 +1,4 @@
+Id,Name,Type,Scope,DisplayName,Modifiable,Required
+"1","Stakeholders","TREE","Stakeholder","Stakeholders",False,True
+"3","StakeholderCategory","SELECT_TEXT","Stakeholder","Category",False,True
+"10","UseErrorMitigation","TAG","Stakeholder","Use Error Mitigation",True,True

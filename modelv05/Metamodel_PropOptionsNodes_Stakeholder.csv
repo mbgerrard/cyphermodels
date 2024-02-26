@@ -1,0 +1,22 @@
+Id,Value,PropScope,Seq
+"201","STAKEHOLDERS","Stakeholder",0
+"202","CUSTOMER","Stakeholder",1
+"203","SUPPLIER","Stakeholder",2
+"204","USER","Stakeholder",3
+"221","Purpose","Stakeholder",0
+"222","Safety","Stakeholder",1
+"223","Markets & Regulations","Stakeholder",2
+"224","Capability & Performance","Stakeholder",3
+"225","UI & Ease of use","Stakeholder",4
+"226","Architecture And Design Decisions","Stakeholder",5
+"227","Characteristics & Properties","Stakeholder",6
+"228","Operation& Function","Stakeholder",7
+"229","Function And Performance","Stakeholder",8
+"230","UI","Stakeholder",9
+"231","Normative and Applicable Standard-derived","Stakeholder",10
+"232","Environmental","Stakeholder",11
+"233","Manufacturing","Stakeholder",12
+"234","Labelling And Marking","Stakeholder",13
+"235","Physical And Aesthetical","Stakeholder",14
+"236","Security","Stakeholder",15
+"237","Packaging, Handling, Shipping And Transportation","Stakeholder",16

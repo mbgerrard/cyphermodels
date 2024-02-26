@@ -1,0 +1,26 @@
+Id,Value,PropScope,Seq
+"211","DEVICE","Technical",0
+"212","SUBSYS_A","Technical",1
+"213","SUBSYS_B","Technical",2
+"241","Purpose","Technical",0
+"242","Safety","Technical",1
+"243","Markets & Regulations","Technical",2
+"244","Capability & Performance","Technical",3
+"245","UI & Ease of use","Technical",4
+"246","Architecture And Design Decisions","Technical",5
+"247","Characteristics & Properties","Technical",6
+"248","Operation& Function","Technical",7
+"249","Function And Performance","Technical",8
+"250","UI","Technical",9
+"251","Normative and Applicable Standard-derived","Technical",10
+"252","Environmental","Technical",11
+"253","Manufacturing","Technical",12
+"254","Labelling And Marking","Technical",13
+"255","Physical And Aesthetical","Technical",14
+"256","Security","Technical",15
+"257","Packaging, Handling, Shipping And Transportation","Technical",16
+"260","Trace","Technical",1
+"261","Inspection","Technical",2
+"262","Demonstration","Technical",3
+"263","Test","Technical",4
+"264","Analysis","Technical",5

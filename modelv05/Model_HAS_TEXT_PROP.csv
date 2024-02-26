@@ -1,0 +1,13 @@
+FromId,ToId,Value
+"0",6,"Device Purpose"
+"301",6,"Title or Short Name for Stakeholder requirement"
+"401",6,"Title or Short Name for Technical requirement"
+"0",7,"be a… [short description of the ultimate purpose or use of the Device]."
+"301",7,"be able to… [description of how the Stakeholder is empowered or enabled by the Device]."
+"401",7,"[objective, verifiable description of what function or property the specified Component must have]."
+"0",8,"Comments on the Purpose statement."
+"301",8,"Comments on the requirement."
+"401",8,"Comments on the requirement."
+"0",9,"Source of the Purpose statement."
+"301",9,"Source of the requirement, e.g. reference to specific stakeholder interview responses."
+"401",9,"Source of any decisions affecting content of the requirement."
