@@ -1,3 +1,4 @@
+Cypher
 // HEADER
 // Version v05
 
@@ -38,9 +39,9 @@ MERGE (md:Metadata) SET md.Id = 'md' SET md.NextId = 1001;
 
 // MODEL NODES
 
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/mbgerrard/cyphermodels/main/modelv05/Model_PurposeReqs.csv' AS line MERGE (:Model :RequirementInst :Purpose  {Id: line.Id, Seq: toInteger(line.Seq)});
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/mbgerrard/cyphermodels/main/modelv05/Model_StakeholderReqs.csv' AS line MERGE (:Model :RequirementInst :Stakeholder  {Id: line.Id, Seq: toInteger(line.Seq)});
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/mbgerrard/cyphermodels/main/modelv05/Model_TechnicalReqs.csv' AS line MERGE (:Model :RequirementInst :Technical  {Id: line.Id, Seq: toInteger(line.Seq)});
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/mbgerrard/cyphermodels/main/modelv05/Model_PurposeReqs.csv' AS line MERGE (:Model :RequirementInst :Purpose  {Id: line.Id, Seq: toInteger(line.Seq), Suspect: toBoolean(line.Suspect)});
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/mbgerrard/cyphermodels/main/modelv05/Model_StakeholderReqs.csv' AS line MERGE (:Model :RequirementInst :Stakeholder  {Id: line.Id, Seq: toInteger(line.Seq), Suspect: toBoolean(line.Suspect)});
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/mbgerrard/cyphermodels/main/modelv05/Model_TechnicalReqs.csv' AS line MERGE (:Model :RequirementInst :Technical  {Id: line.Id, Seq: toInteger(line.Seq), Suspect: toBoolean(line.Suspect)});
 
 
 // MODEL RELS
