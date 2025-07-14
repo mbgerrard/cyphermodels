@@ -1,4 +1,4 @@
-"label","type","seq","obsolete","suspect","uid","title","subject","specification","comments","source","displayId","category","verificationMethod","riskControl"
+"labels","type","seq","obsolete","suspect","uid","title","subject","specification","comments","source","displayId","category","verificationMethod","riskControl"
 "Requirement","Technical",0,False,False,,"fv0336","fv0009","fv0717","fv1098","fv1479","360","fv0029","fv0066","fv0071"
 "Requirement","Technical",1,False,False,,"fv0337","fv0009","fv0718","fv1099","fv1480","361","fv0029","fv0064","fv0070"
 "Requirement","Technical",2,False,False,,"fv0338","fv0009","fv0719","fv1100","fv1481","362","fv0029","fv0045","fv0070"

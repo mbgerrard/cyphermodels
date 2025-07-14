@@ -1,2 +1,2 @@
-"label","type","seq","obsolete","suspect","uid"
+"labels","type","seq","obsolete","suspect","uid"
 "Requirement","STRING","INTEGER","BOOLEAN","BOOLEAN","STRING"

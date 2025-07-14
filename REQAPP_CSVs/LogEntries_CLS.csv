@@ -1,2 +1,2 @@
-"label","name","displayName","uid","user","code","msg","timestamp"
+"labels","name","displayName","uid","user","code","msg","timestamp"
 "LogEntry","Class","STRING","STRING","STRING","STRING","STRING","TIMESTAMP"
