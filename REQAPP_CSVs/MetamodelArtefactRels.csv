@@ -1,0 +1,7 @@
+"startArtefactType","endArtefactType","type","constraints"
+"Stakeholder","Purpose","DERIVED_FROM","None"
+"Stakeholder","Stakeholder","DERIVED_FROM","ParentNotDescendantBySAMEType"
+"Technical","Stakeholder","DERIVED_FROM","ChildIsTopLevel"
+"Technical","Technical","DECOMPOSED_FROM","ParentSpecsParentComponent"
+"Technical","Stakeholder","REFERENCES","ParentNotDescendantByANYType"
+"Technical","Technical","REFERENCES","ParentNotDescendantByANYType"

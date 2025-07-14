@@ -1,0 +1,2 @@
+"domain","label","name","type","artefactDisplayName","constraints"
+"REQ","MetaRequirement","Class","STRING","STRING","LIST OF STRING"

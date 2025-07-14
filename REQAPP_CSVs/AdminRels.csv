@@ -1,0 +1,4 @@
+"fromLabelName","toLabelName","type"
+"Admin|AppRoot","Admin|NodeClasses","HAS_NODECLASSES"
+"Admin|AppRoot","Admin|BaseMetamodel","HAS_BASEMETAMODEL"
+"Admin|AppRoot","Admin|Domains","HAS_DOMAINS"

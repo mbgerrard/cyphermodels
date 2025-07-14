@@ -1,0 +1,8 @@
+"label","name"
+"REQ","Artefacts"
+"REQ","Root"
+"REQ","MetamodelTemplates"
+"REQ","MMT01"
+"REQ","ModelTemplates"
+"REQ","MT01"
+"REQ","MT02"

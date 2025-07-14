@@ -1,0 +1,4 @@
+"domain","label","name","type","artefactDisplayName","constraints"
+"REQ","MetaRequirement","Instance","Purpose","Purpose","Singleton"
+"REQ","MetaRequirement","Instance","Stakeholder","Stakeholder Need","MinimumOneHardParent"
+"REQ","MetaRequirement","Instance","Technical","Technical Requirement","MinimumOneHardParent"

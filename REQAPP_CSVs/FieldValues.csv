@@ -1,0 +1,2554 @@
+"label","value","fieldValueSetId","fieldValueId","seq","parentId"
+"FieldValue","STAKEHOLDERS","SN_subject","fv0001",0,"n/a"
+"FieldValue","SUPPLIER","SN_subject","fv0002",1,"fv0001"
+"FieldValue","RA DEPT","SN_subject","fv0003",2,"fv0002"
+"FieldValue","PRODUCTION DEPT","SN_subject","fv0004",3,"fv0002"
+"FieldValue","CLINICAL DEPT","SN_subject","fv0005",4,"fv0002"
+"FieldValue","MKT DEPT","SN_subject","fv0006",5,"fv0002"
+"FieldValue","CUSTOMER","SN_subject","fv0007",6,"fv0001"
+"FieldValue","PATIENT-USER","SN_subject","fv0008",7,"fv0007"
+"FieldValue","DEVICE","TR_subject","fv0009",0,"n/a"
+"FieldValue","CONTROLLER","TR_subject","fv0010",1,"fv0009"
+"FieldValue","PCBA","TR_subject","fv0011",2,"fv0010"
+"FieldValue","BOLUS BUTTON","TR_subject","fv0012",3,"fv0010"
+"FieldValue","ENCODER","TR_subject","fv0013",4,"fv0010"
+"FieldValue","MOTOR DRIVE ASSY","TR_subject","fv0014",5,"fv0010"
+"FieldValue","RELEASE MECHANISM BUTTON","TR_subject","fv0015",6,"fv0010"
+"FieldValue","START_PAUSE BUTTON","TR_subject","fv0016",7,"fv0010"
+"FieldValue","POD","TR_subject","fv0017",8,"fv0009"
+"FieldValue","CONTAINER","TR_subject","fv0018",9,"fv0017"
+"FieldValue","SKIN NEEDLE","TR_subject","fv0019",10,"fv0017"
+"FieldValue","FLUIDIC PATHWAY","TR_subject","fv0020",11,"fv0017"
+"FieldValue","NEEDLE SHIELD","TR_subject","fv0021",12,"fv0017"
+"FieldValue","SEPTUM NEEDLE","TR_subject","fv0022",13,"fv0017"
+"FieldValue","ADHESIVE PATCH","TR_subject","fv0023",14,"fv0017"
+"FieldValue","KITTED DEVICE","TR_subject","fv0024",15,"fv0009"
+"FieldValue","Packaging, Handling, Shipping And Transportation","SN_category","fv0025",0,"n/a"
+"FieldValue","Labelling And Marking","SN_category","fv0026",1,"n/a"
+"FieldValue","Environmental","SN_category","fv0027",2,"n/a"
+"FieldValue","Physical And Aesthetical","SN_category","fv0028",3,"n/a"
+"FieldValue","Architecture And Design Decisions","SN_category","fv0029",4,"n/a"
+"FieldValue","Normative and Applicable Standard-derived","SN_category","fv0030",5,"n/a"
+"FieldValue","Safety","SN_category","fv0031",6,"n/a"
+"FieldValue","Manufacturing","SN_category","fv0032",7,"n/a"
+"FieldValue","Capability & Performance","SN_category","fv0033",8,"n/a"
+"FieldValue","Operation& Function","SN_category","fv0034",9,"n/a"
+"FieldValue","Markets & Regulations","SN_category","fv0035",10,"n/a"
+"FieldValue","UI","SN_category","fv0036",11,"n/a"
+"FieldValue","Function And Performance","SN_category","fv0037",12,"n/a"
+"FieldValue","Characteristics & Properties","SN_category","fv0038",13,"n/a"
+"FieldValue","Security","SN_category","fv0039",14,"n/a"
+"FieldValue","Purpose","SN_category","fv0040",15,"n/a"
+"FieldValue","UI & Ease of use","SN_category","fv0041",16,"n/a"
+"FieldValue","USER TEST","SN_validmethod","fv0042",0,"n/a"
+"FieldValue","QUESTIONNAIRE","SN_validmethod","fv0043",1,"n/a"
+"FieldValue","INTERVIEW","SN_validmethod","fv0044",2,"n/a"
+"FieldValue","ANALYSIS","SN_validmethod","fv0045",3,"n/a"
+"FieldValue","UI & Ease of use","TR_category","fv0046",0,"n/a"
+"FieldValue","Manufacturing","TR_category","fv0047",1,"n/a"
+"FieldValue","Labelling And Marking","TR_category","fv0048",2,"n/a"
+"FieldValue","Function And Performance","TR_category","fv0049",3,"n/a"
+"FieldValue","UI","TR_category","fv0050",4,"n/a"
+"FieldValue","Security","TR_category","fv0051",5,"n/a"
+"FieldValue","Normative and Applicable Standard-derived","TR_category","fv0052",6,"n/a"
+"FieldValue","Capability & Performance","TR_category","fv0053",7,"n/a"
+"FieldValue","Operation& Function","TR_category","fv0054",8,"n/a"
+"FieldValue","Physical And Aesthetical","TR_category","fv0055",9,"n/a"
+"FieldValue","Architecture And Design Decisions","TR_category","fv0056",10,"n/a"
+"FieldValue","Environmental","TR_category","fv0057",11,"n/a"
+"FieldValue","Safety","TR_category","fv0058",12,"n/a"
+"FieldValue","Purpose","TR_category","fv0059",13,"n/a"
+"FieldValue","Characteristics & Properties","TR_category","fv0060",14,"n/a"
+"FieldValue","Packaging, Handling, Shipping And Transportation","TR_category","fv0061",15,"n/a"
+"FieldValue","Markets & Regulations","TR_category","fv0062",16,"n/a"
+"FieldValue","Analysis","TR_verifmethod","fv0063",0,"n/a"
+"FieldValue","Demonstration","TR_verifmethod","fv0064",1,"n/a"
+"FieldValue","Trace","TR_verifmethod","fv0065",2,"n/a"
+"FieldValue","Test","TR_verifmethod","fv0066",3,"n/a"
+"FieldValue","Inspection","TR_verifmethod","fv0067",4,"n/a"
+"FieldValue","true","SN_userneed","fv0068",0,"n/a"
+"FieldValue","false","SN_userneed","fv0069",1,"n/a"
+"FieldValue","true","TR_riskcontrol","fv0070",0,"n/a"
+"FieldValue","false","TR_riskcontrol","fv0071",1,"n/a"
+"FieldValue","Device Purpose","0_title","fv0072",0,"n/a"
+"FieldValue","be an on-body drug delivery device suitable for home use with multiple drug formulations.","0_specification","fv0073",0,"n/a"
+"FieldValue","Purpose comments text","0_comments","fv0074",0,"n/a"
+"FieldValue","Purpose source text","0_source","fv0075",0,"n/a"
+"FieldValue","Drug access","301_title","fv0076",0,"n/a"
+"FieldValue","Fixed drug delivery parameters","302_title","fv0077",0,"n/a"
+"FieldValue","Sales territories","303_title","fv0078",0,"n/a"
+"FieldValue","Architecture","308_title","fv0079",0,"n/a"
+"FieldValue","Prevention of needle-stick injuries","305_title","fv0080",0,"n/a"
+"FieldValue","Needle safety","339_title","fv0081",0,"n/a"
+"FieldValue","Delivery conditions","345_title","fv0082",0,"n/a"
+"FieldValue","Device noise level","309_title","fv0083",0,"n/a"
+"FieldValue","Drug maximum volume","311_title","fv0084",0,"n/a"
+"FieldValue","Basal flow rate","313_title","fv0085",0,"n/a"
+"FieldValue","Attachment to the body","306_title","fv0086",0,"n/a"
+"FieldValue","Convenient and intuitive operation","307_title","fv0087",0,"n/a"
+"FieldValue","Ease of use","346_title","fv0088",0,"n/a"
+"FieldValue","Bolus button","347_title","fv0089",0,"n/a"
+"FieldValue","Bolus availability","348_title","fv0090",0,"n/a"
+"FieldValue","Bolus delivery feedback","349_title","fv0091",0,"n/a"
+"FieldValue","Device status indication","350_title","fv0092",0,"n/a"
+"FieldValue","Administration completion feedback","351_title","fv0093",0,"n/a"
+"FieldValue","Usability","352_title","fv0094",0,"n/a"
+"FieldValue","Injection needle diameter","325_title","fv0095",0,"n/a"
+"FieldValue","Sterilization","326_title","fv0096",0,"n/a"
+"FieldValue","Stopping conditions","331_title","fv0097",0,"n/a"
+"FieldValue","Injection site","334_title","fv0098",0,"n/a"
+"FieldValue","Pause function","337_title","fv0099",0,"n/a"
+"FieldValue","Needle protection irreversible actuation","341_title","fv0100",0,"n/a"
+"FieldValue","Needle protection not reversible","343_title","fv0101",0,"n/a"
+"FieldValue","Device storage shelf life","329_title","fv0102",0,"n/a"
+"FieldValue","Dosing performance","304_title","fv0103",0,"n/a"
+"FieldValue","Drug viscosity","310_title","fv0104",0,"n/a"
+"FieldValue","Air management","312_title","fv0105",0,"n/a"
+"FieldValue","Minimum delivery increment","314_title","fv0106",0,"n/a"
+"FieldValue","Dose accuracy - basal","315_title","fv0107",0,"n/a"
+"FieldValue","Boluses quantity","316_title","fv0108",0,"n/a"
+"FieldValue","Bolus volume","317_title","fv0109",0,"n/a"
+"FieldValue","Missed volume","318_title","fv0110",0,"n/a"
+"FieldValue","Dose accuracy - bolus","319_title","fv0111",0,"n/a"
+"FieldValue","Adherence time","320_title","fv0112",0,"n/a"
+"FieldValue","Self-sufficiency","321_title","fv0113",0,"n/a"
+"FieldValue","Ingress protection","322_title","fv0114",0,"n/a"
+"FieldValue","Dose configurations","324_title","fv0115",0,"n/a"
+"FieldValue","Device dimensions","328_title","fv0116",0,"n/a"
+"FieldValue","Skin adherence","335_title","fv0117",0,"n/a"
+"FieldValue","Needle insertion","332_title","fv0118",0,"n/a"
+"FieldValue","Needle insertion period","333_title","fv0119",0,"n/a"
+"FieldValue","Bolus availability quantity","336_title","fv0120",0,"n/a"
+"FieldValue","Needle injection length","338_title","fv0121",0,"n/a"
+"FieldValue","Pre-filling","323_title","fv0122",0,"n/a"
+"FieldValue","Delivery profile settings","327_title","fv0123",0,"n/a"
+"FieldValue","Drug access","340_title","fv0124",0,"n/a"
+"FieldValue","Needle protection compliance","342_title","fv0125",0,"n/a"
+"FieldValue","Dose configuration management","344_title","fv0126",0,"n/a"
+"FieldValue","Device safety compliance","330_title","fv0127",0,"n/a"
+"FieldValue","be able to demonstrate that the USER cannot gain direct access to the drug.","301_specification","fv0128",0,"n/a"
+"FieldValue","be able to demonstrate that the USER cannot modify the preset drug delivery parameters.","302_specification","fv0129",0,"n/a"
+"FieldValue","be able to market the DEVICE in the following regions: US, Europe and Brazil.","303_specification","fv0130",0,"n/a"
+"FieldValue","be able to show that the Architecture defined in Doc_nnn has been fulfilled.","308_specification","fv0131",0,"n/a"
+"FieldValue","be protected form needle-stick injuries.","305_specification","fv0132",0,"n/a"
+"FieldValue","not be exposed to an unprotected needle tip at any stage of the DEVICE operation.","339_specification","fv0133",0,"n/a"
+"FieldValue","be able to deliver the drug into subcutaneous tissue via a single button press.","345_specification","fv0134",0,"n/a"
+"FieldValue","be able to sleep undisturbed during normal operating conditions.","309_specification","fv0135",0,"n/a"
+"FieldValue","be able to receive a minimum total dose of 2 ml of drug per disposable part.","311_specification","fv0136",0,"n/a"
+"FieldValue","receive the drug dosage at the following flow rates only:  20 ¬± 0.5 ¬µL/hr, 30 ¬± 0.5 ¬µL/hr, 40 ¬± 0.5 ¬µL/hr","313_specification","fv0137",0,"n/a"
+"FieldValue","be able to attach the DEVICE to the body.","306_specification","fv0138",0,"n/a"
+"FieldValue","find the device simple and convenient to use.","307_specification","fv0139",0,"n/a"
+"FieldValue","be able to operate the DEVICE without training.","346_specification","fv0140",0,"n/a"
+"FieldValue","be able to release a pre-programmed bolus on demand.","347_specification","fv0141",0,"n/a"
+"FieldValue","be able to understand the bolus availability at any moment during therapy.","348_specification","fv0142",0,"n/a"
+"FieldValue","be able to understand that the DEVICE has successfully delivered the drug.","349_specification","fv0143",0,"n/a"
+"FieldValue","be able to understand the status of the DEVICE during operation (e.g. pause, delivery, battery low).","350_specification","fv0144",0,"n/a"
+"FieldValue","be able to understand when the disposable part needs to be replaced.","351_specification","fv0145",0,"n/a"
+"FieldValue","perceive the DEVICE to be easy to use.","352_specification","fv0146",0,"n/a"
+"FieldValue","receive the drug via a 29G TW or STW rigid injection needle.","325_specification","fv0147",0,"n/a"
+"FieldValue","receive the DEVICE with the entire fluid path in a sterilized condition.","326_specification","fv0148",0,"n/a"
+"FieldValue","experience that the DEVICE to stops operating within 5 secs of being removed from the body.","331_specification","fv0149",0,"n/a"
+"FieldValue","be able to wear the DEVICE on the upper arm, abdomen, or thigh.","334_specification","fv0150",0,"n/a"
+"FieldValue","be able to activate a "Pause" function that suspends all drug delivery indefinitely or until re-activation is requested.","337_specification","fv0151",0,"n/a"
+"FieldValue","be able to claim that the DEVICE has an irreversible needle protetion device.","341_specification","fv0152",0,"n/a"
+"FieldValue","be able to claim that needle protection features are non-resettable.","343_specification","fv0153",0,"n/a"
+"FieldValue","be able to claim that non-disposable parts have a storage shelf life at room temperature of 36 months.","329_specification","fv0154",0,"n/a"
+"FieldValue","be able to claim marketing-leading dosing performance and accuracy.","304_specification","fv0155",0,"n/a"
+"FieldValue","be able to market the DEVICE with drugs of viscosity 2.1 ¬± 0.5 cP solution.","310_specification","fv0156",0,"n/a"
+"FieldValue","be able to claim a maximum error of 5% in total delivered volume per disposable part.","312_specification","fv0157",0,"n/a"
+"FieldValue","be able to claim a minimum delivery increment of maximum 6 ¬µL.","314_specification","fv0158",0,"n/a"
+"FieldValue","be able to claim a volumetric delivery accuracy of 20% per hour.","315_specification","fv0159",0,"n/a"
+"FieldValue","requires that the DEVICE be capable of delivering up to 40 discrete boluses per disposable part.","316_specification","fv0160",0,"n/a"
+"FieldValue","requires that there are three discrete bolus delivery volumes: 10, 20 and 30 ¬µL.","317_specification","fv0161",0,"n/a"
+"FieldValue","be able to claim a maximum cumulative fluid delivery volume loss of  12 uL per disposable part.","318_specification","fv0162",0,"n/a"
+"FieldValue","be able to claim a delivery accuracy of ¬±3 %.","319_specification","fv0163",0,"n/a"
+"FieldValue","be able to demonstrate that the DEVICE remains adhered to patient for a minimum of 24 hrs during normal use.","320_specification","fv0164",0,"n/a"
+"FieldValue","be able to claim that the DEVICE is self-contained and requires no other additional componenst for normal use.","321_specification","fv0165",0,"n/a"
+"FieldValue","be able to claim that the assembled DEVICE has a minimum IPX5 rating.","322_specification","fv0166",0,"n/a"
+"FieldValue","requires that the DEVICE be available in two configurations of high and low basal/bolus dose configurations that are pre-set at the factory.","324_specification","fv0167",0,"n/a"
+"FieldValue","be able to claim that the DEVICE dimensions are no greater than 120 x 50 x 15 mm in its assembled state (not including the skin patch).","328_specification","fv0168",0,"n/a"
+"FieldValue","be able to market the DEVICE as adhering to the body without the need for additional fixing methods, such as tape.","335_specification","fv0169",0,"n/a"
+"FieldValue","be able to demonstrate that USER-PATIENT activation of the device is necessary before needle insertion.","332_specification","fv0170",0,"n/a"
+"FieldValue","be able to demonstrate that, once inserted, the injection needle shall remain within the subcutaneous tissue for the entire use period.","333_specification","fv0171",0,"n/a"
+"FieldValue","be able to demonstrate that the availability of doses is limited as follows: 3 in the first hour, 2 in subsequent hours.","336_specification","fv0172",0,"n/a"
+"FieldValue","be able to demonstrate that the nominal injection depth is 5 mm.","338_specification","fv0173",0,"n/a"
+"FieldValue","receive the disposable part with the drug pre-filled.","323_specification","fv0174",0,"n/a"
+"FieldValue","be able to program the DEVICE at chip component level during manufacturing.","327_specification","fv0175",0,"n/a"
+"FieldValue","be able to demonstrate that accesss to the drug is not possible without using destructive means.","340_specification","fv0176",0,"n/a"
+"FieldValue","be able to show that the needle protection features of the DEVICE prevent injury when tested in accordance with ISO 23908 requirements and test methods.","342_specification","fv0177",0,"n/a"
+"FieldValue","be able to show that dose configuration cannot be changed after production.","344_specification","fv0178",0,"n/a"
+"FieldValue","be able to demonstrate that the DEVICE is compliant with the electrical safety regulations for Class II medical devices in Europe, North America and Brazil.","330_specification","fv0179",0,"n/a"
+"FieldValue","Comments hereÖ","301_comments","fv0180",0,"n/a"
+"FieldValue","Comments hereÖ","302_comments","fv0181",0,"n/a"
+"FieldValue","Comments hereÖ","303_comments","fv0182",0,"n/a"
+"FieldValue","Comments hereÖ","308_comments","fv0183",0,"n/a"
+"FieldValue","Comments hereÖ","305_comments","fv0184",0,"n/a"
+"FieldValue","Comments hereÖ","339_comments","fv0185",0,"n/a"
+"FieldValue","Comments hereÖ","345_comments","fv0186",0,"n/a"
+"FieldValue","Comments hereÖ","309_comments","fv0187",0,"n/a"
+"FieldValue","Comments hereÖ","311_comments","fv0188",0,"n/a"
+"FieldValue","Comments hereÖ","313_comments","fv0189",0,"n/a"
+"FieldValue","Comments hereÖ","306_comments","fv0190",0,"n/a"
+"FieldValue","Comments hereÖ","307_comments","fv0191",0,"n/a"
+"FieldValue","Comments hereÖ","346_comments","fv0192",0,"n/a"
+"FieldValue","Comments hereÖ","347_comments","fv0193",0,"n/a"
+"FieldValue","Comments hereÖ","348_comments","fv0194",0,"n/a"
+"FieldValue","Comments hereÖ","349_comments","fv0195",0,"n/a"
+"FieldValue","Comments hereÖ","350_comments","fv0196",0,"n/a"
+"FieldValue","Comments hereÖ","351_comments","fv0197",0,"n/a"
+"FieldValue","Comments hereÖ","352_comments","fv0198",0,"n/a"
+"FieldValue","Comments hereÖ","325_comments","fv0199",0,"n/a"
+"FieldValue","Comments hereÖ","326_comments","fv0200",0,"n/a"
+"FieldValue","Comments hereÖ","331_comments","fv0201",0,"n/a"
+"FieldValue","Comments hereÖ","334_comments","fv0202",0,"n/a"
+"FieldValue","Comments hereÖ","337_comments","fv0203",0,"n/a"
+"FieldValue","Comments hereÖ","341_comments","fv0204",0,"n/a"
+"FieldValue","Comments hereÖ","343_comments","fv0205",0,"n/a"
+"FieldValue","Comments hereÖ","329_comments","fv0206",0,"n/a"
+"FieldValue","Comments hereÖ","304_comments","fv0207",0,"n/a"
+"FieldValue","Comments hereÖ","310_comments","fv0208",0,"n/a"
+"FieldValue","Comments hereÖ","312_comments","fv0209",0,"n/a"
+"FieldValue","Comments hereÖ","314_comments","fv0210",0,"n/a"
+"FieldValue","Comments hereÖ","315_comments","fv0211",0,"n/a"
+"FieldValue","Comments hereÖ","316_comments","fv0212",0,"n/a"
+"FieldValue","Comments hereÖ","317_comments","fv0213",0,"n/a"
+"FieldValue","Comments hereÖ","318_comments","fv0214",0,"n/a"
+"FieldValue","Comments hereÖ","319_comments","fv0215",0,"n/a"
+"FieldValue","Comments hereÖ","320_comments","fv0216",0,"n/a"
+"FieldValue","Comments hereÖ","321_comments","fv0217",0,"n/a"
+"FieldValue","Comments hereÖ","322_comments","fv0218",0,"n/a"
+"FieldValue","Comments hereÖ","324_comments","fv0219",0,"n/a"
+"FieldValue","Comments hereÖ","328_comments","fv0220",0,"n/a"
+"FieldValue","Comments hereÖ","335_comments","fv0221",0,"n/a"
+"FieldValue","Comments hereÖ","332_comments","fv0222",0,"n/a"
+"FieldValue","Comments hereÖ","333_comments","fv0223",0,"n/a"
+"FieldValue","Comments hereÖ","336_comments","fv0224",0,"n/a"
+"FieldValue","Comments hereÖ","338_comments","fv0225",0,"n/a"
+"FieldValue","Comments hereÖ","323_comments","fv0226",0,"n/a"
+"FieldValue","Comments hereÖ","327_comments","fv0227",0,"n/a"
+"FieldValue","Comments hereÖ","340_comments","fv0228",0,"n/a"
+"FieldValue","Comments hereÖ","342_comments","fv0229",0,"n/a"
+"FieldValue","Comments hereÖ","344_comments","fv0230",0,"n/a"
+"FieldValue","Comments hereÖ","330_comments","fv0231",0,"n/a"
+"FieldValue","Source hereÖ","301_source","fv0232",0,"n/a"
+"FieldValue","Source hereÖ","302_source","fv0233",0,"n/a"
+"FieldValue","Source hereÖ","303_source","fv0234",0,"n/a"
+"FieldValue","Source hereÖ","308_source","fv0235",0,"n/a"
+"FieldValue","Source hereÖ","305_source","fv0236",0,"n/a"
+"FieldValue","Source hereÖ","339_source","fv0237",0,"n/a"
+"FieldValue","Source hereÖ","345_source","fv0238",0,"n/a"
+"FieldValue","Source hereÖ","309_source","fv0239",0,"n/a"
+"FieldValue","Source hereÖ","311_source","fv0240",0,"n/a"
+"FieldValue","Source hereÖ","313_source","fv0241",0,"n/a"
+"FieldValue","Source hereÖ","306_source","fv0242",0,"n/a"
+"FieldValue","Source hereÖ","307_source","fv0243",0,"n/a"
+"FieldValue","Source hereÖ","346_source","fv0244",0,"n/a"
+"FieldValue","Source hereÖ","347_source","fv0245",0,"n/a"
+"FieldValue","Source hereÖ","348_source","fv0246",0,"n/a"
+"FieldValue","Source hereÖ","349_source","fv0247",0,"n/a"
+"FieldValue","Source hereÖ","350_source","fv0248",0,"n/a"
+"FieldValue","Source hereÖ","351_source","fv0249",0,"n/a"
+"FieldValue","Source hereÖ","352_source","fv0250",0,"n/a"
+"FieldValue","Source hereÖ","325_source","fv0251",0,"n/a"
+"FieldValue","Source hereÖ","326_source","fv0252",0,"n/a"
+"FieldValue","Source hereÖ","331_source","fv0253",0,"n/a"
+"FieldValue","Source hereÖ","334_source","fv0254",0,"n/a"
+"FieldValue","Source hereÖ","337_source","fv0255",0,"n/a"
+"FieldValue","Source hereÖ","341_source","fv0256",0,"n/a"
+"FieldValue","Source hereÖ","343_source","fv0257",0,"n/a"
+"FieldValue","Source hereÖ","329_source","fv0258",0,"n/a"
+"FieldValue","Source hereÖ","304_source","fv0259",0,"n/a"
+"FieldValue","Source hereÖ","310_source","fv0260",0,"n/a"
+"FieldValue","Source hereÖ","312_source","fv0261",0,"n/a"
+"FieldValue","Source hereÖ","314_source","fv0262",0,"n/a"
+"FieldValue","Source hereÖ","315_source","fv0263",0,"n/a"
+"FieldValue","Source hereÖ","316_source","fv0264",0,"n/a"
+"FieldValue","Source hereÖ","317_source","fv0265",0,"n/a"
+"FieldValue","Source hereÖ","318_source","fv0266",0,"n/a"
+"FieldValue","Source hereÖ","319_source","fv0267",0,"n/a"
+"FieldValue","Source hereÖ","320_source","fv0268",0,"n/a"
+"FieldValue","Source hereÖ","321_source","fv0269",0,"n/a"
+"FieldValue","Source hereÖ","322_source","fv0270",0,"n/a"
+"FieldValue","Source hereÖ","324_source","fv0271",0,"n/a"
+"FieldValue","Source hereÖ","328_source","fv0272",0,"n/a"
+"FieldValue","Source hereÖ","335_source","fv0273",0,"n/a"
+"FieldValue","Source hereÖ","332_source","fv0274",0,"n/a"
+"FieldValue","Source hereÖ","333_source","fv0275",0,"n/a"
+"FieldValue","Source hereÖ","336_source","fv0276",0,"n/a"
+"FieldValue","Source hereÖ","338_source","fv0277",0,"n/a"
+"FieldValue","Source hereÖ","323_source","fv0278",0,"n/a"
+"FieldValue","Source hereÖ","327_source","fv0279",0,"n/a"
+"FieldValue","Source hereÖ","340_source","fv0280",0,"n/a"
+"FieldValue","Source hereÖ","342_source","fv0281",0,"n/a"
+"FieldValue","Source hereÖ","344_source","fv0282",0,"n/a"
+"FieldValue","Source hereÖ","330_source","fv0283",0,"n/a"
+"FieldValue","Accept criterion hereÖ","301_acceptcriterion","fv0284",0,"n/a"
+"FieldValue","Accept criterion hereÖ","302_acceptcriterion","fv0285",0,"n/a"
+"FieldValue","Accept criterion hereÖ","303_acceptcriterion","fv0286",0,"n/a"
+"FieldValue","Accept criterion hereÖ","308_acceptcriterion","fv0287",0,"n/a"
+"FieldValue","Accept criterion hereÖ","305_acceptcriterion","fv0288",0,"n/a"
+"FieldValue","Accept criterion hereÖ","339_acceptcriterion","fv0289",0,"n/a"
+"FieldValue","Accept criterion hereÖ","345_acceptcriterion","fv0290",0,"n/a"
+"FieldValue","Accept criterion hereÖ","309_acceptcriterion","fv0291",0,"n/a"
+"FieldValue","Accept criterion hereÖ","311_acceptcriterion","fv0292",0,"n/a"
+"FieldValue","Accept criterion hereÖ","313_acceptcriterion","fv0293",0,"n/a"
+"FieldValue","Accept criterion hereÖ","306_acceptcriterion","fv0294",0,"n/a"
+"FieldValue","Accept criterion hereÖ","307_acceptcriterion","fv0295",0,"n/a"
+"FieldValue","Accept criterion hereÖ","346_acceptcriterion","fv0296",0,"n/a"
+"FieldValue","Accept criterion hereÖ","347_acceptcriterion","fv0297",0,"n/a"
+"FieldValue","Accept criterion hereÖ","348_acceptcriterion","fv0298",0,"n/a"
+"FieldValue","Accept criterion hereÖ","349_acceptcriterion","fv0299",0,"n/a"
+"FieldValue","Accept criterion hereÖ","350_acceptcriterion","fv0300",0,"n/a"
+"FieldValue","Accept criterion hereÖ","351_acceptcriterion","fv0301",0,"n/a"
+"FieldValue","Accept criterion hereÖ","352_acceptcriterion","fv0302",0,"n/a"
+"FieldValue","Accept criterion hereÖ","325_acceptcriterion","fv0303",0,"n/a"
+"FieldValue","Accept criterion hereÖ","326_acceptcriterion","fv0304",0,"n/a"
+"FieldValue","Accept criterion hereÖ","331_acceptcriterion","fv0305",0,"n/a"
+"FieldValue","Accept criterion hereÖ","334_acceptcriterion","fv0306",0,"n/a"
+"FieldValue","Accept criterion hereÖ","337_acceptcriterion","fv0307",0,"n/a"
+"FieldValue","Accept criterion hereÖ","341_acceptcriterion","fv0308",0,"n/a"
+"FieldValue","Accept criterion hereÖ","343_acceptcriterion","fv0309",0,"n/a"
+"FieldValue","Accept criterion hereÖ","329_acceptcriterion","fv0310",0,"n/a"
+"FieldValue","Accept criterion hereÖ","304_acceptcriterion","fv0311",0,"n/a"
+"FieldValue","Accept criterion hereÖ","310_acceptcriterion","fv0312",0,"n/a"
+"FieldValue","Accept criterion hereÖ","312_acceptcriterion","fv0313",0,"n/a"
+"FieldValue","Accept criterion hereÖ","314_acceptcriterion","fv0314",0,"n/a"
+"FieldValue","Accept criterion hereÖ","315_acceptcriterion","fv0315",0,"n/a"
+"FieldValue","Accept criterion hereÖ","316_acceptcriterion","fv0316",0,"n/a"
+"FieldValue","Accept criterion hereÖ","317_acceptcriterion","fv0317",0,"n/a"
+"FieldValue","Accept criterion hereÖ","318_acceptcriterion","fv0318",0,"n/a"
+"FieldValue","Accept criterion hereÖ","319_acceptcriterion","fv0319",0,"n/a"
+"FieldValue","Accept criterion hereÖ","320_acceptcriterion","fv0320",0,"n/a"
+"FieldValue","Accept criterion hereÖ","321_acceptcriterion","fv0321",0,"n/a"
+"FieldValue","Accept criterion hereÖ","322_acceptcriterion","fv0322",0,"n/a"
+"FieldValue","Accept criterion hereÖ","324_acceptcriterion","fv0323",0,"n/a"
+"FieldValue","Accept criterion hereÖ","328_acceptcriterion","fv0324",0,"n/a"
+"FieldValue","Accept criterion hereÖ","335_acceptcriterion","fv0325",0,"n/a"
+"FieldValue","Accept criterion hereÖ","332_acceptcriterion","fv0326",0,"n/a"
+"FieldValue","Accept criterion hereÖ","333_acceptcriterion","fv0327",0,"n/a"
+"FieldValue","Accept criterion hereÖ","336_acceptcriterion","fv0328",0,"n/a"
+"FieldValue","Accept criterion hereÖ","338_acceptcriterion","fv0329",0,"n/a"
+"FieldValue","Accept criterion hereÖ","323_acceptcriterion","fv0330",0,"n/a"
+"FieldValue","Accept criterion hereÖ","327_acceptcriterion","fv0331",0,"n/a"
+"FieldValue","Accept criterion hereÖ","340_acceptcriterion","fv0332",0,"n/a"
+"FieldValue","Accept criterion hereÖ","342_acceptcriterion","fv0333",0,"n/a"
+"FieldValue","Accept criterion hereÖ","344_acceptcriterion","fv0334",0,"n/a"
+"FieldValue","Accept criterion hereÖ","330_acceptcriterion","fv0335",0,"n/a"
+"FieldValue","Device: Security - Controller-Pod drive","360_title","fv0336",0,"n/a"
+"FieldValue","Device: Security - Controller-Pod communication","361_title","fv0337",0,"n/a"
+"FieldValue","Device: Architecture","362_title","fv0338",0,"n/a"
+"FieldValue","Device: Security - pre-programmed","586_title","fv0339",0,"n/a"
+"FieldValue","Device: ATE interface","591_title","fv0340",0,"n/a"
+"FieldValue","Device: Components - Skin Sensor","593_title","fv0341",0,"n/a"
+"FieldValue","Device: Coupling - ease","594_title","fv0342",0,"n/a"
+"FieldValue","Device: Coupling - method","595_title","fv0343",0,"n/a"
+"FieldValue","Device: Service (2)","643_title","fv0344",0,"n/a"
+"FieldValue","Device: Service (1)","644_title","fv0345",0,"n/a"
+"FieldValue","Device: Composition","732_title","fv0346",0,"n/a"
+"FieldValue","Device purpose: On-body Delivery System","353_title","fv0347",0,"n/a"
+"FieldValue","Device purpose: basal infusion","354_title","fv0348",0,"n/a"
+"FieldValue","Device purpose: bolus delivery","355_title","fv0349",0,"n/a"
+"FieldValue","Device purpose: Wearable","356_title","fv0350",0,"n/a"
+"FieldValue","Device purpose: Drug access","357_title","fv0351",0,"n/a"
+"FieldValue","Device purpose: User feedback","358_title","fv0352",0,"n/a"
+"FieldValue","Device purpose: Ensure safe use","359_title","fv0353",0,"n/a"
+"FieldValue","Device purpose: Lifecycle (use)","385_title","fv0354",0,"n/a"
+"FieldValue","Device FSM: State - basal","402_title","fv0355",0,"n/a"
+"FieldValue","Drug delivery (basal): Number of pulses per hour","403_title","fv0356",0,"n/a"
+"FieldValue","Drug delivery (basal): Pre-programming","404_title","fv0357",0,"n/a"
+"FieldValue","Drug delivery (basal): Dose configurations","405_title","fv0358",0,"n/a"
+"FieldValue","Drug delivery (basal): Pulse flow rate","406_title","fv0359",0,"n/a"
+"FieldValue","Drug delivery (bolus): bolus volume","407_title","fv0360",0,"n/a"
+"FieldValue","Drug delivery (bolus): Pre-programming","408_title","fv0361",0,"n/a"
+"FieldValue","Drug delivery (bolus): bolus flow rate","409_title","fv0362",0,"n/a"
+"FieldValue","Drug delivery (bolus): Availability per Therapy Cycle","410_title","fv0363",0,"n/a"
+"FieldValue","Drug delivery (bolus): Maximum per Therapy Cycle","411_title","fv0364",0,"n/a"
+"FieldValue","Drug delivery (bolus): Availability, first hour","412_title","fv0365",0,"n/a"
+"FieldValue","Drug delivery (bolus): Availability, after first hour","413_title","fv0366",0,"n/a"
+"FieldValue","Device FSM: State - PAUSE","417_title","fv0367",0,"n/a"
+"FieldValue","Drug delivery (Drug): Drug viscosity","452_title","fv0368",0,"n/a"
+"FieldValue","Device monitoring: Logging","488_title","fv0369",0,"n/a"
+"FieldValue","Drug delivery (Occlusion detection): basal delivery","507_title","fv0370",0,"n/a"
+"FieldValue","Drug delivery (Occlusion detection): Performance","518_title","fv0371",0,"n/a"
+"FieldValue","Device FSM: Transition - ATE  --> SHELF_LIFE","523_title","fv0372",0,"n/a"
+"FieldValue","Device FSM: Transition  INITIALIZATION --> SHELF_LIFE","524_title","fv0373",0,"n/a"
+"FieldValue","Device FSM: State - SHELF_LIFE","525_title","fv0374",0,"n/a"
+"FieldValue","Device FSM: Transition POD_IDENTIFICATION --> POWER_OFF (Pod identification times out)","526_title","fv0375",0,"n/a"
+"FieldValue","Device FSM: Transition  CHANGE_POD --> POWER_OFF (skin presence detection times out)","527_title","fv0376",0,"n/a"
+"FieldValue","Device FSM: Transition  INITIALIZATION --> POWER_OFF (Pod detached during initialization)","528_title","fv0377",0,"n/a"
+"FieldValue","Device FSM: State - POWER_OFF","529_title","fv0378",0,"n/a"
+"FieldValue","Device FSM: Transition  --> DECOUPLED","530_title","fv0379",0,"n/a"
+"FieldValue","Device FSM: State - DECOUPLED","531_title","fv0380",0,"n/a"
+"FieldValue","Device FSM: Transition SHELF_LIFE --> INITIALIZATION (successful coupling of Controller and Pod)","532_title","fv0381",0,"n/a"
+"FieldValue","Device FSM: Transition POWER_OFF --> INITIALIZATION","533_title","fv0382",0,"n/a"
+"FieldValue","Device FSM: Actions - Coupled Pod number check","534_title","fv0383",0,"n/a"
+"FieldValue","Device FSM: State - INITIALIZATION","535_title","fv0384",0,"n/a"
+"FieldValue","Device FSM: Transition  INITIALIZATION --> NRE","536_title","fv0385",0,"n/a"
+"FieldValue","Device FSM: Transition  CHANGE_POD --> NRE (identification of an non-recoverable error)","537_title","fv0386",0,"n/a"
+"FieldValue","Device FSM: State - NRE","538_title","fv0387",0,"n/a"
+"FieldValue","Device FSM: Transition  INITIALIZATION --> ATE_MODE","539_title","fv0388",0,"n/a"
+"FieldValue","Device FSM: Transition  INITIALIZATION --> POD_IDENTIFICATION","540_title","fv0389",0,"n/a"
+"FieldValue","Device FSM: State - POD_IDENTIFICATION","541_title","fv0390",0,"n/a"
+"FieldValue","Device FSM: State - POD_IDENTIFICATION (2)","542_title","fv0391",0,"n/a"
+"FieldValue","Device FSM: Actions -  Initialization of Controller lifetime count","545_title","fv0392",0,"n/a"
+"FieldValue","Device FSM: Transition POD_IDENTIFICATION --> CHANGE_POD (Pod delivery profile mismatch)","546_title","fv0393",0,"n/a"
+"FieldValue","Device FSM: Transition  IDLE --> CHANGE_POD (end of therapy)","547_title","fv0394",0,"n/a"
+"FieldValue","Device FSM: Transition  --> CHANGE_POD (basal delivery error)","548_title","fv0395",0,"n/a"
+"FieldValue","Device FSM: Transition  --> CHANGE_POD (bolus delivery error)","549_title","fv0396",0,"n/a"
+"FieldValue","Device FSM: Transition - Skin Needle retraction after transit to CHANGE_POD","550_title","fv0397",0,"n/a"
+"FieldValue","Device FSM: Transition  --> CRITICAL_VOLTAGE","552_title","fv0398",0,"n/a"
+"FieldValue","Device FSM: State - CRITICAL_VOLTAGE","553_title","fv0399",0,"n/a"
+"FieldValue","Device FSM: Transition  --> SETUP, following successful Pod identification","554_title","fv0400",0,"n/a"
+"FieldValue","Device FSM: State - SETUP","555_title","fv0401",0,"n/a"
+"FieldValue","Device FSM: Transition  PAUSE --> IDLE (start/pause button pressed)","559_title","fv0402",0,"n/a"
+"FieldValue","Device FSM: Transition, Therapy Cycle duration expired","560_title","fv0403",0,"n/a"
+"FieldValue","Device FSM: Transition  IDLE --> basal (settling time expired)","562_title","fv0404",0,"n/a"
+"FieldValue","Device FSM: Transition  IDLE --> basal (basal pulse interval time expired)","563_title","fv0405",0,"n/a"
+"FieldValue","Device FSM: Transition  IDLE --> basal (basal pulse interval expired, pause >= basal_interval)","564_title","fv0406",0,"n/a"
+"FieldValue","Device FSM: Transition  IDLE --> basal (basal pulse interval expired, pause < basal_interval)","565_title","fv0407",0,"n/a"
+"FieldValue","Drug delivery (basal): Pulse volume","566_title","fv0408",0,"n/a"
+"FieldValue","Drug delivery (basal): Pulse duration","569_title","fv0409",0,"n/a"
+"FieldValue","Device monitoring: Motor current during basal delivery","570_title","fv0410",0,"n/a"
+"FieldValue","Device FSM: Transition  IDLE --> bolus (bolus requested by User)","572_title","fv0411",0,"n/a"
+"FieldValue","Device FSM: State - bolus","573_title","fv0412",0,"n/a"
+"FieldValue","Device monitoring: Motor current during bolus delivery","574_title","fv0413",0,"n/a"
+"FieldValue","Device FSM: Actions - Delivered bolus calculation","575_title","fv0414",0,"n/a"
+"FieldValue","Device FSM: Actions  --> Therapy Cycle duration times out","579_title","fv0415",0,"n/a"
+"FieldValue","Device FSM: Transition, scheduled basal pulse during bolus delivery","580_title","fv0416",0,"n/a"
+"FieldValue","Device FSM: Transition  --> IDLE (successful bolus delivery)","581_title","fv0417",0,"n/a"
+"FieldValue","Device FSM: Transition  IDLE --> PAUSE (pause button pressed)","582_title","fv0418",0,"n/a"
+"FieldValue","Device FSM: Transition, pause requested by User during basal pulse","583_title","fv0419",0,"n/a"
+"FieldValue","Drug delivery (Air priming): Residual air","585_title","fv0420",0,"n/a"
+"FieldValue","Drug delivery (General): Residual drug calculation","599_title","fv0421",0,"n/a"
+"FieldValue","Drug delivery (Occlusion detection): bolus delivery","600_title","fv0422",0,"n/a"
+"FieldValue","Device FSM: Transition  --> NRE","603_title","fv0423",0,"n/a"
+"FieldValue","Device FSM: Actions - Generic error management","604_title","fv0424",0,"n/a"
+"FieldValue","Skin sensor: Elapsed time since loss of detection","607_title","fv0425",0,"n/a"
+"FieldValue","Device monitoring: Used Pod definition","608_title","fv0426",0,"n/a"
+"FieldValue","Device monitoring: Time from first activation","609_title","fv0427",0,"n/a"
+"FieldValue","Drug delivery (Air priming): On skin detection only","613_title","fv0428",0,"n/a"
+"FieldValue","Drug delivery (Air priming): Automation","616_title","fv0429",0,"n/a"
+"FieldValue","Device: Operating noise","622_title","fv0430",0,"n/a"
+"FieldValue","Device: Orientation","641_title","fv0431",0,"n/a"
+"FieldValue","Drug delivery (General): Encoder counts compensation algorithm","642_title","fv0432",0,"n/a"
+"FieldValue","Drug delivery (basal): Dose accuracy","646_title","fv0433",0,"n/a"
+"FieldValue","Drug delivery (bolus): Dose accuracy","647_title","fv0434",0,"n/a"
+"FieldValue","Drug delivery (General): Missed volume","648_title","fv0435",0,"n/a"
+"FieldValue","Device security: Self-contained","675_title","fv0436",0,"n/a"
+"FieldValue","Device security: Anti-tamper (2)","676_title","fv0437",0,"n/a"
+"FieldValue","Device security: Anti-tamper (1)","686_title","fv0438",0,"n/a"
+"FieldValue","Drug delivery (General): Hold up volume","689_title","fv0439",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Safety interlock retraction trigger","715_title","fv0440",0,"n/a"
+"FieldValue","Information signals: Components","386_title","fv0441",0,"n/a"
+"FieldValue","Controller-Pod connection: Connect force","387_title","fv0442",0,"n/a"
+"FieldValue","Controller-Pod connection: Disconnect force","388_title","fv0443",0,"n/a"
+"FieldValue","Controller-Pod connection: Orientation","389_title","fv0444",0,"n/a"
+"FieldValue","Controller-Pod connection: Misalignment","390_title","fv0445",0,"n/a"
+"FieldValue","Controller-Pod connection: Unintentional decoupling","391_title","fv0446",0,"n/a"
+"FieldValue","Information signals: Device orientation","394_title","fv0447",0,"n/a"
+"FieldValue","Alarms: Visibility","395_title","fv0448",0,"n/a"
+"FieldValue","Information signals: Therapy delivering indicator","396_title","fv0449",0,"n/a"
+"FieldValue","Information signals: bolus requested","397_title","fv0450",0,"n/a"
+"FieldValue","Information signals: Pod change needed","398_title","fv0451",0,"n/a"
+"FieldValue","Alarms: Sound pressure level","399_title","fv0452",0,"n/a"
+"FieldValue","Alarms: Low priority visual alarm pattern","400_title","fv0453",0,"n/a"
+"FieldValue","Alarms: High priority visual alarm pattern","401_title","fv0454",0,"n/a"
+"FieldValue","Information signals: bolus availability","414_title","fv0455",0,"n/a"
+"FieldValue","Information signals: bolus delivering UI","415_title","fv0456",0,"n/a"
+"FieldValue","Information signals: bolus completed","416_title","fv0457",0,"n/a"
+"FieldValue","Information signals: Pause requested","418_title","fv0458",0,"n/a"
+"FieldValue","Information signals: Pause reminders","419_title","fv0459",0,"n/a"
+"FieldValue","Information signals: Pod identification and skin detection","544_title","fv0460",0,"n/a"
+"FieldValue","Drug delivery (UI):","578_title","fv0461",0,"n/a"
+"FieldValue","Information signals: Location","587_title","fv0462",0,"n/a"
+"FieldValue","Alarms: Low Priority auditory alarm pattern","625_title","fv0463",0,"n/a"
+"FieldValue","Alarms: High Priority auditory alarm pattern","626_title","fv0464",0,"n/a"
+"FieldValue","Information signals: Sound pressure level","627_title","fv0465",0,"n/a"
+"FieldValue","Information signals: LEDs","628_title","fv0466",0,"n/a"
+"FieldValue","Alarms: Acknowledgement","629_title","fv0467",0,"n/a"
+"FieldValue","Alarms: Resumption","630_title","fv0468",0,"n/a"
+"FieldValue","Information signals: Forms of feedback","631_title","fv0469",0,"n/a"
+"FieldValue","Alarms: Repetition","632_title","fv0470",0,"n/a"
+"FieldValue","Alarms: Visual alarms compliance table","633_title","fv0471",0,"n/a"
+"FieldValue","Alarms: Audible alarms compliance table","634_title","fv0472",0,"n/a"
+"FieldValue","Alarms: Haptic alarms compliance table","636_title","fv0473",0,"n/a"
+"FieldValue","Information signals: Visual information signal compliance table","637_title","fv0474",0,"n/a"
+"FieldValue","Information signals:","638_title","fv0475",0,"n/a"
+"FieldValue","Information signals: Haptic information signals compliance table","639_title","fv0476",0,"n/a"
+"FieldValue","Alarms: Standards","640_title","fv0477",0,"n/a"
+"FieldValue","Labelling: Graphical symbols","684_title","fv0478",0,"n/a"
+"FieldValue","Biocompatibility: Extractables","449_title","fv0479",0,"n/a"
+"FieldValue","Biocompatibility: Leachables","450_title","fv0480",0,"n/a"
+"FieldValue","IEC 60601: Humidity preconditioning","612_title","fv0481",0,"n/a"
+"FieldValue","IEC 60601: Drug spillage/leakage","635_title","fv0482",0,"n/a"
+"FieldValue","IEC 60601: Operating over altitude","650_title","fv0483",0,"n/a"
+"FieldValue","IEC 60601: Drop testing","657_title","fv0484",0,"n/a"
+"FieldValue","IEC 60601: Impact testing","658_title","fv0485",0,"n/a"
+"FieldValue","IEC 60601: Push testing","659_title","fv0486",0,"n/a"
+"FieldValue","IEC 60601: Mechanical shock","660_title","fv0487",0,"n/a"
+"FieldValue","IEC 60601: Vibration","661_title","fv0488",0,"n/a"
+"FieldValue","IEC 60601: Mould stress relief","662_title","fv0489",0,"n/a"
+"FieldValue","IEC 60601: Resistance to heat","663_title","fv0490",0,"n/a"
+"FieldValue","IEC 60601: Patient leakage & auxiliary currents","664_title","fv0491",0,"n/a"
+"FieldValue","IEC 60601: Creepage and clearance","665_title","fv0492",0,"n/a"
+"FieldValue","IEC 60601: Dielectric strength","666_title","fv0493",0,"n/a"
+"FieldValue","IEC 60601: ESD","667_title","fv0494",0,"n/a"
+"FieldValue","IEC 60601: EMC / EMI","668_title","fv0495",0,"n/a"
+"FieldValue","IEC 60601: Maximum temperature of accessible surfaces","669_title","fv0496",0,"n/a"
+"FieldValue","Biocompatibility: User contact","670_title","fv0497",0,"n/a"
+"FieldValue","RoHS Directive","672_title","fv0498",0,"n/a"
+"FieldValue","REACH Directive","673_title","fv0499",0,"n/a"
+"FieldValue","WEEE Directive","674_title","fv0500",0,"n/a"
+"FieldValue","Battery regulations","731_title","fv0501",0,"n/a"
+"FieldValue","Transport conditions: Device","520_title","fv0502",0,"n/a"
+"FieldValue","Shelf life: Components","521_title","fv0503",0,"n/a"
+"FieldValue","Ingress protection","624_title","fv0504",0,"n/a"
+"FieldValue","Operating conditions: General","649_title","fv0505",0,"n/a"
+"FieldValue","Operating conditions: Low temperature","651_title","fv0506",0,"n/a"
+"FieldValue","Operating conditions: Transient cold to warm","653_title","fv0507",0,"n/a"
+"FieldValue","Storage conditions: Between-use","654_title","fv0508",0,"n/a"
+"FieldValue","Manufacturing: Unique serial numbers","619_title","fv0509",0,"n/a"
+"FieldValue","Labelling and Marking: Durability","618_title","fv0510",0,"n/a"
+"FieldValue","Labelling and Marking: Moulding markings","682_title","fv0511",0,"n/a"
+"FieldValue","Device mass","571_title","fv0512",0,"n/a"
+"FieldValue","Device size","679_title","fv0513",0,"n/a"
+"FieldValue","Sharp edges","680_title","fv0514",0,"n/a"
+"FieldValue","Small parts protection","681_title","fv0515",0,"n/a"
+"FieldValue","Pod: Security - Protection of safety critical values","597_title","fv0516",0,"n/a"
+"FieldValue","Controller: Role - logic","363_title","fv0517",0,"n/a"
+"FieldValue","Controller: Role - User Interface","370_title","fv0518",0,"n/a"
+"FieldValue","Controller: Components - Battery","371_title","fv0519",0,"n/a"
+"FieldValue","Controller: Components - magnetic drive","372_title","fv0520",0,"n/a"
+"FieldValue","Controller: Components - electronics","373_title","fv0521",0,"n/a"
+"FieldValue","Controller purpose: Drug delivery programming","364_title","fv0522",0,"n/a"
+"FieldValue","Controller purpose: Drug delivery control","365_title","fv0523",0,"n/a"
+"FieldValue","Controller purpose: Source of electrical energy","366_title","fv0524",0,"n/a"
+"FieldValue","Controller purpose: UI","367_title","fv0525",0,"n/a"
+"FieldValue","Controller purpose: Lifetime","368_title","fv0526",0,"n/a"
+"FieldValue","Controller purpose: Pod validation","369_title","fv0527",0,"n/a"
+"FieldValue","Device monitoring: Pod delivery profile identification","543_title","fv0528",0,"n/a"
+"FieldValue","Controller: Watchdog","592_title","fv0529",0,"n/a"
+"FieldValue","Controller: NVM","596_title","fv0530",0,"n/a"
+"FieldValue","Controller: Motor parameter log","598_title","fv0531",0,"n/a"
+"FieldValue","Battery: Monitoring levels","601_title","fv0532",0,"n/a"
+"FieldValue","Device monitoring: Coupled Pod counter","605_title","fv0533",0,"n/a"
+"FieldValue","Device monitoring: Total therapy duration","606_title","fv0534",0,"n/a"
+"FieldValue","Controller: Motor feedback","610_title","fv0535",0,"n/a"
+"FieldValue","Battery: Housing","677_title","fv0536",0,"n/a"
+"FieldValue","Battery:  Physical effects of aging","678_title","fv0537",0,"n/a"
+"FieldValue","Battery: Characteristics","730_title","fv0538",0,"n/a"
+"FieldValue","Controls: Unintended actuation","617_title","fv0539",0,"n/a"
+"FieldValue","Controls: bolus button interrupts management","645_title","fv0540",0,"n/a"
+"FieldValue","Pod: Role","380_title","fv0541",0,"n/a"
+"FieldValue","Pod: Components - contact with drug","381_title","fv0542",0,"n/a"
+"FieldValue","Pod: Components - contact with User","382_title","fv0543",0,"n/a"
+"FieldValue","Pod: Components - Adhesive Patch","383_title","fv0544",0,"n/a"
+"FieldValue","Pod purpose: Drug transport","374_title","fv0545",0,"n/a"
+"FieldValue","Pod purpose: Drug access","375_title","fv0546",0,"n/a"
+"FieldValue","Pod purpose: Drug infusion","376_title","fv0547",0,"n/a"
+"FieldValue","Pod purpose: Visual drug inspection","377_title","fv0548",0,"n/a"
+"FieldValue","Pod purpose: Prevent access to drug","378_title","fv0549",0,"n/a"
+"FieldValue","Pod purpose: Needle-stick injury prevention","379_title","fv0550",0,"n/a"
+"FieldValue","Pod purpose: Information storage","384_title","fv0551",0,"n/a"
+"FieldValue","Pod: NIM - Function","420_title","fv0552",0,"n/a"
+"FieldValue","Pod: FPOS - Function","434_title","fv0553",0,"n/a"
+"FieldValue","Pod: Fluidic Pathway - Function","440_title","fv0554",0,"n/a"
+"FieldValue","Pod: Primed fluid leakage (1)","584_title","fv0555",0,"n/a"
+"FieldValue","Pod: Durability - Drug delivery (bolus):","611_title","fv0556",0,"n/a"
+"FieldValue","Pod: Sterilization -Media access","620_title","fv0557",0,"n/a"
+"FieldValue","Pod: Sterilization - Material compatibility","621_title","fv0558",0,"n/a"
+"FieldValue","Pod: Durability - Drug delivery (basal)","655_title","fv0559",0,"n/a"
+"FieldValue","Pod: Drug inspection window - Strength","656_title","fv0560",0,"n/a"
+"FieldValue","Pod: Duration of use","685_title","fv0561",0,"n/a"
+"FieldValue","Device security: Prevention of manual dispensing","687_title","fv0562",0,"n/a"
+"FieldValue","Device security: Access to drug","706_title","fv0563",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Pre-therapy position","712_title","fv0564",0,"n/a"
+"FieldValue","Pod: NIM - Retention of Skin Needle","713_title","fv0565",0,"n/a"
+"FieldValue","Pod: Drug inspection window","733_title","fv0566",0,"n/a"
+"FieldValue","Needle protrusion","690_title","fv0567",0,"n/a"
+"FieldValue","Labelling and Marking: Visibility of Pod part label","561_title","fv0568",0,"n/a"
+"FieldValue","Labelling and Marking: Pod label area","683_title","fv0569",0,"n/a"
+"FieldValue","Controls: Start/pause button actuation force","392_title","fv0570",0,"n/a"
+"FieldValue","Controls: Start/pause button dimensions","393_title","fv0571",0,"n/a"
+"FieldValue","Controls: Start/pause button shape","588_title","fv0572",0,"n/a"
+"FieldValue","Controls: Start/pause button snap ratio","589_title","fv0573",0,"n/a"
+"FieldValue","Controls: Start/pause button activation travel","590_title","fv0574",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Access to tip","421_title","fv0575",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Deployment direction","422_title","fv0576",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Retraction direction","423_title","fv0577",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Retraction time","424_title","fv0578",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Tip geometry","442_title","fv0579",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Hooking prevention","443_title","fv0580",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Residual particles","444_title","fv0581",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Non-coring design","445_title","fv0582",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Penetration time","708_title","fv0583",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Insertion force","709_title","fv0584",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Type","710_title","fv0585",0,"n/a"
+"FieldValue","Pod: NIM - Skin Needle, Insertion depth","711_title","fv0586",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Pre-therapy position","425_title","fv0587",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Displacement range","426_title","fv0588",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Reaction force","427_title","fv0589",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Activation","428_title","fv0590",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Locking mechanism","429_title","fv0591",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Deployment time","430_title","fv0592",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Robustness","431_title","fv0593",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Tilting angle","432_title","fv0594",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Torque strength","433_title","fv0595",0,"n/a"
+"FieldValue","Pod: NIM - Needle Shield, Disassembly force","714_title","fv0596",0,"n/a"
+"FieldValue","Pod: FPOS - Septum Needle, Actuation","435_title","fv0597",0,"n/a"
+"FieldValue","Pod: FPOS - Septum Needle, Pre-actuation position","436_title","fv0598",0,"n/a"
+"FieldValue","Pod: FPOS - Septum Needle, Penetration time","437_title","fv0599",0,"n/a"
+"FieldValue","Pod: FPOS - Septum Needle, Penetration force","438_title","fv0600",0,"n/a"
+"FieldValue","Pod: FPOS - Septum Needle, Deployment direction","439_title","fv0601",0,"n/a"
+"FieldValue","Pod: FPOS - Septum Needle, Non-coring","446_title","fv0602",0,"n/a"
+"FieldValue","Pod: FPOS - Septum Needle, Penetration distance","700_title","fv0603",0,"n/a"
+"FieldValue","Pod: FPOS - Septum Needle, Type","701_title","fv0604",0,"n/a"
+"FieldValue","Pod: FPOS - Septum Needle, Tip geometry","702_title","fv0605",0,"n/a"
+"FieldValue","Pod: Fluidic Pathway - Flexible part","703_title","fv0606",0,"n/a"
+"FieldValue","Pod: Fluidic Pathway - Composition","441_title","fv0607",0,"n/a"
+"FieldValue","Pod: Fluidic Pathway - Leakage","447_title","fv0608",0,"n/a"
+"FieldValue","Pod: Fluidic Pathway - Holdup volume","448_title","fv0609",0,"n/a"
+"FieldValue","Pod: Fluidic Pathway - Air volume","688_title","fv0610",0,"n/a"
+"FieldValue","Pod: Fluidic Pathway - Kinking of flexible section","704_title","fv0611",0,"n/a"
+"FieldValue","Pod: Fluidic Pathway - Material compatibility (drug)","705_title","fv0612",0,"n/a"
+"FieldValue","Pod: Fluidic Pathway - Material compatibility (sterilization method)","707_title","fv0613",0,"n/a"
+"FieldValue","Pod: Container - Glass cylinder compliance","451_title","fv0614",0,"n/a"
+"FieldValue","Pod: Container - Plunger lined cap compliance","453_title","fv0615",0,"n/a"
+"FieldValue","Pod: Container - Plunger compliance","454_title","fv0616",0,"n/a"
+"FieldValue","Pod: Container - Compliance (finished/assembled)","455_title","fv0617",0,"n/a"
+"FieldValue","Pod: Container - Seal bulge","456_title","fv0618",0,"n/a"
+"FieldValue","Pod: Container - Plunger position after filling","457_title","fv0619",0,"n/a"
+"FieldValue","Pod: Container - Filled volume (2)","458_title","fv0620",0,"n/a"
+"FieldValue","Pod: Container - Holdup volume","459_title","fv0621",0,"n/a"
+"FieldValue","Pod: Materials - Extractables","460_title","fv0622",0,"n/a"
+"FieldValue","Pod: Container - Materials compliance","461_title","fv0623",0,"n/a"
+"FieldValue","Pod: Materials - ETO compatibility","462_title","fv0624",0,"n/a"
+"FieldValue","Pod: Materials - ETO impermeability","463_title","fv0625",0,"n/a"
+"FieldValue","Pod: Materials - Lubricant","464_title","fv0626",0,"n/a"
+"FieldValue","Pod: Container - Seal integrity","465_title","fv0627",0,"n/a"
+"FieldValue","Pod: Container - Plunger leakage","466_title","fv0628",0,"n/a"
+"FieldValue","Pod: Septum - Penetration force","467_title","fv0629",0,"n/a"
+"FieldValue","Pod: Septum - Coring/fragmentation","468_title","fv0630",0,"n/a"
+"FieldValue","Pod: Container - Break Loose Force (empty)","469_title","fv0631",0,"n/a"
+"FieldValue","Pod: Container - Glide Force (empty)","470_title","fv0632",0,"n/a"
+"FieldValue","Pod: Container - Break Loose Force (filled & aged)","471_title","fv0633",0,"n/a"
+"FieldValue","Pod: Container - Glide Force (filled & aged)","472_title","fv0634",0,"n/a"
+"FieldValue","Pod: Container - Dose accuracy","473_title","fv0635",0,"n/a"
+"FieldValue","Pod: Container - Filling process compatibility (1)","474_title","fv0636",0,"n/a"
+"FieldValue","Pod: Container - Compliance (empty)","623_title","fv0637",0,"n/a"
+"FieldValue","Pod interface: Primary Container","691_title","fv0638",0,"n/a"
+"FieldValue","Pod interface: Primary Container - Volume","692_title","fv0639",0,"n/a"
+"FieldValue","Pod: Container - Filling process compatibility (2)","693_title","fv0640",0,"n/a"
+"FieldValue","Pod interface: Primary Container - Materials","694_title","fv0641",0,"n/a"
+"FieldValue","Pod: Container - Filled volume (1)","695_title","fv0642",0,"n/a"
+"FieldValue","Pod: Container - Maximum air volume after filling","696_title","fv0643",0,"n/a"
+"FieldValue","Pod: Materials - Stability","697_title","fv0644",0,"n/a"
+"FieldValue","Pod: Materials - Particulates and droplets","698_title","fv0645",0,"n/a"
+"FieldValue","Pod: Container - Siliconization","699_title","fv0646",0,"n/a"
+"FieldValue","Manufacturing: Pre-filled drug cartridge","522_title","fv0647",0,"n/a"
+"FieldValue","Motor Drive Assy: Torque/speed - Break Loose Force, 3 mL Container","475_title","fv0648",0,"n/a"
+"FieldValue","Motor Drive Assy: Torque/speed - Glide Force, 3 mL Container","476_title","fv0649",0,"n/a"
+"FieldValue","Motor Drive Assy: Torque/speed - Break Loose Force, 10 mL Container","477_title","fv0650",0,"n/a"
+"FieldValue","Motor Drive Assy: Torque/speed - Glide Force, 10 mL Container","478_title","fv0651",0,"n/a"
+"FieldValue","Motor Drive Assy: Motor efficiency","479_title","fv0652",0,"n/a"
+"FieldValue","Motor Drive Assy: Gearing - Maximum backlash","480_title","fv0653",0,"n/a"
+"FieldValue","Motor Drive Assy: Acceleration profile","481_title","fv0654",0,"n/a"
+"FieldValue","Motor Drive Assy: Deceleration profile","482_title","fv0655",0,"n/a"
+"FieldValue","Motor Drive Assy: Gearing - Idler gear","483_title","fv0656",0,"n/a"
+"FieldValue","Motor Drive Assy: Motor - Size","484_title","fv0657",0,"n/a"
+"FieldValue","Motor Drive Assy: Motor - Chassis","485_title","fv0658",0,"n/a"
+"FieldValue","Motor Drive Assy: Motor - Dampening material","486_title","fv0659",0,"n/a"
+"FieldValue","Motor Drive Assy: Interface - FPCA","487_title","fv0660",0,"n/a"
+"FieldValue","Motor Drive Assy: Interface - Electrical connections","489_title","fv0661",0,"n/a"
+"FieldValue","Motor Drive Assy: Current/power - Maximum power draw","490_title","fv0662",0,"n/a"
+"FieldValue","Motor Drive Assy: Current/power - Maximum pulsed current draw","492_title","fv0663",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Type","493_title","fv0664",0,"n/a"
+"FieldValue","Motor Drive Assy: Durability - Minimum rated cycles","503_title","fv0665",0,"n/a"
+"FieldValue","Motor Drive Assy: Durability - Total motor on-time","504_title","fv0666",0,"n/a"
+"FieldValue","Motor Drive Assy: EMC tuning","505_title","fv0667",0,"n/a"
+"FieldValue","Motor Drive Assy: Durability - Continuous motor-on time","506_title","fv0668",0,"n/a"
+"FieldValue","PCBA interface: Motor supply voltage","491_title","fv0669",0,"n/a"
+"FieldValue","Motor Drive Assy: Actuation - Skin Needle retraction","551_title","fv0670",0,"n/a"
+"FieldValue","Motor Drive Assy: Actuation - FPOS","556_title","fv0671",0,"n/a"
+"FieldValue","Motor Drive Assy: Actuation - Priming","557_title","fv0672",0,"n/a"
+"FieldValue","Motor Drive Assy: Actuation - Skin Needle insertion","558_title","fv0673",0,"n/a"
+"FieldValue","Motor Drive Assy: Actuation - basal delivery encoder counts","567_title","fv0674",0,"n/a"
+"FieldValue","Motor Drive Assy: Actuation - basal delivery motor speed","568_title","fv0675",0,"n/a"
+"FieldValue","Motor Drive Assy: Actuation - bolus delivery encoder counts","576_title","fv0676",0,"n/a"
+"FieldValue","Motor Drive Assy: Actuation - bolus delivery motor speed","577_title","fv0677",0,"n/a"
+"FieldValue","PCBA: NFC tag validity check","602_title","fv0678",0,"n/a"
+"FieldValue","PCBA: Real-time clock function","614_title","fv0679",0,"n/a"
+"FieldValue","PCBA: RTC accuracy","615_title","fv0680",0,"n/a"
+"FieldValue","PCBA: Pod testing communications","652_title","fv0681",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Location","494_title","fv0682",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Photo interrupter location","495_title","fv0683",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Dimensions","496_title","fv0684",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Minimum pulses per revolution","497_title","fv0685",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Maximum output voltage range","498_title","fv0686",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Maximum output frequency","499_title","fv0687",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Minimum output delay","500_title","fv0688",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Maximum voltage and current","501_title","fv0689",0,"n/a"
+"FieldValue","Motor Drive Assy: Encoder - Photo interrupter logic threshold measurements","502_title","fv0690",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Structure","508_title","fv0691",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Dimensions","509_title","fv0692",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Adhesion conditions","510_title","fv0693",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Water resistance","511_title","fv0694",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Removal Force","512_title","fv0695",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Integrity during removal","513_title","fv0696",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Shelf life (alone)","514_title","fv0697",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Shelf life (assembled)","515_title","fv0698",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Biocompatibility","516_title","fv0699",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Materials (sterilization method)","517_title","fv0700",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - REACH compliance","519_title","fv0701",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Biocompatibility","671_title","fv0702",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Detaching device force","716_title","fv0703",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Adhesion durability","717_title","fv0704",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Skin conditions","718_title","fv0705",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Skin condition compatibility","719_title","fv0706",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Skin condition compatibility for removal","720_title","fv0707",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Adhesion","721_title","fv0708",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Vapor permeability","722_title","fv0709",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Vapor permeability (2)","723_title","fv0710",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Adhesive liner","724_title","fv0711",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Release linear ease of removal","725_title","fv0712",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Release liner pull tab shape and dimension","726_title","fv0713",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance,","727_title","fv0714",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Performance, Disassembly force","728_title","fv0715",0,"n/a"
+"FieldValue","Pod: Adhesive Patch - Materials (sterilization method) (2)","729_title","fv0716",0,"n/a"
+"FieldValue"," ensure the force and energy provided by the CONTROLLER to the POD to drive the drug delivery mechanism is delivered by magnetic means only.","360_specification","fv0717",0,"n/a"
+"FieldValue"," ensure that any data exchange between the CONTROLLER and the POD takes place using contactless means.","361_specification","fv0718",0,"n/a"
+"FieldValue"," fufill the architecture specification documented in DOC_nnn.","362_specification","fv0719",0,"n/a"
+"FieldValue"," provide no means for the following drug delivery parameters to be changed via the UI: 
+
+     -  number of basal pulses per hour
+     -  number of available bolusES per hour
+     -  volume of each basal/bolus pulse","586_specification","fv0720",0,"n/a"
+"FieldValue"," have an external physical interface to Automatic Test Equipment (ATE) via which it can be placed in ATE mode state for testing and programming.","591_specification","fv0721",0,"n/a"
+"FieldValue"," have the means to detect when the DEVICE is in contact with a flat surface.","593_specification","fv0722",0,"n/a"
+"FieldValue"," have a single relative orientation only in which the CONTROLLER and POD can be assembled to form the DEVICE.","594_specification","fv0723",0,"n/a"
+"FieldValue"," be assembled by the USER from the CONTROLLER and the POD with no need for additional tools.","595_specification","fv0724",0,"n/a"
+"FieldValue"," neither require nor allow the USER to service the DEVICE or replace internal components.","643_specification","fv0725",0,"n/a"
+"FieldValue"," neither require nor allow calibration or maintenance by the USER.","644_specification","fv0726",0,"n/a"
+"FieldValue"," consist only of the following two parts coupled to each other by the USER: 
+
+  1) the "CONTROLLER", incorporating 
+     -  the active UI elements of the DEVICE,
+     -  the programmable control logic of the DEVICE, 
+     -  all electrical components of the DEVICE, and
+
+  2) the "POD", incorporating
+     -  the Primary Packaging for 3 ml of the drug being delivered,
+     -  all elements on the drug delivery pathway","732_specification","fv0727",0,"n/a"
+"FieldValue"," provide continuous and pre-programmed subcutaneous drug delivery.","353_specification","fv0728",0,"n/a"
+"FieldValue"," deliver the drug according to a factory-set basal infusion regimen.","354_specification","fv0729",0,"n/a"
+"FieldValue"," be able to deliver bolus doses at the USER's request within factory-set limits of quantity and frequency.","355_specification","fv0730",0,"n/a"
+"FieldValue"," adhere to the USER's skin continuously for the entire duration of a single THERAPY CYCLE.","356_specification","fv0731",0,"n/a"
+"FieldValue"," allow the USER to visually inspect the drug prior to initiating the therapy, but prevent access to it.","357_specification","fv0732",0,"n/a"
+"FieldValue"," provide visual, audible and haptic feedback to the USER.","358_specification","fv0733",0,"n/a"
+"FieldValue"," incorporate various mechanisms to ensure its safe use.","359_specification","fv0734",0,"n/a"
+"FieldValue"," have an in-use lifecycle consisting of [THERAPY_CYCLE_COUNT] THERAPY CYCLES, each having a duration of [THERAPY_CYCLE_DURATION].","385_specification","fv0735",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_basal, in which... 
+
+ it delivers a discrete quantity of drug - termed a basal pulse - according to the rules defined in [TRS-142] and [TRS-1814].","402_specification","fv0736",0,"n/a"
+"FieldValue"," deliver [basal_PULSE_HOUR] basal pulses per hour throughout the THERAPY CYCLE with a cycle time of [basal_PULSE_INTERVAL]. 
+
+Note : RTC accuracy as per [TRS-1921].","403_specification","fv0737",0,"n/a"
+"FieldValue"," have a number of basal pulses that can be delivered that is pre-programmed in production and cannot be changed by the USER.","404_specification","fv0738",0,"n/a"
+"FieldValue"," be available with three basal dose configurations: 
+
+   a)  Low dose basal rate: [LOW_basal_FLOW_RATE]
+   b)  Medium dose basal rate: [MEDIUM_basal_FLOW_RATE]
+   c)  High dose basal rate: [HIGH_basal_FLOW_RATE].","405_specification","fv0739",0,"n/a"
+"FieldValue",", for all dose configurations, deliver each individual basal pulse with a nominal flow rate of [basal_FLOW_RATE].","406_specification","fv0740",0,"n/a"
+"FieldValue",", in accordance with its dose configuration setting [TRS-144], deliver the following drug volumes for a single bolus: 
+
+   -  Low dose basal rate: [LOW_bolus_VOLUME]
+   -  Medium dose basal rate: [MEDIUM_bolus_VOLUME]
+   -  High dose basal rate: [HIGH_bolus_VOLUME]","407_specification","fv0741",0,"n/a"
+"FieldValue"," have a volume of drug delivered with each bolus that is pre-programmed in production and cannot be changed by the USER.","408_specification","fv0742",0,"n/a"
+"FieldValue",", for all dose configurations, deliver each bolus with a nominal flow rate of [bolus_FLOW_RATE].","409_specification","fv0743",0,"n/a"
+"FieldValue"," limit the number of bolusES delivered over a THERAPY CYCLE to [bolus_TOTAL_AMOUNT], according to bolus hourly availability described in [TRS-153] and the RTC accuracy specified in [TRS-1921].","410_specification","fv0744",0,"n/a"
+"FieldValue"," have a maximum number of bolusES (bolus_AVAILABLE_CYCLE) per THERAPY CYCLE that is pre-programmed in production and cannot be changed by the USER.","411_specification","fv0745",0,"n/a"
+"FieldValue",", during the first hour of a THERAPY CYCLE, be able to deliver a maximum number of bolusES of [bolus_AVAILABLE_FIRST_HOUR] minus the number of bolusES delivered within the previous rolling hour of the previous THERAPY CYCLE.","412_specification","fv0746",0,"n/a"
+"FieldValue",", after the first hour of a THERAPY CYCLE, be able to deliver a maximum number of bolusES per hour of [bolus_AVAILABLE_HOUR].","413_specification","fv0747",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_PAUSE, in which... 
+
+ the THERAPY CYCLE is paused upon request of the USER when pressing the Start/Pause Button.","417_specification","fv0748",0,"n/a"
+"FieldValue"," fulfil the requirements for flow rate and dose accuracy for both basal and bolus regimens with drug formulations having a viscosity in the range of [VISCOSITY_MIN] to [VISCOSITY_MAX]. 
+
+Note: basal flow rates as per [TRS-145], bolus flow rates as per [TRS-150]","452_specification","fv0749",0,"n/a"
+"FieldValue"," be able to log and store in the NVM the following operating parameters:
+
+* Absolute timestamp
+* FSM Device State
+* Therapy cycle number
+* Any type of event and associated characteristics data happening during the DEVICE normal operations (including State transitions)
+* Error codes
+* Therapy related data as:
+   -  Start of therapy cycle event
+   -  bolus and Start/Pause Button interrupts
+   -  bolus delivery event
+   -  bolus delivery event duration
+   -  ENCODER counts monitored for each bolus event
+   -  basal delivery event
+   -  basal delivery event duration
+   -  ENCODER counts monitored for each basal event
+   -  Estimated residual amount of drug
+   -  Any Alarm event happening during the therapy normal operations
+   -  End of therapy cycle event.","488_specification","fv0750",0,"n/a"
+"FieldValue"," consider an occlusion to be present during the delivery of a basal pulse if at least one of the following conditions occurs: 
+
+     -  the motor shaft speed decreases by more than the [MOTOR_SHAFT_DECELERATION] of the nominal [basal_MOTOR_SPEED]
+     -  the current drawn by the motor is greater than or equal to [OCCLUSION_DETECTION_basal_MOTOR_CURRENT].","507_specification","fv0751",0,"n/a"
+"FieldValue"," detect an occlusion in the fluidic pathway before it results in: 
+
+a) under delivery of a single bolus by < 80% of the target volume; or
+b) basal dose inaccuracy of < 80% of target basal dose within a 1 hr period.","518_specification","fv0752",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_ATE_MODE, 
+
+WHEN the a valid deactivation command is received, 
+
+THEN transit to SYSTEM_STATE_SHELF_LIFE.","523_specification","fv0753",0,"n/a"
+"FieldValue"," transit to SYSTEM_STATE_SHELF_LIFE in the event that it is switched on by anything other than a valid recognizable POD.","524_specification","fv0754",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_SHELF_LIFE, in which the following circuits only are powered: 
+
+   -  RTC (previously initialized during the manufacturing process)
+   -  POD presence detection
+   -  System wake-up management","525_specification","fv0755",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_POD_IDENTIFICATION,
+
+WHEN the time required to perform the POD identification exceeds [TIMEOUT_IDENTIFICATION], 
+
+THEN transit to SYSTEM_STATE_POWER_OFF. 
+
+Note: RTC accuracy as per [TRS-1921]","526_specification","fv0756",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_CHANGE_POD
+AND the CONTROLLER and POD are coupled,
+
+WHEN the skin sensor has been unable to detect a contact surface for [TIMEOUT_SKIN_MISSING_SLEEP]  
+
+THEN transit to SYSTEM_STATE_POWER_OFF. 
+
+Note: RTC accuracy as per [TRS-1921]","527_specification","fv0757",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_INITIALIZATION,
+
+WHEN the POD is detached before transition to SYSTEM_STATE_POD_IDENTIFICATION, 
+
+THEN transit to SYSTEM_STATE_POWER_OFF.","528_specification","fv0758",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_POWER_OFF, in which the following circuits only are powered: 
+
+   -  MCU (in low power mode)
+   -  RTC
+   -  Start/Pause Button and Bolus Button interface
+   -  POD presence detection
+   -  System wake-up management","529_specification","fv0759",0,"n/a"
+"FieldValue",", GIVEN it is in any system state, 
+
+WHEN the CONTROLLER and the POD are decoupled, 
+
+THEN transit to SYSTEM_STATE_DECOUPLED.","530_specification","fv0760",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_DECOUPLED, in which... 
+
+ the power off sequence automatically starts to transit then in SYSTEM_STATE_POWER_OFF.","531_specification","fv0761",0,"n/a"
+"FieldValue",", WHEN the first successful coupling of the CONTROLLER and POD has taken place, 
+
+THEN automatically power on, 
+THEN transit from SYSTEM_STATE_SHELF_LIFE to SYSTEM_STATE_INITIALIZATION.","532_specification","fv0762",0,"n/a"
+"FieldValue",", WHEN coupling an unused POD to the CONTROLLER, 
+
+THEN automatically power on, 
+THEN transit from SYSTEM_STATE_POWER_OFF to SYSTEM_STATE_INITIALIZATION.","533_specification","fv0763",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_INITIALIZATION,
+
+WHEN the number of previously coupled PODs equals [THERAPY_CYCLE_NUMBERS], 
+
+THEN abort the initialization sequence.","534_specification","fv0764",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_INITIALIZATION, in which it performs the following operations to initialize itself:
+
+   -  checks the NVM integrity
+   -  starts the lifetime of the CONTROLLER since the first POD coupling
+   -  checks the lifetime of the DEVICE since the RTC initialization
+   -  checks the lifetime of the CONTROLLER since the first POD coupling
+   -  checks the total number of coupled PODs
+   -  performs a set of tests on the hardware components activated by the firmware, called Power-On Self Test (POST)
+   -  monitors the error events occurring, both NRE or not
+   -  checks the BATTERY level
+   -  updates the UI in function of the corresponding event/s.","535_specification","fv0765",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_INITIALIZATION
+AND during the initialization sequence [TRS-1758],
+
+WHEN an error is recognized as non-recoverable [TRS-1908], 
+
+THEN transit to SYSTEM_STATE_NRE.","536_specification","fv0766",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_CHANGE_POD,
+
+WHEN an error is recognized as non-recoverable as per [TRS-1908], 
+
+THEN transit to SYSTEM_STATE_NRE.","537_specification","fv0767",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_NRE, in which it... 
+
+ interrupts the nominal working operations and updates the UI as per [TRS-1978], [TRS-1979] and [TRS-1980] until the complete battery depletion.","538_specification","fv0768",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_INITIALIZATION,
+
+WHEN it receives a valid external command to enter production and testing mode, 
+
+THEN transit to SYSTEM_STATE_ATE_MODE  as per [TRS-1768].","539_specification","fv0769",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_INITIALIZATION,
+
+WHEN the initialization operations listed in [TRS-1758] are all successfully completed, 
+
+THEN transit to SYSTEM_STATE_POD_IDENTIFICATION
+THEN start the POD identification sequence.","540_specification","fv0770",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_POD_IDENTIFICATION, in which it performs the following sequence of actions: 
+
+   -  reads the NFC tag of the POD
+   -  in case of the first POD only, reads the POD dose configuration profile and stores it in the CONTROLLER NVM 
+   -  for all PODs except the first coupled, checks the compatibility of the coupled POD with the dose configuration profile CONTROLLER NVM
+   -  interprets the position of the skin sensor
+   -  monitors the interrupts coming from the Start/Pause Button
+   -  updates the UI as per [TRS-1984], [TRS-1985], [TRS-1986].","541_specification","fv0771",0,"n/a"
+"FieldValue",", when in the state SYSTEM_STATE_POD_IDENTIFICATION, read from the POD's NFC tag the information specified in [TRS-1907].","542_specification","fv0772",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_SETUP,
+
+WHEN the first valid POD is coupled, 
+
+THEN start to count the lifetime (EoL) of the CONTROLLER.","545_specification","fv0773",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_POD_IDENTIFICATION,
+
+WHEN it detects that the dose configuration of the coupled POD is different to that registered in the CONTROLLER NVM, 
+
+THEN transit to SYSTEM_STATE_CHANGE_POD.","546_specification","fv0774",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_IDLE,
+
+WHEN the elapsed time in therapy for a POD exceeds [THERAPY_CYCLE_DURATION], 
+
+THEN transit to SYSTEM_STATE_CHANGE_POD whilst denying any other pending action.
+
+Note: RTC accuracy as per [TRS-1921]","547_specification","fv0775",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_basal, 
+
+WHEN an error as per [TRS-1909] is detected, 
+
+THEN stop delivery of the basal pulse,
+THEN transit to SYSTEM_STATE_CHANGE_POD.","548_specification","fv0776",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_bolus, 
+
+WHEN an error as per [TRS-1909] is detected, 
+
+THEN stop delivery of the bolus pulse,
+THEN transit to SYSTEM_STATE_CHANGE_POD.","549_specification","fv0777",0,"n/a"
+"FieldValue",", GIVEN the SKIN NEEDLE is in its deployed position,
+
+WHEN it transits to SYSTEM_STATE_CHANGE_POD
+
+THEN perform SKIN NEEDLE retraction as per [TRS-1789].","550_specification","fv0778",0,"n/a"
+"FieldValue",", GIVEN it is in any system state, 
+
+WHEN the BATTERY voltage is recognized to be lower than [BATTERY_CRITICAL_VALUE], 
+
+THEN transit to SYSTEM_STATE_CRITICAL_VOLTAGE.","552_specification","fv0779",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_CRITICAL_VOLTAGE, in which it:  
+
+   -  retracts the SKIN NEEDLE (if inserted), 
+   -  interrupts any running working operation prior to the complete battery depletion
+   - updates the UI in function of the corresponding event/s.","553_specification","fv0780",0,"n/a"
+"FieldValue",", GIVEN the POD identification sequence has been successfully performed,
+
+WHEN the skin sensor detects the skin presence as per [TRS-1865]
+AND the Start/Pause Button is operated as per [TRS-2022] (Hold Event), 
+
+THEN transit to SYSTEM_STATE_SETUP,
+THEN start all the automated operations preparatory for drug delivery.","554_specification","fv0781",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_SETUP, in which it performs, as a minimum, the following actions in the given order prior to the delivery of the first basal pulse:
+
+   -  FPOS actuation
+   -  Update of the information stored into the POD NFC tag
+   -  Air priming
+   -  NIM actuation
+   -  Update the UI in function of the corresponding event/s
+   -  Clear all the statistics related to the POD therapy counters.","555_specification","fv0782",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_PAUSE,
+
+WHEN the USER operates the Start/Pause Button as per [TRS-2022] (Hold Event), 
+
+THEN transit to SYSTEM_STATE_IDLE.","559_specification","fv0783",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_PAUSE,
+
+WHEN the elapsed time since the start of the SKIN NEEDLE actuation exceeds [THERAPY_CYCLE_DURATION], 
+
+THEN transit to SYSTEM_STATE_IDLE,
+THEN transit to SYSTEM_STATE_CHANGE_POD. 
+
+Note: RTC accuracy as per [TRS-1921]","560_specification","fv0784",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_IDLE,
+
+WHEN the elapsed time since the coupling of an unused POD reaches [basal_SETTLING_TIME], 
+
+THEN transit to SYSTEM_STATE_basal, 
+THEN deliver a basal pulse according to [TRS-141]","562_specification","fv0785",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_IDLE,
+
+WHEN the elapsed time since the start of the previous successful basal pulse delivery equals [basal_PULSE_INTERVAL], 
+
+THEN transit to SYSTEM_STATE_basal, 
+THEN deliver a basal pulse
+
+Note: RTC accuracy as per [TRS-1921]","563_specification","fv0786",0,"n/a"
+"FieldValue",", GIVEN the time elapsed since the last basal pulse is higher than [basal_PULSE_INTERVAL], 
+
+WHEN it exits from SYSTEM_STATE_PAUSE, 
+
+THEN transit to SYSTEM_STATE_basal
+THEN deliver a basal pulse
+
+Note: RTC accuracy as per [TRS-1921]","564_specification","fv0787",0,"n/a"
+"FieldValue",", GIVEN the time elapsed since the last basal pulse is lower than [basal_PULSE_INTERVAL], 
+
+WHEN it exits from SYSTEM_STATE_PAUSE, 
+
+THEN wait to deliver the next basal pulse as per [TRS-1811]
+
+Note: RTC accuracy as per [TRS-1921]","565_specification","fv0788",0,"n/a"
+"FieldValue",", in accordance with the dose configurations defined in [TRS-144] and the maximum number of basal pulses per hour defined in [TRS-142], deliver single basal pulses having a drug volume of: 
+
+   a)  low dose basal volume: [LOW_basal_VOLUME]
+   b)  medium dose basal volume: [MEDIUM_basal_VOLUME]
+   c)  high dose basal volume: [HIGH_basal_VOLUME].","566_specification","fv0789",0,"n/a"
+"FieldValue",", in accordance with the dose volumes defined in [TRS-1814], deliver single basal pulses in a maximum time of: 
+
+   a)  low dose basal time: [LOW_basal_TIME] + [basal_TIME_TOLL]
+   b)  medium dose basal time: [MEDIUM_basal_TIME] + [basal_TIME_TOLL]
+   c)  high dose basal time: [HIGH_basal_TIME] + [basal_TIME_TOLL]","569_specification","fv0790",0,"n/a"
+"FieldValue"," monitor whether the current drawn by the motor exceeds [MAX_basal_DELIVERY_CURRENT] during the delivery of a basal pulse.","570_specification","fv0791",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_IDLE,
+
+WHEN the USER requests a bolus [TRS-2023] and a bolus is available [TRS-151], 
+
+THEN transit to SYSTEM_STATE_bolus, 
+THEN deliver a bolus.","572_specification","fv0792",0,"n/a"
+"FieldValue"," have a state, SYSTEM_STATE_bolus, in which... 
+
+ it delivers a discrete quantity of drug, termed bolus, according to the availability rules defined in [TRS-151] and [TRS-48].","573_specification","fv0793",0,"n/a"
+"FieldValue"," monitor whether the current drawn by the motor exceeds [MAX_bolus_DELIVERY_CURRENT] during the delivery of a bolus pulse.","574_specification","fv0794",0,"n/a"
+"FieldValue",", while in SYSTEM_STATE_bolus, retain in its NVM the number of bolusES delivered.","575_specification","fv0795",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_basal or SYSTEM_STATE_bolus, 
+
+WHEN the time spent in therapy for a given POD exceeds [THERAPY_CYCLE_DURATION], 
+
+THEN continue the ongoing basal/bolus delivery until its completion,
+THEN transit to SYSTEM_STATE_IDLE, 
+THEN transit to SYSTEM_STATE_CHANGE_POD.
+
+Note: RTC accuracy as per [TRS-1921]","579_specification","fv0796",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_bolus,
+
+WHEN the delivery of a basal pulse is scheduled to occur, 
+
+THEN complete the delivery of the bolus,
+THEN transit into SYSTEM_STATE_IDLE,
+THEN transit into SYSTEM_STATE_basal and deliver the scheduled basal pulse.
+
+In case a previous request for pause is present into the queue managed in SYSTEM_STATE_IDLE, the system SHALL transit to SYSTEM_STATE_PAUSE and not deliver the basal pulse scheduled.","580_specification","fv0797",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_bolus, 
+
+WHEN the bolus pulse has been successfully delivered, 
+
+THEN transit to SYSTEM_STATE_IDLE.","581_specification","fv0798",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_IDLE,
+
+WHEN the USER presses the Start/Pause Button as per [TRS-2022] (Hold Event], 
+
+THEN transit to SYSTEM_STATE_PAUSE.","582_specification","fv0799",0,"n/a"
+"FieldValue",", GIVEN it is in SYSTEM_STATE_basal,
+
+WHEN the USER operates the Start/Pause Button as per [TRS-2022] (Hold Event),
+
+THEN complete any ongoing operation/action
+THEN transit to SYSTEM_STATE_IDLE
+THEN transit to SYSTEM_STATE_PAUSE.","583_specification","fv0800",0,"n/a"
+"FieldValue"," have less than 3 ¬µL of air remaining in the fluidic path on completion of the air priming (purging) process.","585_specification","fv0801",0,"n/a"
+"FieldValue"," calculate the following for the entire THERAPY CYCLE: 
+
+   -  the overall quantity of infused formulation,
+   -  the residual amount of drug volume, starting from the pre-programmed value of available volume in a new primary container and taking into account the cumulative amount of infused formulation.","599_specification","fv0802",0,"n/a"
+"FieldValue"," consider an occlusion to be present during the delivery of a bolus if at least one of the following conditions occurs: 
+
+     -  the motor shaft speed decreases by more than the [MOTOR_SHAFT_DECELERATION] of the nominal [bolus_MOTOR_SPEED]
+     -  the current drawn by the motor is greater than or equal to [OCCLUSION_DETECTION_bolus_MOTOR_CURRENT].","600_specification","fv0803",0,"n/a"
+"FieldValue"," transit to SYSTEM_STATE_NRE every time one of the following conditions are confirmed: 
+
+   -  the presence of a repeatable and consistent error as per [TRS-1909]
+   -  the presence of an error implying the integrity of the FW and the associated State Machine execution
+   -  the presence of a previous NRE flag stored into the NVM, in correspondence of any previous NRE detected event.","603_specification","fv0804",0,"n/a"
+"FieldValue",", GIVEN it is in any system state, 
+
+WHEN an error is encountered during the execution of an operation, 
+
+THEN operate according to the following sequence: 
+
+   -   Retry the re-execution of the operation for a total number of [ERR_TOTAL_NUMBER_TRIALS] trials
+   -  In case the error continues to be verified, automatically transit into SYSTEM_STATE_CHANGE_POD and ask to couple an unused POD, and log the error code into the NVM
+* At the following start-up, verify the stored error code when in SYSTEM_STATE_INITIALIZATION
+* If the error verified is not impacting the integrity of the FW or the NVM, resume its normal operation mode
+* In case the same error is encountered again with a new coupled POD, automatically transit to SYSTEM_STATE_NRE.","604_specification","fv0805",0,"n/a"
+"FieldValue"," record the elapsed time from when the skin sensor stops detecting the presence of a surface.","607_specification","fv0806",0,"n/a"
+"FieldValue"," mark a POD as "used" following the initiation of the fluid path opening sequence, but prior to the piercing of the SEPTUM.","608_specification","fv0807",0,"n/a"
+"FieldValue"," retain in memory the time elapsed since the first successful POD activation.","609_specification","fv0808",0,"n/a"
+"FieldValue"," execute air priming (purging) only when the DEVICE detects it is in contact with the User's skin.","613_specification","fv0809",0,"n/a"
+"FieldValue"," execute air priming (purging) as per [TRS-1795] without User intervention being required.","616_specification","fv0810",0,"n/a"
+"FieldValue"," emit noise during normal operation having a maximum sound pressure level of 35 dBA.  
+
+Note: Test conditions
+   -  procedure according to ISO 3744
+   -  at maximum motor speed (bolus regimen)
+   -  DEVICE lying face up on dampening foam
+   -  sound level meter at 1 m distance, no wind shield","622_specification","fv0811",0,"n/a"
+"FieldValue"," deliver the drug as intended, in both basal and bolus regimens, irrespective of the orientation of the DEVICE on the injection site.","641_specification","fv0812",0,"n/a"
+"FieldValue"," compensate for a deviation between the intended and measured ENCODER counts for a basal or bolus pulse by adding the difference to the subsequent delivery event.","642_specification","fv0813",0,"n/a"
+"FieldValue"," have a basal dose accuracy of: 
+
+   a)  +/-20% of the target nominal overall volume over a period of 1h; and
+   b)  +/-10% of the target nominal overall volume over a period of 4h; and
+   c)  +/-5% of the target nominal overall volume over a period of 24h, 
+
+with 95% coverage and 95% confidence and RTC accuracy as per [TRS-1921].","646_specification","fv0814",0,"n/a"
+"FieldValue"," deliver bolusES with an accuracy of: 
+
+   a)  +/- 20% volume accuracy per individual bolus
+   b) +/- 10% total bolus volume accuracy over 4 hours with [MAX_NUMBER_bolusES_4_HOURS] bolusES delivered, 
+   c)  +/- 5% total bolus volume accuracy over 24 hours with [bolus_AVAILABLE_CYCLE] delivered,
+
+Note:  95% coverage and 95% confidence and  RTC accuracy as per [TRS-1921].","647_specification","fv0815",0,"n/a"
+"FieldValue"," be allowed to miss a cumulative fluid delivery volume (basal/bolus) of up to MISSED_VOLUME per POD. 
+
+Note: This loss SHALL be excluded by the performances of dose accuracy specified in [TRS-203] and [TRS-204] respectively.","648_specification","fv0816",0,"n/a"
+"FieldValue"," not be required to interface with external devices to carry out its normal operations during its service life.","675_specification","fv0817",0,"n/a"
+"FieldValue"," have features that make it evident if the CONTROLLER or POD have been opened.","676_specification","fv0818",0,"n/a"
+"FieldValue"," require destructive means (i.e. breaking open, cutting, drilling etc.) to be used to gain access to the drug or drug dispensing componentry.","686_specification","fv0819",0,"n/a"
+"FieldValue"," have a maximum volume of drug remaining within it after the completion of a THERAPY CYCLE of [HOLD_UP_VOLUME].","689_specification","fv0820",0,"n/a"
+"FieldValue"," trigger retraction or protection of the SKIN NEEDLE only on being lifted from the injection site a distance of [SAFETY_INTERLOCK_VERTICAL_TRAVEL].","715_specification","fv0821",0,"n/a"
+"FieldValue"," incorporate the following components in order to manage the UI information signals:
+
+   -  Audio transducer able to reproduce audible information signals and alarms
+   -  Buttons to interface with the USER‚Äôs input actions
+   -  LEDs able to reproduce visible information signals and alarms
+   -  Vibration motor able to reproduce haptic feedback.","386_specification","fv0822",0,"n/a"
+"FieldValue"," require a maximum force of [RP_DP_MATING_FORCE] to be applied by the USER in the process of fully coupling the POD to the CONTROLLER.","387_specification","fv0823",0,"n/a"
+"FieldValue",", once the latching mechanism has been released, require a maximum force of [RP_DP_UNMATING_FORCE] to be applied by the USER to decouple the POD from the CONTROLLER.","388_specification","fv0824",0,"n/a"
+"FieldValue"," have a form that makes it possible to couple mechanically the CONTROLLER and POD only using translation along a single pre-defined direction and with a single pre-defined orientation between the two parts.","389_specification","fv0825",0,"n/a"
+"FieldValue"," have a maximum visible perpendicular shut line gap between the CONTROLLER and the POD in the fully coupled and latched state of [MAX_PHY_GAP].","390_specification","fv0826",0,"n/a"
+"FieldValue"," incorporate a latching mechanism between the CONTROLLER and the POD having features intending to prevent unintentional release during use.","391_specification","fv0827",0,"n/a"
+"FieldValue"," ensure that, when attached to the injection site, visual indicators can be seen from all directions.","394_specification","fv0828",0,"n/a"
+"FieldValue"," provide visual feedback (alarms, indicators and markings) that are correctly perceived (in compliance with IEC 60601-1-8, clause 6.3.2.2) at a distance of 1 m by a person having a visual acuity of ‚Äò0‚Äô on the log MAR scale or 6-6 (20/20) vision (corrected if necessary) and an ambient luminance of 100 lx to 1500 lx. 
+
+Note: The DEVICE shall be positioned during test according to the intended position of the operator or at any point within the base of a cone subtended by an angle of 30¬∞ to the axis normal to the centre of the plane of the indicator.","395_specification","fv0829",0,"n/a"
+"FieldValue"," indicate when therapy is being delivered. 
+
+Note: This indicator may be periodic and does not need to be continuously active.","396_specification","fv0830",0,"n/a"
+"FieldValue"," provide audio and visual feedback to the USER when a bolus has been requested.","397_specification","fv0831",0,"n/a"
+"FieldValue"," notify the USER when a POD needs to be changed. 
+
+Note: Under normal conditions (non-alarm or other exceptional conditions), this shall occur after [THERAPY_CYCLE_DURATION] hours. [TBD alarm]","398_specification","fv0832",0,"n/a"
+"FieldValue"," emit audible alarm signals having a sound pressure level with the following characteristics:
+
+   -  High Priority Alarms: in the range of [UI_HPA_SPL_MIN] to [UI_HPA_SPL_MAX]
+   -  Low Priority Alarms: in the range of [UI_LPA_SPL_MIN] to [UI_LPA_SPL_MAX] 
+
+when measured at 1 m distance from the normal surface of the display with the DEVICE laying on a planar rigid surface according to ISO 3744 standard.","399_specification","fv0833",0,"n/a"
+"FieldValue"," produce visual low priority alarms having a visual pattern compliant with IEC 60601-1-8, clause 6.3.2.","400_specification","fv0834",0,"n/a"
+"FieldValue"," produce visual high priority alarms having a visual pattern compliant with IEC 60601-1-8, clause 6.3.2.","401_specification","fv0835",0,"n/a"
+"FieldValue"," notify the USER that a new bolus is available to be delivered via the UI as per TRSXX. (TBD)","414_specification","fv0836",0,"n/a"
+"FieldValue"," provide feedback to the USER on delivery of a bolus according to [TRS-1984], [TRS-1985], and [TRS-1986].","415_specification","fv0837",0,"n/a"
+"FieldValue",", after the successful delivery of a bolus, provide an information signal, communicated to the user via the UI as specified in TRSXX. (TBD)","416_specification","fv0838",0,"n/a"
+"FieldValue"," provide audio and visual feedback to the USER when the DEVICE transitions into, and out of, the paused state.","418_specification","fv0839",0,"n/a"
+"FieldValue",", after the initial pause indication specified in [TRS-79], produce an audible and visual reminder as specified below [TBD]:
+
+Note 1: Times indicated below are durations after DEVICE becomes paused.
+Note 2: All times indicated below are intended to have a tolerance of +/- 60 seconds.
+
+Reminder Pattern:
+
+a) 2 minutes
+b) 5 minutes
+c) 10 minutes
+d) 30 minutes
+e) 60 minutes
+
+The Reminder Pattern (defined above) shall progress through its schedule starting at the following intervals until the user un-pauses the DEVICE after which the DEVICE no longer provides a reminder.
+
+# [PAUSE_TIMEOUT]
+# [PAUSE_TIMEOUT] + 2 hours
+# [PAUSE_TIMEOUT] + 8 hours","419_specification","fv0840",0,"n/a"
+"FieldValue"," inform the USER via the UI that the DEVICE is not properly fixed on the injection site if the following conditions all apply: 
+
+   -  the POD identification sequence has been successfully performed, 
+   -  the DEVICE is unable to detect skin presence as per [TRS-1865], and 
+   -  the Start/Pause Button is pressed as per [TRS-2022] (Hold Event)","544_specification","fv0841",0,"n/a"
+"FieldValue",", if the Bolus Button is pressed as per [TRS-2023] during the delivery of a bolus, complete the delivery of the first bolus and ignore the request for a second bolus.","578_specification","fv0842",0,"n/a"
+"FieldValue"," have buttons and LEDs placed on the external surfaces of the DEVICE in a configuration that does not interfere with coupling/decoupling operations between the CONTROLLER and the POD.","587_specification","fv0843",0,"n/a"
+"FieldValue"," produce audible low priority alarms having an auditory pattern compliant with IEC 60601-1-8, clause 6.3.3.","625_specification","fv0844",0,"n/a"
+"FieldValue"," produce audible high priority alarms having an auditory pattern compliant with IEC 60601-1-8, clause 6.3.3.","626_specification","fv0845",0,"n/a"
+"FieldValue"," emit all audible information signals with a minimum sound pressure level of [UI_NOTIFICATIONS_SPL].  
+
+Note: measured at 1 m distance from the normal surface of the display with the DEVICE lying on a planar rigid surface according to ISO3744 standard.","627_specification","fv0846",0,"n/a"
+"FieldValue"," effect the active visible UI (indicator lights for alarms and for information) by means of at least the following RGB LEDs, according to IEC 60601-1, section 15.4.4:
+
+   -  one therapy status indicator
+   -  two bolus availability indicators
+   -  one battery level indicator
+   -  one warning indicator.","628_specification","fv0847",0,"n/a"
+"FieldValue"," allow the USER to pause alarm feedback (with the proper designed combination of visual, audible and haptic) related to alarm conditions upon an appropriate acknowledgment coming from the user and exerted by the actuation of the Start/Pause or Bolus Button (TBD).","629_specification","fv0848",0,"n/a"
+"FieldValue"," resume alarms feedback (with the proper designed combination of visual, audible and haptic) after a maximum paused time equal to [UI_MAX_ALARM_PAUSE_TIMEOUT] if the alarm condition which generated them still exists.","630_specification","fv0849",0,"n/a"
+"FieldValue"," manage the UI with a proper combination of the following feedbacks provided to the user:
+
+   -  Visual
+   -  Audible 
+   -  Haptic","631_specification","fv0850",0,"n/a"
+"FieldValue"," be capable of repeating alarms feedbacks (with the proper designed combination of visual, audible and haptic) related to alarm conditions according to the conditions specified in [TRS-1978], [TRS-1979] and [TRS-1980].","632_specification","fv0851",0,"n/a"
+"FieldValue"," display visual alarms according to the following table:
+
+NO CHANGE TO TABLE [TRS-1978]","633_specification","fv0852",0,"n/a"
+"FieldValue"," emit audible alarms according to the following table:
+
+NO CHANGE TO TABLE [TRS-1979]","634_specification","fv0853",0,"n/a"
+"FieldValue"," generate haptic alarms according to the following table:
+
+NO CHANGE TO TABLE [TRS-1980]
+
+ -  Andrea's comment on frequency for 1986 also applicable here?","636_specification","fv0854",0,"n/a"
+"FieldValue"," display visual information signals according to the following table:
+
+NO CHANGE TO TABLE [TRS-1984]","637_specification","fv0855",0,"n/a"
+"FieldValue"," emit audible information signals according to the following table: 
+
+NO CHANGE TO TABLE [TRS-1985] except
+
+   -   buzzer frequency should be 1 kHz, not 500 Hz - input from Andrea Cuccato","638_specification","fv0856",0,"n/a"
+"FieldValue"," generate haptic information signals according to the following table: 
+
+NO CHANGE TO TABLE [TRS-1986] except
+
+   -   haptic motor frequency should be 20 kHz, not 500 Hz - input from Andrea Cuccato","639_specification","fv0857",0,"n/a"
+"FieldValue"," reproduce visual and audible alarms in compliance with the conditions listed into the IEC 60601-2-24, table 208.101 (according the  appropriate device classification).","640_specification","fv0858",0,"n/a"
+"FieldValue"," have a visible UI for information and alarms that use appropriate indicators/graphical icons coloured as reported in Appendix#3.","684_specification","fv0859",0,"n/a"
+"FieldValue"," have materials in contact with drug product subjected to extractables studies for an overall contact of maximum [THERAPY_CYCLE_DURATION] + 12 hrs, according to ISO 10993-16 and ISO10993-17.","449_specification","fv0860",0,"n/a"
+"FieldValue"," have materials in contact with drug product subjected to leachables studies for an overall contact of maximum [THERAPY_CYCLE_DURATION ]+ 12 hrs.","450_specification","fv0861",0,"n/a"
+"FieldValue"," be subjected to a humidity preconditioning treatment before performing the compliance tests related to clause 8.7.3, 8.7.4 of IEC 60601.","612_specification","fv0862",0,"n/a"
+"FieldValue"," maintain BASIC SAFETY and ESSENTIAL PERFORMANCE and not show any form of condensation on live parts after being subjected to leakages of drug coming out from a POD.","635_specification","fv0863",0,"n/a"
+"FieldValue"," maintain BASIC SAFETY and ESSENTIAL PERFORMANCES under the following environmental conditions: 700 hPa to 1060 hPa (equivalent to -381.9 to 3010.9 meters vs sea level)","650_specification","fv0864",0,"n/a"
+"FieldValue"," pass a visual inspection and maintain BASIC SAFETY and ESSENTIAL PERFORMANCE after the drop test executed in accordance to the IEC60601-1 15.3.4.1:
+
+   -  free drop the DEVICE once per each face from the height of 100 cm onto a 50 mm ¬± 5 mm thick hardwood board (hardwood > 600 kg/m3) lying flat on a concrete or a similar rigid base.
+
+All DEVICE parts shall be in compliance with this requirement and tested according to the following scheme:
+
+   -  POD alone, properly packaged in its sealed packaging
+   -  POD alone, removed from its sealed packaging
+   -  CONTROLLER alone, removed from its packaging
+   -  CONTROLLER properly mechanically connected to the POD.","657_specification","fv0865",0,"n/a"
+"FieldValue"," pass a visual inspection and maintain BASIC SAFETY and ESSENTIAL PERFORMANCE after being hit by an impact mass in accordance to IEC60601-1 clause 15.3.3:
+
+   -  the DEVICE SHALL be supported in its normal position. A solid smooth steel ball, approximately 50 mm in diameter and with a mass of 500 g ¬± 25 g, is permitted to fall freely from a 1,3 m height once onto each relevant part of the test sample.
+
+   -  To test vertical surfaces, the steel ball is suspended by a cord and allowed to swing like a pendulum in order to apply a horizontal impact, dropping though a vertical distance of 1,3 m once against each relevant part of the test sample","658_specification","fv0866",0,"n/a"
+"FieldValue"," pass a visual inspection and maintain BASIC SAFETY and ESSENTIAL PERFORMANCE after being pushed in accordance with the IEC60601-1 clause 15.3.2 as follow:
+
+   -  Pushing steady force: 250 N +/- 10 N (not applied on the display active area)
+   -  Pushing time: 5 s
+   -  Contact type: a suitable tool able to provide contact over a circular plane surface of 30 mm in diameter SHALL be used","659_specification","fv0867",0,"n/a"
+"FieldValue"," pass a visual inspection and maintain BASIC SAFETY and ESSENTIAL PERFORMANCE prior and after being subjected to a shock test carried out in accordance with IEC 60068-2-27 and conditions specified in IEC TR 60721-4-7:2001 Type I:
+
+   -  Shock response spectrum: 150 m/s2 (15g)
+   -  Duration: 11 ms
+   -  Pulse Shape: half-sine
+   -  Number of shocks: 3 shocks per direction per axis (18 total)
+
+All DEVICE parts shall be in compliance with this requirement and tested according to the following scheme:
+
+   -  POD alone, removed from its sealed packaging
+   -  CONTROLLER alone, removed from its packaging
+   -  CONTROLLER properly coupled with POD","660_specification","fv0868",0,"n/a"
+"FieldValue"," pass a visual inspection and maintain BASIC SAFETY and ESSENTIAL PERFORMANCE prior and after being exposed to the vibration test in accordance with IEC 60068-2-64:2008 and conditions specified in IEC TR 60721-4-7:2001 Class 7M2 as follows:
+
+   -  10 Hz to 100 Hz: 1.0 (m/s2)2/Hz
+   -  100 Hz to 200 Hz: ‚Äì3 db per octave
+   -  200 Hz to 2 000 Hz: 0,5 (m/s2)2/Hz
+duration: 30 min per perpendicular axis (3 total).
+
+All DEVICE parts shall be in compliance with this requirement and tested according to the following scheme:
+
+   -  POD alone, removed from its sealed packaging
+   -  CONTROLLER alone, removed from its packaging
+   -  CONTROLLER properly coupled with POD","661_specification","fv0869",0,"n/a"
+"FieldValue"," pass a visual inspection and maintain BASIC SAFETY and ESSENTIAL PERFORMANCE after being placed in a circulating air oven at a temperature of 70 ¬∞C, for a period of 7 hrs, then permitted to cool to room temperature.","662_specification","fv0870",0,"n/a"
+"FieldValue"," have external enclosures (excluding any rubber insert) that do not show a remaining impression larger than 2 mm in diameter left by a metal ball of diameter 5 mm pressed against them with a force of 20 N for a time period of 1h at 75 ¬∞C +/- 2 ¬∞C.","663_specification","fv0871",0,"n/a"
+"FieldValue"," have patient leakage and auxiliary currents that are less than or equal to the maximum values specified in Table 3 and 4 of IEC 60601-1, Section 8.7 under Normal and Single Fault Conditions. Values shall be verified according to classification and working voltage rating. The test shall be performed after humidity preconditioning according to IEC60601-1, Clause 5.7","664_specification","fv0872",0,"n/a"
+"FieldValue"," have minimum Creepage Distances of 3.4 mm and minimum Air Clearances of 2.1 mm","665_specification","fv0873",0,"n/a"
+"FieldValue"," withstand voltages applied during the Dielectric Strength test as per IEC60601-1, clause 8.8.3.","666_specification","fv0874",0,"n/a"
+"FieldValue"," be compliant to IEC 60601-1-2 clause 6.2.1.10 prior and after being exposed to electrostatic discharges as specified in IEC 61000-4-2 and conditions specified as follow:
+
+   -  Direct and indirect contact discharges: ¬±2 kV, ¬±4 kV and ¬±8 kV, applied to conductive accessible parts and coupling planes.
+   -  Air discharges: ¬±8 kV, ¬±10 kV, ¬±12 kV ¬±15 kV, applied to non-conductive accessible parts.
+
+Note: The number of discharges at each level and polarity will be 10 with a time interval of minimally 1s between the individual discharges.","667_specification","fv0875",0,"n/a"
+"FieldValue"," comply with the following sections for Electro Magnetic Compatibility (for Emissions and Immunity):
+
+   - IEC 60601-1-2:2007
+   - IEC 60601-2-24, clauses 202.6.2.1.3 and 202.6.2.2.1.
+
+After the completion of the test, the following requirements SHALL be verified:
+   - TRS-[TBD] (Infusion line occlusion detection)
+   - TRS-[TBD] (Protection against unintended bolus)
+   - TRS-[TBD] (Alarms SPL)","668_specification","fv0876",0,"n/a"
+"FieldValue"," have no surfaces that are in contact with the USER or can be reached by the USER that exceed a temperature of 43¬∞C.
+
+Note: The test shall be performed with the DEVICE operated at worst-case conditions of ambient temperature specified for its operating conditions in normal use.","669_specification","fv0877",0,"n/a"
+"FieldValue"," have external surfaces in contact with the USER made of materials which meet biocompatibility requirements and needs as per ISO10993-1 and correlated.","670_specification","fv0878",0,"n/a"
+"FieldValue"," meet applicable requirements of the EC Directive 2011/65/EU (RoHS)","672_specification","fv0879",0,"n/a"
+"FieldValue"," meet applicable requirements of the EC 1907/2006 Directive (REACH).","673_specification","fv0880",0,"n/a"
+"FieldValue"," meet applicable requirements of the EC 96/2002 Directive (WEEE).","674_specification","fv0881",0,"n/a"
+"FieldValue"," contain a BATTERY that complies with the following standards: 
+
+   -  IEC 60086-1
+   -  IEC 60086-2
+   -  IEC 60086-6","731_specification","fv0882",0,"n/a"
+"FieldValue"," maintain BASIC SAFETY and ESSENTIAL PERFORMANCE following transport simulation (see requirement "Transport simulation" for specification) of the CONTROLLER and POD in their respective packaging, made after a duration of [TBD] in each of the following environmental conditions in the order provided:  
+
+     1.  [TBD] ¬∞C to + 5 ¬∞C
+     2.  + 5 ¬∞C to + 35 ¬∞C at 90% RH (non-condensing)
+     3.  > 35 ¬∞C to [TBD] ¬∞C at a water vapor pressure of 50 hPa","520_specification","fv0883",0,"n/a"
+"FieldValue"," consist only of components having a minimum shelf life of [COMPONENTS_SHELF_LIFE] under the following environmental conditions: 
+
+     -  Temperature: 0 ¬∞C to + 35 ¬∞C [TBD]
+     -  Humidity: 15% RH to 90% RH (including condensation) [TBD]","521_specification","fv0884",0,"n/a"
+"FieldValue",", both in its coupled state and as two individual parts, maintain BASIC SAFETY and ESSENTIAL PERFORMANCE immediately after being subjected to IPX5 test conditions as specified in IEC 60529:1989.","624_specification","fv0885",0,"n/a"
+"FieldValue"," maintain BASIC SAFETY and ESSENTIAL PERFORMANCE under the following operating conditions:  
+
+     -  Temperature: +5 ¬∞C to + 40 ¬∞C
+     -  Humidity: 15% RH to 90% RH  (1)
+     -  Atmospheric pressure: 700 hPa to 1060 hPa  (2)
+  
+Notes:
+(1)  non-condensing, non-saline and not requiring a water vapour partial pressure greater than 50 hPa
+(2)  equivalent to -381.9 to 3010.9 meters vs. sea level","649_specification","fv0886",0,"n/a"
+"FieldValue"," be able to deliver a drug, or equivalent fluid, of [TBD] cP according to the regimen below, whilst maintaining the respective specified accuracy limits (see requirements [TBD] and  [TBD]) under steady-state thermal conditions in an environmental temperature of 5 ¬∞C:
+
+  -   1 hour of basal delivery at highest dosage configuration (see requirement  [TBD]), with 4 bolus doses evenly placed throughout the hour","651_specification","fv0887",0,"n/a"
+"FieldValue"," be able to deliver a drug, or equivalent fluid, of [TBD] cP according to the highest dosage basal regimen, within the respective specified accuracy limits within [TBD] minutes of having been transferred from the minimum specified storage temperature (see [TRS-206]) to the maximum specified operating temperature (see [TRS-206]).","653_specification","fv0888",0,"n/a"
+"FieldValue"," maintain BASIC SAFETY and ESSENTIAL PERFORMANCE when stored without its packaging or carry case for a duration of [TBD] under the following environmental conditions: 
+
+     1.  [TBD] ¬∞C to + 5 ¬∞C
+     2.  + 5 ¬∞C to + 35 ¬∞C at 90% RH (non-condensing)
+     3.  > 35 ¬∞C to [TBD] ¬∞C at a water vapor pressure of 50 hPa","654_specification","fv0889",0,"n/a"
+"FieldValue"," consist of parts (CONTROLLER and POD) each having a unique serial number identifier stored in a safe and non-erasable location of the memory during manufacturing.","619_specification","fv0890",0,"n/a"
+"FieldValue"," have markings forming part of the UI that are abrasion resistant according to cycles described by ISO 2459:2020.","618_specification","fv0891",0,"n/a"
+"FieldValue"," have injection moulded components that identify, wherever possible and on internal appropriate and non functional surfaces, the following marking part symbols (expressed in order of priority) in order to ease any eventual traceability process or activity:
+
+   - Cavity number
+   - Revision symbol
+   - Moulding Date Calendar Clock
+   - Component Part Number
+   - Material Recycle Symbol and standardized code","682_specification","fv0892",0,"n/a"
+"FieldValue",", in its filled and assembled state, have a maximum mass of [MAX_DEVICE_MASS].","571_specification","fv0893",0,"n/a"
+"FieldValue"," have dimensions within the following ranges:
+
+   -  Y axis: height in range [MIN_HEIGHT] to [MAX_HEIGHT]
+   -  X axis: width in range [MIN_WIDTH] to [MAX_WIDTH]
+   -  Z axis: thickness in range [MIN_THICKNESS] to [MAX_THICKNESS]
+
+Note: The values above indicated refer to the maximum dimensions of the area which contains the orthogonal projection of the DEVICE when observed normally along each of the three main directions. Dimensions reported are POD is assembled on the CONTROLLER and is not intended to include the dimensions of the ADHESIVE PATCH.","679_specification","fv0894",0,"n/a"
+"FieldValue"," have external surfaces that are free from any sharp corners and edges or particle contamination that could cause injury to a person‚Äôs finger with particular attention to flanges or frame edges and the removal of burrs.","680_specification","fv0895",0,"n/a"
+"FieldValue"," have no parts or sub-assemblies intended to be handled separately in the home use environment that fit within the small parts cylinder test fixture described in either US 16 CFR 1501.4 or ISO 8124-1.","681_specification","fv0896",0,"n/a"
+"FieldValue"," incorporate a mechanism of data integrity for the safety critical values held in the CONTROLLER's memory","597_specification","fv0897",0,"n/a"
+"FieldValue"," incorporate all control logic required by the DEVICE.","363_specification","fv0898",0,"n/a"
+"FieldValue"," incorporate all active elements of the UI, such as buttons, visual indicators, sound generation and haptic feedback.","370_specification","fv0899",0,"n/a"
+"FieldValue"," contain a primary cell (i.e. non-rechargeable battery).","371_specification","fv0900",0,"n/a"
+"FieldValue"," contain an electrical drive mechanism having: 
+
+     -  positional and directional feedback 
+     -  a magnetic coupling to the POD drug delivery mechanism","372_specification","fv0901",0,"n/a"
+"FieldValue"," contain a single PCBA incorporating: 
+
+     -  all sensors relating to the POD
+     -  an interface the active UI elements
+     -  programmable logic controller
+     -  motor controllers and drivers","373_specification","fv0902",0,"n/a"
+"FieldValue"," effect drug delivery according to both a factory-set basal infusion regimen and a user-requested bolus regimen.","364_specification","fv0903",0,"n/a"
+"FieldValue"," control the drug delivery mechanism of the POD.","365_specification","fv0904",0,"n/a"
+"FieldValue"," provide all the energy required for the DEVICE to operate.","366_specification","fv0905",0,"n/a"
+"FieldValue"," contain all the active feedback and control components of the UI.","367_specification","fv0906",0,"n/a"
+"FieldValue"," have a minimum lifetime of 5 therapy cycles of 24 hrs for the specified drug types and dose configurations.","368_specification","fv0907",0,"n/a"
+"FieldValue"," be able to confirm the presence of a validated POD as a precondition of drug delivery.","369_specification","fv0908",0,"n/a"
+"FieldValue"," proceed with the POD identification sequence only if the new POD has the same dose configuration as the first POD that was coupled to the CONTROLLER.","543_specification","fv0909",0,"n/a"
+"FieldValue"," have a watchdog timer that will reset the MCU in the event of temporary hardware faults or failures related to FW processes.","592_specification","fv0910",0,"n/a"
+"FieldValue"," have a Non-Volatile-Memory (NVM), which can permanently store at least the following:
+
+   -  delivery related data
+   -  log entries/files.","596_specification","fv0911",0,"n/a"
+"FieldValue"," be able to log and store inside the NVM at least the following motor parameters every time that the motor is intended to be operated:
+
+   -  Absolute timestamp
+   -  Target direction (clockwise/counter clockwise)
+   -  Measured position (clockwise/counter clockwise)
+   -  Target position in ENCODER counts
+   -  Measured position in ENCODER counts
+   -  Target speed in ENCODER counts per second
+   -  PWM output in percentage
+   -  Measured speed in ENCODER counts per second
+   -  Measured current drawn.","598_specification","fv0912",0,"n/a"
+"FieldValue"," monitor the battery level and compare it against the following thresholds:
+
+   -  [LOW_BATTERY_VOLTAGE]
+   -  [CRITICAL_BATTERY_VOLTAGE]","601_specification","fv0913",0,"n/a"
+"FieldValue"," record the number valid PODs that have been coupled to it.","605_specification","fv0914",0,"n/a"
+"FieldValue"," record the duration of SKIN NEEDLE deployment for each POD attached to it.","606_specification","fv0915",0,"n/a"
+"FieldValue"," detect the following characteristics from the motor:
+
+   -  Rotation direction
+   -  Angular position
+   -  Angular speed
+   -  Current drawn","610_specification","fv0916",0,"n/a"
+"FieldValue"," house the BATTERY in such a way that it cannot be accessed by the USER except by destructive means.","677_specification","fv0917",0,"n/a"
+"FieldValue"," accommodate the specified increased BATTERY volume due to aging without incurring deformation of the casing or stresses to the main BATTERY interfaces.","678_specification","fv0918",0,"n/a"
+"FieldValue"," be powered by a primary (non-rechargeable) battery with the following characteristics:
+
+   -  Technology: Lithium-Manganese Dioxide 
+   -  Capacity: minimum 800 mAh
+   -  Rated nominal voltage: minimum 3.0 V","730_specification","fv0919",0,"n/a"
+"FieldValue"," have a Start/Pause Button and a Bolus Button having features intended to prevent unintended actuation when the CONTROLLER comes into contact with flat surfaces.","617_specification","fv0920",0,"n/a"
+"FieldValue"," manage the Bolus Button interrupt event time durations according to the following conditions:
+
+   -  duration less than [bolus_DEBOUNCE_TIME]
+          -  not a valid USER action
+
+   -  duration in the range [bolus_CLICK_MIN] to [bolus_CLICK_MAX]
+          -  Click Event: "short press" by the USER
+
+   -  duration in the range [bolus_HOLD_MIN] to [bolus_HOLD_MAX]
+          -  Hold Event: "long press" by the USER
+
+   -  duration greater than [bolus_HOLD_MAX]
+          -  not a valid USER action, and an information signal shall be produced to inform the USER that the button was stuck in a pressed position.","645_specification","fv0921",0,"n/a"
+"FieldValue"," contain the Primary Packaging of 3 ml of the drug being delivered.","380_specification","fv0922",0,"n/a"
+"FieldValue"," contain all components of the DEVICE having contact with the drug before and during drug delivery.","381_specification","fv0923",0,"n/a"
+"FieldValue"," incorporate all elements of the DEVICE having continuous contact with the USER throughout the THERAPY CYCLE.","382_specification","fv0924",0,"n/a"
+"FieldValue"," incorporate an ADHESIVE PATCH that affixes the DEVICE to the USER's skin for the duration of a THERAPY CYCLE.","383_specification","fv0925",0,"n/a"
+"FieldValue"," deliver the drug from its primary packaging (CONTAINER) to the USER as directed by the CONTROLLER.","374_specification","fv0926",0,"n/a"
+"FieldValue"," extract the drug from a CONTAINER sealed with a septum.","375_specification","fv0927",0,"n/a"
+"FieldValue"," deliver the drug subcutaneously to any of the specified sites on the USER.","376_specification","fv0928",0,"n/a"
+"FieldValue"," allow the USER to inspect the drug visually.","377_specification","fv0929",0,"n/a"
+"FieldValue"," prevent the USER from accessing the drug.","378_specification","fv0930",0,"n/a"
+"FieldValue"," have mechanisms with the function of protecting the USER against needle-stick injuries.","379_specification","fv0931",0,"n/a"
+"FieldValue"," be able to store machine-readable information specific to each manufactured unit.","384_specification","fv0932",0,"n/a"
+"FieldValue"," have a Needle Insertion Mechanism (NIM) having the following functions: 
+
+   -  insertion of the SKIN NEEDLE into the USER's skin
+   -  retraction of the SKIN NEEDLE into the POD at the end of THERAPY CYCLE
+   -  retraction of the SKIN NEEDLE on premature removal of the DEVICE from the injection site prior the  end of THERAPY CYCLE
+   -  protection from the exposed SKIN NEEDLE in case of failure of the retraction mechanism.","420_specification","fv0933",0,"n/a"
+"FieldValue"," have a Fluid Path Opening System (FPOS) that penetrates the Primary Container (CONTAINER) with a SEPTUM NEEDLE to gain access to the drug.","434_specification","fv0934",0,"n/a"
+"FieldValue"," have a FLUIDIC PATHWAY that allows the drug to flow from the Primary Container to the targeted delivery site.","440_specification","fv0935",0,"n/a"
+"FieldValue"," not leak primed drug fluid at any point under normal operating conditions.","584_specification","fv0936",0,"n/a"
+"FieldValue"," deliver [bolus_AVAILABLE_CYCLE] bolus pulses on the "HIGH" dose configuration setting.   
+
+Note: 95% coverage and 95% confidence.","611_specification","fv0937",0,"n/a"
+"FieldValue"," ensure that ETO gas is able to reach all surfaces that may come to contact the USER or the drug during use.","620_specification","fv0938",0,"n/a"
+"FieldValue"," be constructed of materials that are shown to withstand the ETO sterilization process without showing any degradation or lack of performance.","621_specification","fv0939",0,"n/a"
+"FieldValue"," deliver [basal_SET_PULSE_HOUR]*[THERAPY_CYCLE_DURATION] basal pulses on the "HIGH" dose configuration setting.   
+
+Note: 95% coverage and 95% confidence.","655_specification","fv0940",0,"n/a"
+"FieldValue"," have a drug inspection window that can withstand a force of [WINDOW_CRASH_FORCE].","656_specification","fv0941",0,"n/a"
+"FieldValue"," have a minimum lifetime of [THERAPY_CYCLE_DURATION] hours before needing to be replaced.","685_specification","fv0942",0,"n/a"
+"FieldValue"," ensure that, with the exception of destructive means (i.e. breaking open, cutting, drilling etc.), the drug can only be dispensed with the use of the CONTROLLER, or other part having an equivalent magnetic interface.","687_specification","fv0943",0,"n/a"
+"FieldValue"," contain within its housing, and inaccessible to the USER, all components having contact with the drug, with the exception of the SKIN NEEDLE.","706_specification","fv0944",0,"n/a"
+"FieldValue",", as supplied to the USER prior to use, ensure that the SKIN NEEDLE is entirely contained within the body of the POD as per [TRS-1639].","712_specification","fv0945",0,"n/a"
+"FieldValue"," ensure that, once retracted, the SKIN NEEDLE is fully contained within the POD as per [TRS-1639].","713_specification","fv0946",0,"n/a"
+"FieldValue"," have a transparent colourless window that enables the USER to inspect the drug within its CONTAINER for changes in colour or particles/precipitants prior to starting the therapy.","733_specification","fv0947",0,"n/a"
+"FieldValue"," indicate the location of the SKIN NEEDLE both before and after the LINER is removed and prior to it being placed on the injection site.","690_specification","fv0948",0,"n/a"
+"FieldValue"," have a label that is only visible when not coupled to a CONTROLLER.","561_specification","fv0949",0,"n/a"
+"FieldValue"," have a flat or cylindrical area of minimum [DISPOSABLE_LABEL_AREA] to accommodate the DEVICE label with all the required information and markings.","683_specification","fv0950",0,"n/a"
+"FieldValue"," have an actuation force in the range of [START_PAUSE_BUTTON_MIN_ACTUATION_FORCE] to [START_PAUSE_BUTTON_MAX_ACTUATION_FORCE].","392_specification","fv0951",0,"n/a"
+"FieldValue"," have a shortest side having a minimum length of [START_PAUSE_BUTTON_SIZE].","393_specification","fv0952",0,"n/a"
+"FieldValue"," have one of the following shapes:
+
+   -  circular
+   -  square with corner radii allowed
+   -  rectangular with corner radii allowed","588_specification","fv0953",0,"n/a"
+"FieldValue"," have a minimum snap ratio of [START_PAUSE_BUTTON_SNAP_RATIO].","589_specification","fv0954",0,"n/a"
+"FieldValue"," shall have a maximum displacement of [START_PAUSE_ACT_TRAVEL] +/- [START_PAUSE_ACT_TRAVEL_TOLL].","590_specification","fv0955",0,"n/a"
+"FieldValue"," not be able to come into contact with a 6 mm diameter sphere placed anywhere on the surface of the POD in any of the following conditions: 
+
+   -  in its starting position prior to insertion (default position)
+   -  retracted after being inserted (retracted position) 
+   -  extended, not retracted, and protected by the NEEDLE SHIELD
+
+Note: as per ISO 23908","421_specification","fv0956",0,"n/a"
+"FieldValue"," be deployed perpendicularly to the base of the POD, with a maximum angular tolerance equal to [SKIN_NEEDLE_DEP_DIR_TOLL].","422_specification","fv0957",0,"n/a"
+"FieldValue",", at the end of the THERAPY CYCLE or on premature removal of the DEVICE from the injection site prior to the end of THERAPY CYCLE, be fully retracted perpendicularly to the base of POD with a maximum angular tolerance of [SKIN_NEEDLE_RET_DIR_TOLL].","423_specification","fv0958",0,"n/a"
+"FieldValue",", at the end of the THERAPY CYCLE or on premature removal of the DEVICE from the injection site prior to the end of THERAPY CYCLE, be fully retracted inside the POD in a maximum time of [SKIN_NEEDLE_MAX_RETRACTION_TIME].","424_specification","fv0959",0,"n/a"
+"FieldValue"," have a tip geometry of one of the following types:
+
+   -  Huber
+   -  Tuohy
+   -  Hustead
+   -  bent point
+
+or similar non-coring style tip design.","442_specification","fv0960",0,"n/a"
+"FieldValue"," have a tip having a minimum [TBD] bevels of form/size [TBD].  
+
+Note: to prevent hooking during deployment.","443_specification","fv0961",0,"n/a"
+"FieldValue",", following its deployment, have a maximum number of visible particles inside it of [MAX_NUMBER_PARTICLES].","444_specification","fv0962",0,"n/a"
+"FieldValue"," minimize coring and fragmentation when penetrating the NEEDLE SHIELD protective membrane. 
+
+Note:  Test according to the procedure specified in ISO 11608-3:2021, clause 5.2.","445_specification","fv0963",0,"n/a"
+"FieldValue"," require a maximum time of [SN_PENETRATION_TIME] to move from its start position to its full extension as per [TRS-360].","708_specification","fv0964",0,"n/a"
+"FieldValue"," be able to reach its full extension position as per [TRS-360] with a force applied to its tip in a direction parallel to, and opposing its displacement, of [MAX_SN_PENETRATION_FORCE].  
+
+Note:  equivalent to a needle that penetrates a polyurethane film of 0.35 ¬± 0.05 mm thickness with a 85 ¬± 10 Shore A hardness at a nominal rate of 100 mm/min.","709_specification","fv0965",0,"n/a"
+"FieldValue"," be of one of the following types:
+
+   -  29G
+   -  29G Thin Wall
+   -  29G Special Thin Wall","710_specification","fv0966",0,"n/a"
+"FieldValue",", for the entire duration of the THERAPY CYCLE, extend a distance in the range of [INSERTION_DEPTH_RANGE] as measured from the tip to the nearest surface of the DEVICE contacting the skin in a direction parallel to its axis.","711_specification","fv0967",0,"n/a"
+"FieldValue",", as supplied to the USER prior to use, extend out of the POD at its maximum protrusion position.","425_specification","fv0968",0,"n/a"
+"FieldValue",", prior to actuation of the SKIN NEEDLE insertion mechanism, exert a maximum resistance of [NIM_SHIELD_MOVING_FORCE] at any point over its travel from its maximum protrusion to its minimum protrusion position.","426_specification","fv0969",0,"n/a"
+"FieldValue",", on placing the POD on a flat surface prior to actuation of the SKIN NEEDLE insertion mechanism, exert a maximum reaction force of [NIM_SHIELD_MAX_REACTION_FORCE].","427_specification","fv0970",0,"n/a"
+"FieldValue",", on the POD being removed from a flat surface, automatically deploy and cover the SKIN NEEDLE completely.","428_specification","fv0971",0,"n/a"
+"FieldValue",", on reaching its position of maximum protrusion at any time after the start of actuation of the NEEDLE SKIN insertion mechanism, remain locked in place without the possibility of being released.","429_specification","fv0972",0,"n/a"
+"FieldValue",", on being released from its minimum protrusion position and without encountering resistance, reach its maximum protrusion position in a maximum time of [NIM_SHIELD_MAX_PROTUSION_TIME].","430_specification","fv0973",0,"n/a"
+"FieldValue",", once locked at its maximum protrusion position, withstand a push force applied to its bottom surface, and parallel to its direction of deployment, of [NIM_SHIELD_MAX_PUSHING_FORCE] without being damaged or allowing a 6 mm diameter sphere placed on the NEEDLE SHIELD opening to come into contact with the SKIN NEEDLE.","431_specification","fv0974",0,"n/a"
+"FieldValue",", once locked at its maximum protrusion position, withstand a tilting displacement (1) of [NIM_SHIELD_MAX_TILTING_ANGLE] without being damaged or unlocking and exposing the SKIN NEEDLE.
+
+Note (1)  i.e. angular displacement around any axis perpendicular to that of the SKIN NEEDLE","432_specification","fv0975",0,"n/a"
+"FieldValue",", once locked at its maximum protrusion position, withstand a torque around the axis of the SKIN NEEDLE of [NIM_SHIELD_MAXIMUM_TORQUE] without being damaged or detaching from the POD.","433_specification","fv0976",0,"n/a"
+"FieldValue",", once locked at its maximum protrusion position, withstand a pull force applied along its direction of deployment of [NIM_SHIELD_MAX_PULLING_FORCE] without being damaged or detaching from the POD.","714_specification","fv0977",0,"n/a"
+"FieldValue"," penetrate fully the SEPTUM during actuation under any combination of production tolerances.","435_specification","fv0978",0,"n/a"
+"FieldValue"," not be able to contact the SEPTUM prior to actuation under any combination of production tolerances.","436_specification","fv0979",0,"n/a"
+"FieldValue"," require a maximum time of [FPOS_MAX_PENETRATION_TIME] to move from its start position to its final position as per [TRS-348].","437_specification","fv0980",0,"n/a"
+"FieldValue"," be able to reach its full extension position as per [TRS-348] with a force applied to its tip in a direction parallel to, and opposing its displacement, of [FPOS_MAX_PENETRATION_FORCE].","438_specification","fv0981",0,"n/a"
+"FieldValue"," move along a direction parallel to the Primary Container main axis, with a maximum angular mismatch equal to [FPOS_DEP_DIR_TOL].","439_specification","fv0982",0,"n/a"
+"FieldValue"," minimize coring and fragmentation when penetrating the SEPTUM. 
+
+Note:  Test according to the procedure specified in ISO 11608-3:2021, clause 5.2.","446_specification","fv0983",0,"n/a"
+"FieldValue"," have a position in its deployed state where the distance from its tip to the reference surface in the Primary Container cap is in the range [MIN_SEPTN_PENETRATION_DEPTH] to [MAX_SEPTN_PENETRATION_DEPTH].","700_specification","fv0984",0,"n/a"
+"FieldValue"," be of type 27G or 27G Thin Wall.","701_specification","fv0985",0,"n/a"
+"FieldValue"," have a tip geometry of one of the following types:
+
+   -  Huber
+   -  Tuohy
+   -  Hustead
+   -  bent point
+
+or similar non-coring style tip design.","702_specification","fv0986",0,"n/a"
+"FieldValue"," be connected to the SKIN NEEDLE by means of a flexible tube.","703_specification","fv0987",0,"n/a"
+"FieldValue"," be composed of the following components: 
+
+   -  SEPTUM NEEDLE
+   -  flexible tube
+   -  SKIN NEEDLE","441_specification","fv0988",0,"n/a"
+"FieldValue"," be free from drug formulation leakage before, during and after delivery, except for from the tip of the SKIN NEEDLE during priming and delivery.","447_specification","fv0989",0,"n/a"
+"FieldValue"," have a maximum holdup volume of [FP_HOLD_UP_VOLUME].","448_specification","fv0990",0,"n/a"
+"FieldValue"," contain an air volume before priming, and excluding that inside the Primary Container, of maximum [MAX_FLUID_PATH_AIR_VOLUME].","688_specification","fv0991",0,"n/a"
+"FieldValue"," have a flexible part that does not kink during normal DEVICE operation.","704_specification","fv0992",0,"n/a"
+"FieldValue"," be constructed with materials that demonstrate suitability contact with the drug for a period of 48 hrs [TBD].","705_specification","fv0993",0,"n/a"
+"FieldValue"," be constructed with materials that are suitable and compatible with ETO sterilization without any evidence of damage or degradation of nominal properties.","707_specification","fv0994",0,"n/a"
+"FieldValue"," have a glass cylinder that complies with ISO 13926-1.","451_specification","fv0995",0,"n/a"
+"FieldValue"," have a Lined Cap (SEPTUM) that complies with ISO 13926-3.","453_specification","fv0996",0,"n/a"
+"FieldValue"," have a Plunger that complies with ISO 13926-2.","454_specification","fv0997",0,"n/a"
+"FieldValue"," have the following dimensions (1) when finished and assembled:
+
+   -  Distance from the reference surface of the SEPTUM/Lined Cap (at a reference diameter of 5.0 mm) to the back end of the cartridge: 63.8+/- 0.4 mm
+   -  Crimped cap diameter: 7.95 +/- 0.15 mm.
+
+(1)  in addition to the dimensions already specified in [TRS-342]","455_specification","fv0998",0,"n/a"
+"FieldValue"," have a protrusion/bulge formed on the Lined Cap/Seal in its finished and assembled state in the range of [PC_MIN_BULGE] to [PC_MAX_BULGE] measured from the Primary Container reference on the Lined Cap/Seal.","456_specification","fv0999",0,"n/a"
+"FieldValue"," have a Plunger position in its finished and assembled state after filling that is equal to [PC_PLUNFER_POSITION] +/- [PC_PLUNFER_POSITION_TOLL] when measured from the Primary Container reference on the Lined Cap/Seal.","457_specification","fv1000",0,"n/a"
+"FieldValue"," be able to contain a maximum drug volume of [PC_MAX_FILL_VOLUME] including nominal overfill.","458_specification","fv1001",0,"n/a"
+"FieldValue"," have a residual quantity of drug formulation when the Plunger reaches its mechanical stop (end of glass barrel parallel section) that does not exceed [PC_HOLD_UP_VOLUME].","459_specification","fv1002",0,"n/a"
+"FieldValue"," have a glass cylinder accompanied by a extractables profile study according to ICH Q3D.","460_specification","fv1003",0,"n/a"
+"FieldValue"," be constructed with elastomeric materials that comply with: 
+
+   -  ISO 8871-1 (evaluation of chemical compatibility)
+   -  ISO 8871-4 (evaluation of biological compatibility)","461_specification","fv1004",0,"n/a"
+"FieldValue"," be constructed of materials that are shown to withstand the ETO sterilization process without showing any degradation or lack of performance.","462_specification","fv1005",0,"n/a"
+"FieldValue"," be constructed of materials that minimize or are impermeable to ETO during the POD sterilization cycle.","463_specification","fv1006",0,"n/a"
+"FieldValue"," use a silicone emulsion as a lubricant for the glass barrel that complies with Ph. Eur. 3.1.8 and USP ‚ÄúDimethicone‚Äù Monograph (Dow Corning 366, 35% Dimethicone NF emulsion).","464_specification","fv1007",0,"n/a"
+"FieldValue"," not leak at the seal when tested in its filled/assembled condition in accordance with Annex A of ISO 13926-3.","465_specification","fv1008",0,"n/a"
+"FieldValue"," not leak at the plunger when tested in its filled/assembled condition in accordance with Annex A of ISO 13926-2.","466_specification","fv1009",0,"n/a"
+"FieldValue"," require a force for a 27G needle to penetrate the SEPTUM that does not exceed [PC_MAX_PENETRATION_FORCE].","467_specification","fv1010",0,"n/a"
+"FieldValue"," contain a maximum [PC_MAX_FRAGMENTS] fragments per 100 events of SEPTUM penetration by the SEPTUM NEEDLE, in accordance with the method described in ISO 11608-3, clause 5.2 and clause 4.2.3.","468_specification","fv1011",0,"n/a"
+"FieldValue"," have a Break Loose Force in its empty condition that does not exceed 15 N, when tested in accordance with ISO 11608-3, Annex B.
+
+Note:  Measurements shall be made at a test speed of 50 mm/min with test cartridges that are open to the atmosphere (i.e. no septum present, fluid to be removed immediately prior to testing), so that only the plunger friction is measured. The initiating force is the peak force seen at the start of the plunger movement. The maximum sustaining force is measured over the measurement zone, which comprises not less than 75 % of cartridge deliverable volume.","469_specification","fv1012",0,"n/a"
+"FieldValue"," have a Glide Force in its empty condition that does not exceed 10 N, when tested in accordance with ISO 11608-3, Annex B.
+
+Note:  Measurements shall be made at a test speed of 50 mm/min with test cartridges that are open to the atmosphere (i.e. no septum present, fluid to be removed immediately prior to testing), so that only the plunger friction is measured. The initiating force is the peak force seen at the start of the plunger movement. The maximum sustaining force is measured over the measurement zone, which comprises not less than 75 % of cartridge deliverable volume.","470_specification","fv1013",0,"n/a"
+"FieldValue"," have a Break Loose Force (BLF) in a filled, assembled and 24-months equivalently-aged state that does not exceed [PC_PULSE_BLF].
+
+Note:  Test method SHALL comply with ISO 11608-3, clause 5.4, with exception of the test speed that SHALL be set at a nominal speed of 2.2mm/min.","471_specification","fv1014",0,"n/a"
+"FieldValue"," have a Glide Force (GF) in its filled, assembled and 24-months equivalently-aged state that does not exceed [PC_PULSE_GF].
+
+Note:  Test method SHALL comply with ISO 11608-3, clause 5.4, with exception of the test speed that SHALL be set at a nominal speed of 2.2mm/min.","472_specification","fv1015",0,"n/a"
+"FieldValue"," have a dose accuracy in its filled, assembled and 24-months equivalently-aged state that fulfils [TRS-TBD] when isolated from the remaining part of the system and the delivery occurs due to the active action of a tensile tester operating on the plunger with the following driving parameters.  
+
+   -  Nominal pulse or travel of the load cell piston rod (equivalent to mimic the delivery of a pulse of 5 ¬µl): 0.07mm
+   -  Test speed: 2.2mm/min.
+
+Note: The test SHALL be executed after priming all the residual air trapped inside the Primary Container.","473_specification","fv1016",0,"n/a"
+"FieldValue"," be suitable for the following automated filling processes:
+
+   -  Nest & tub fill finish
+   -  Bulk fill finish.","474_specification","fv1017",0,"n/a"
+"FieldValue",", prior to filling, comply with applicable requirements of ISO 21881.","623_specification","fv1018",0,"n/a"
+"FieldValue"," be pre-filled and pre-assembled as specified in [TRS-334].","691_specification","fv1019",0,"n/a"
+"FieldValue"," have a nominal volume of 3 mL.","692_specification","fv1020",0,"n/a"
+"FieldValue"," be suitable for the following automated filling processes:
+
+   -  Nest & tub fill finish
+   -  Bulk fill finish.","693_specification","fv1021",0,"n/a"
+"FieldValue"," be constructed with the following materials:
+
+   -  3.0 ml nominal volume pre-siliconized glass cartridge conforming to ISO 13926-1-cl-11,6
+   -  a Lined Cap (or SEPTUM) Seal conforming to ISO 13926-3 ‚Äì 7,5 ‚Äì B
+   -  a plunger conforming to ISO 13926‚Äë2 ‚Äì 9,70 ‚Äì A1
+
+Note: Technical specification of the Primary Container and associated Primary Packaging Material is reported in Appendix##.","694_specification","fv1022",0,"n/a"
+"FieldValue"," be able to contain a maximum drug volume of [MAX_PC_FILLED_VOLUME].","695_specification","fv1023",0,"n/a"
+"FieldValue"," have a residual volume of air trapped inside it after filling that does not exceed the residual allowed nominal value of [PC_MAX_AIR_BUBBLE_VOLUME].","696_specification","fv1024",0,"n/a"
+"FieldValue"," ensure that all surfaces that may come into contact with the drug during normal use are suitable for long term storage (stability) for the entire period of the [DEVICE_SHELF_LIFE].","697_specification","fv1025",0,"n/a"
+"FieldValue"," be free of particulates or droplets of fluid (lubrication) on the outside or inside surfaces when viewed under normal or corrected-to-normal vision.","698_specification","fv1026",0,"n/a"
+"FieldValue"," have a glass cylinder (open and uncapped) that is supplied to the Fill/Finish process in the following specified status: [TBD]","699_specification","fv1027",0,"n/a"
+"FieldValue"," be integrated in the POD only after being pre-assembled and pre-filled with the drug.","522_specification","fv1028",0,"n/a"
+"FieldValue"," operate at the following working point, expressed at the magnetic clutch driving rotor, calculated in correspondence of the Break Loose Force for a 3 ml CONTAINER: 
+
+   -  [MOTOR_WP_TORQUE_BLF_3ML]
+   -  [MOTOR_WP_SPEED_BLF_3ML]","475_specification","fv1029",0,"n/a"
+"FieldValue"," operate at the following working point, expressed at the magnetic clutch driving rotor, calculated in correspondence of the Glide Force for a 3 ml CONTAINER: 
+
+   -  [MOTOR_WP_TORQUE_GF_3ML]
+   -  [MOTOR_WP_SPEED_GF_3ML]","476_specification","fv1030",0,"n/a"
+"FieldValue"," operate at the following working point, expressed at the magnetic clutch driving rotor, calculated in correspondence of the Break Loose Force for a 10 ml CONTAINER: 
+
+   -  [MOTOR_WP_TORQUE_BLF_10ML]
+   -  [MOTOR_WP_SPEED_BLF_10ML]","477_specification","fv1031",0,"n/a"
+"FieldValue"," operate at the following working point, expressed at the magnetic clutch driving rotor, calculated in correspondence of the Glide Force for a 10 ml CONTAINER: 
+
+   -  [MOTOR_WP_TORQUE_GF_10ML]
+   -  [MOTOR_WP_SPEED_GF_10ML]","478_specification","fv1032",0,"n/a"
+"FieldValue"," have maximum overall subsystem efficiency when working at GF 3 mL working point (considered nominal working point).","479_specification","fv1033",0,"n/a"
+"FieldValue"," have a maximum backlash of [MAX_MOTOR_SHAFT_BACKLASH].","480_specification","fv1034",0,"n/a"
+"FieldValue"," have an acceleration profile of the motor subsystem to steadily reach the working point of:
+
+  -  Maximum acceleration time: [MOTOR_MAX_ACC_TIME]
+  -  Maximum rotations (corresponding to raw encoder counts): [MOTOR_MAX_ACC_ENC_COUNTS]","481_specification","fv1035",0,"n/a"
+"FieldValue"," have a deceleration profile on removal of power from the motor driver of:
+
+  -  Maximum deceleration time: [MOTOR_MAX_DEC_TIME]
+  -  Maximum rotations (corresponding to raw encoder counts): [MOTOR_MAX_DEC_ENC_COUNTS]","482_specification","fv1036",0,"n/a"
+"FieldValue"," have an idler gear that engages with the magnetic clutch driving rotor with the following characteristics:
+
+   -  Theoretical Mean Diameter: 19 mm
+   -  Gear Module: 0.5 mm
+   -  Number of teeth: 38
+   -  Nominal (theoretical) Mounting Distance: 15.5 mm.","483_specification","fv1037",0,"n/a"
+"FieldValue"," have overall dimensions, including the chassis or plastic enclosures, that do not exceed the following ideal volume:
+
+   -  X (width): [MOTOR_MAX_WIDTH]
+   -  Y (length): [MOTOR_MAX_LENGTH]
+   -  Z (thickness): [MOTOR_MAX_THICKNESS]","484_specification","fv1038",0,"n/a"
+"FieldValue"," have a custom plastic moulded cover or chassis with the function of referencing and securing the position of all the subsystem elements and with the required features to reference and secure in position the whole subsystem into the final seat inside DEVICE enclosures.","485_specification","fv1039",0,"n/a"
+"FieldValue"," include means to reduce the transmission of vibration and noise emitted during normal operation to the CONTOLLER enclosure(s).","486_specification","fv1040",0,"n/a"
+"FieldValue"," have an FPCA connecting it to the PCBA able to: 
+
+  -  bring power to motor terminals,
+  -  bring power to and collect signals from the optical ENCODER,
+  -  connect to the main PCBA via a ZIF connector.","487_specification","fv1041",0,"n/a"
+"FieldValue"," have a minimum of 6 electrical contacts: 2 for delivering electrical power to the motor, 2 for the motor ENCODER outputs, and 2 for providing power supply to the ENCODER.","489_specification","fv1042",0,"n/a"
+"FieldValue",", at the GF 10 mL working points, consume a maximum electrical power of [MOTOR_MAX_DRAINED_POWER].","490_specification","fv1043",0,"n/a"
+"FieldValue"," have a maximum inrush (stall) current of [MOTOR_MAX_STALL_I].","492_specification","fv1044",0,"n/a"
+"FieldValue"," have an incremental ENCODER with digital outputs that allows the determination of both motor speed (rpm) and motor rotation direction (clockwise / counter clockwise).","493_specification","fv1045",0,"n/a"
+"FieldValue"," have a minimum rated cycles of [MOTOR_MAX_LIFE_CYCLES_3ML].","503_specification","fv1046",0,"n/a"
+"FieldValue"," have a minimum total on time of [MOTOR_TOTAL_ON_TIME_10ML].","504_specification","fv1047",0,"n/a"
+"FieldValue"," facilitate addition of surface-mount passive electrical components (resistors, inductors, ferrite beads and capacitors) for fine-tuning of EMC in relation to IEC60601-1-2:2014+AMD1:2020.","505_specification","fv1048",0,"n/a"
+"FieldValue"," fulfil the following minimum durability requirements: 
+
+   -  BLF 10 ml working point
+       -  Motor rated cycles:  [MOTOR_MAX_LIFE_CYCLES_10ML]
+       -  Cumulative total motor on time:  [MOTOR_TOTAL_ON_TIME_10ML]
+       -  Motor on time in continuous operation:  [MOTOR_CONT_ON_TIME_10ML]
+
+   -  BLF 3 ml working point
+       -  Motor rated cycles:  [MOTOR_MAX_LIFE_CYCLES_3ML]
+       -  Cumulative total motor on time:  [MOTOR_TOTAL_ON_TIME_3ML]
+       -  Motor on time in continuous operation:  [MOTOR_CONT_ON_TIME_3ML]","506_specification","fv1049",0,"n/a"
+"FieldValue"," supply the MOTOR DRIVE ASSY with a voltage in the range of [MOTOR_MIN_SUPPLY_V] to [MOTOR_MAX_SUPPLY_V].","491_specification","fv1050",0,"n/a"
+"FieldValue"," execute the following steps to ensure proper SKIN NEEDLE retraction:
+
+   -  rotate the motor shaft in a clockwise direction at an angular speed equal to [SN_RETRACTION_MOTOR_SPEED] +/- [SN_RETRACTION_MOTOR_SPEED_TOLL]
+
+   -  rotate the motor according to a total number of ENCODER counts equal to [SN_RETRACTION_ENCODER_COUNTS]
+
+   -  monitor that the current drawn by the motor never exceeds [SN_RETRACTION_MAX_ALLOWED_CURRENT]
+
+   -  monitor that the time spent during the whole actuation never exceeds [SN_RETRACTION_TIME] +/- [SN_RETRACTION_TIME_TOLL]","551_specification","fv1051",0,"n/a"
+"FieldValue"," execute the following steps to ensure proper SEPTUM NEEDLE actuation: 
+
+   -  rotate the motor shaft in a clockwise direction at a speed in range with an angular speed equal to [FPOS_INSERTION_MOTOR_SPEED] +/ [FPOS_INSERTION_MOTOR_SPEED_TOLL]
+
+   -  rotate the motor according to a total number of ENCODER counts equal to [FPOS_ACTUATION_ENCODER_COUNTS]
+
+   -  monitor that the current drawn by the motor never exceeds [FPOS_ACTUATION_MAX_ALLOWED_CURRENT]
+   -  monitor that the time spent during the whole actuation never exceeds [FPOS_INSERTION_TIME] +/- [FPOS_INSERTION_TIME_TOLL].","556_specification","fv1052",0,"n/a"
+"FieldValue",", on successful completion of the SEPTUM NEEDLE actuation, execute the following steps to ensure proper Priming:
+
+   -  rotate the motor shaft in a counter clockwise direction with an angular speed equal to [PRIMING_MOTOR_SPEED] +/- [PRIMING_MOTOR_SPEED_TOLL]
+
+   -  rotate the motor according to a total number of ENCODER counts equal to [PRIMING_ENCODER_COUNTS]
+
+   -  monitor that the current drawn by the motor never exceeds [PRIMING_MAX_ALLOWED_CURRENT]
+
+   -  monitor that the time spent during the whole priming sequence never exceeds [PRIMING_TIME] +/- [PRIMING_TIME_TOLL].","557_specification","fv1053",0,"n/a"
+"FieldValue",", on successful completion of the SEPTUM NEEDLE actuation and Priming, execute the following steps to ensure proper SKIN NEEDLE insertion:
+
+   -  rotate the motor shaft in a clockwise direction with an angular speed equal to [SN_INSERTION_MOTOR_SPEED] +/- [SN_INSERTION_MOTOR_SPEED_TOLL]
+
+   -  rotate the motor according to a total number of ENCODER counts equal to [SN_INSERTION_ENCODER_COUNTS]
+
+   -  monitor that the current drawn by the motor never exceeds [SN_INSERTION_MAX_ALLOWED_CURRRENT]
+
+   -  monitor that the time spent during the whole actuation never exceeds [SN_INSERTION_TIME] +/- [SN_INSERTION_TIME_TOLL]","558_specification","fv1054",0,"n/a"
+"FieldValue"," deliver basal pulses as per [TRS-1814] by actuating the motor in a counter clockwise direction for a total number of ENCODER counts respectively equal to:
+
+a) low basal dose ENCODER counts: [LOW_basal_ENCODER_COUNTS]
+
+b) medium basal dose ENCODER counts: [MEDIUM_basal_ENCODER_COUNTS]
+
+c) high basal dose ENCODER counts: [HIGH_basal_ENCODER_COUNTS]","567_specification","fv1055",0,"n/a"
+"FieldValue"," deliver basal pulses at a flow rate as per [TRS-145] by actuating the motor at an angular speed equal to [basal_MOTOR_SHAFT_SPEED] +/- [basal_MOTOR_SHAFT_SPEED_TOLL].","568_specification","fv1056",0,"n/a"
+"FieldValue"," deliver bolus pulses as per [TRS-148] by actuating the motor in a clockwise direction for a total number of ENCODER counts respectively equal to:
+
+a) low bolus dose ENCODER count: [LOW_bolus_ENCODER_COUNTS]
+
+b) medium bolus dose ENCODER count: [MEDIUM_bolus_ENCODER_COUNTS]
+
+c) high bolus dose ENCODER count: [HIGH_bolus_ENCODER_COUNTS]","576_specification","fv1057",0,"n/a"
+"FieldValue"," deliver bolus pulses at a flow rate as per [TRS-150] by actuating the motor shaft at an angular speed equal to [bolus_MOTOR_SHAFT_SPEED] +/- [bolus_MOTOR_SHAFT_SPEED_TOLL].","577_specification","fv1058",0,"n/a"
+"FieldValue"," perform a validity check on  R/W flow of data exchanged with the POD NFC tag.","602_specification","fv1059",0,"n/a"
+"FieldValue"," implement a Real-time Clock (RTC) that is active from the date of the CONTROLLER's manufacture.","614_specification","fv1060",0,"n/a"
+"FieldValue"," have an RTC having an accuracy of ¬± 2.5 minutes per [TIME_DURATION_CONTROLLER] for the CONTROLLER's entire lifetime from the date of manufacture.","615_specification","fv1061",0,"n/a"
+"FieldValue",", after the reading the POD's NFC tag, either
+
+   -  enable the serial (UART) communication only if the content of the POD service flag identifies it as destined for testing only purposes, or 
+   -  disable the serial (UART) communication only if the previous specified content identifies the POD as destined for patient use.","652_specification","fv1062",0,"n/a"
+"FieldValue"," be fixed to the motor shaft.","494_specification","fv1063",0,"n/a"
+"FieldValue"," have a photo interrupter that is integrated with the motor subsystem chassis in such a way as to get reliable signals during normal operation, therefore withstanding the light reflected by the operation of the close daughter board LEDs.","495_specification","fv1064",0,"n/a"
+"FieldValue"," have overall dimensions (meant as the totality of its the electrical and mechanical parts, including the code-wheel) that do not exceed the overall dimensions of the motor subsystem.","496_specification","fv1065",0,"n/a"
+"FieldValue"," provide a minimum of [MOTOR_ENCODER_MIN_CPR] counts (?) for each revolution of the motor shaft.","497_specification","fv1066",0,"n/a"
+"FieldValue"," provide two digital output signals with voltages in the range of [MOTOR_ENCODER_MIN_VOUT] to [MOTOR_ENCODER_MAX_VOUT].","498_specification","fv1067",0,"n/a"
+"FieldValue",", at the rotation speed corresponding to the 10 ml working points (maximum speed), have a maximum switching frequency of the encoder digital output signals of [MOTOR_ENCODER_SWITCH_FREQ].","499_specification","fv1068",0,"n/a"
+"FieldValue",", at the rotation speed corresponding to the 10 ml working points (maximum speed), have a maximum delay between the two out-of-phase encoder digital output signals of minimum [MOTOR_ENCODER_MAX_DELAY].","500_specification","fv1069",0,"n/a"
+"FieldValue"," require a maximum supply voltage of [MOTOR_MAX_ENCODER_V] and draw a maximum current from the supply of [MOTOR_MAX_ENCODER_I].","501_specification","fv1070",0,"n/a"
+"FieldValue"," have its high and low voltage levels of each of the two ENCODER outputs, measured at given motor and ENCODER driving conditions, uniquely associated with its parent motor assembly, either by recording them in a database or by encoding the information in the motor assembly serial number.","502_specification","fv1071",0,"n/a"
+"FieldValue"," be composed of the following layers:
+
+   -  Layer A:  RELEASE  LINER
+   -  Layer B:  material [TBD] (in direct contact with the skin)
+   -  Layer C:  non-woven material
+   -  Layer D:  material [TBD] (in contact with the POD)
+   -  Layer E:   RELEASE LINER for DEVICE adhesive","508_specification","fv1072",0,"n/a"
+"FieldValue"," have a maximum width of [MAX_PATCH_WIDTH] and a maximum length of [MAX_PATCH_LENGTH] including the pull-out tab.","509_specification","fv1073",0,"n/a"
+"FieldValue"," remain in position during bending, twisting, and stretching of the USER's body.","510_specification","fv1074",0,"n/a"
+"FieldValue"," withstand the [THERAPY_CYCLE_DURATION] plus an additional 12 hours in which the USER may came into contact with the water for up to 30 minutes.","511_specification","fv1075",0,"n/a"
+"FieldValue"," have a peak force required to detach/peel the DEVICE from a steel plate in the range of [MIN_ADHESIVE_REMOVAL_FORCE] to [MAX_ADHESIVE_REMOVAL_FORCE] N.  
+
+Note:  when pulled perpendicularly from the plate in accordance with ASTM D3330.","512_specification","fv1076",0,"n/a"
+"FieldValue"," not tear during use or during removal of the POD from the injection site.","513_specification","fv1077",0,"n/a"
+"FieldValue",", prior to being assembled onto the POD, guarantee a minimum shelf life of [COMPONENTS_SHELF_LIFE] months at the shelf life environmental conditions specified in [TRS-1742].","514_specification","fv1078",0,"n/a"
+"FieldValue",", once assembled onto the POD, guarantee a minimum shelf life of [DEVICE_SHELF_LIFE] months at the shelf life environmental conditions specified in [TRS-211].","515_specification","fv1079",0,"n/a"
+"FieldValue"," be constructed from materials that have demonstrated compliance with the following parts of the biocompatibility standard: 
+
+   -  ISO 10993-1
+   -  ISO 10993-5
+   -  ISO 10993-10","516_specification","fv1080",0,"n/a"
+"FieldValue"," be constructed from materials that have demonstrated ability to undergo the ETO sterilization cycle without any evidence of damage or degradation of nominal properties.","517_specification","fv1081",0,"n/a"
+"FieldValue"," meet applicable requirements of the EC 1907/2006 Directive (REACH) and not contain any SVHC in a concentration above 0.1 % w/w.","519_specification","fv1082",0,"n/a"
+"FieldValue"," be constructed from materials having demonstrated biocompatibility for ([THERAPY_CYCLE_DURATION] + 12) * [THERAPY_CYCLE_NUMBERS] hours.","671_specification","fv1083",0,"n/a"
+"FieldValue"," have a peak force required to detach/peel the DEVICE from a steel plate in the range of[MIN_ADHESIVE_REMOVAL_FORCE] to [MAX_ADHESIVE_REMOVAL_FORCE] N when pulled perpendicularly from the plate in accordance to ASTM D3330.
+
+Note [TBD]: Possible test methods: ASTM F2255 (lap-shear), F2256 (T-peel), F2258 (tension), F2458 (wound closure strength), D6195 (Loop Tack), D3121 (Rolling ball tack), D2979 (Probe tack), D3330 (180 peel), D3330 (90 peel), D1876 (T-test peel), D3654 (static shear), ISO 4587 (dynamic shear)","716_specification","fv1084",0,"n/a"
+"FieldValue"," hold the DEVICE on the USER's skin for [THERAPY_CYCLE_DURATION] plus an additional 12 hours.","717_specification","fv1085",0,"n/a"
+"FieldValue"," be intended for use with intact and dry skin.","718_specification","fv1086",0,"n/a"
+"FieldValue"," be constructed with materials suitable for continuous application on dry skin, when the DEVICE is used according to its intended operating condition specified by IEC 60601-1-11.","719_specification","fv1087",0,"n/a"
+"FieldValue"," be constructed from materials that minimize Medical Adhesive Related Skin Injuries (MARSI), irritation and sensitization of the skin during removal operations as well as unacceptable tissue trauma.","720_specification","fv1088",0,"n/a"
+"FieldValue"," balance good adhesion with skin sensitivity.","721_specification","fv1089",0,"n/a"
+"FieldValue"," have pressure sensitive adhesive that is permeable to moisture and water vapor (breathable).","722_specification","fv1090",0,"n/a"
+"FieldValue"," have backing material on the pressure sensitive adhesive that is permeable to moisture and water vapor (breathable).","723_specification","fv1091",0,"n/a"
+"FieldValue"," have a RELEASE LINER that, prior to being removed, covers the area of the POD through which the SKIN NEEDLE will protrude when deployed.","724_specification","fv1092",0,"n/a"
+"FieldValue"," have a RELEASE LINER with a single pull-out tab or any other means to ease its removal. The RELEASE LINER shall be removed from the POD by single direction of motion of the pull tab.","725_specification","fv1093",0,"n/a"
+"FieldValue"," have a RELEASE LINER with a single removal tab or grip area with a length of [TBD] ¬± [TBD] mm and a width of [TBD] ¬± [TBD] mm that does not overlap with the adhesive surface of the ADHESIVE PATCH.","726_specification","fv1094",0,"n/a"
+"FieldValue"," have a peak force required to perpendicularly detach the RELEASE LINER from the ADHESIVE PATCH in the range of [MIN_RELEASE LINER_REMOVAL_FORCE] to [MAX_RELEASE LINER_REMOVAL_FORCE].","727_specification","fv1095",0,"n/a"
+"FieldValue"," not be damaged or detach from the bottom surface of the POD when pulled apart with a force of [MAX_ADHESIVE_DISASSEMBLY_FORCE] applied perpendicularly to the surface.","728_specification","fv1096",0,"n/a"
+"FieldValue"," be constructed from materials that have demonstrated compatibility with the selected sterilization method (as specified in [TRS-323]) without any evidence of damage or degradation of nominal properties.","729_specification","fv1097",0,"n/a"
+"FieldValue","Comments hereÖ","360_comments","fv1098",0,"n/a"
+"FieldValue","Comments hereÖ","361_comments","fv1099",0,"n/a"
+"FieldValue","Comments hereÖ","362_comments","fv1100",0,"n/a"
+"FieldValue","Comments hereÖ","586_comments","fv1101",0,"n/a"
+"FieldValue","Comments hereÖ","591_comments","fv1102",0,"n/a"
+"FieldValue","Comments hereÖ","593_comments","fv1103",0,"n/a"
+"FieldValue","Comments hereÖ","594_comments","fv1104",0,"n/a"
+"FieldValue","Comments hereÖ","595_comments","fv1105",0,"n/a"
+"FieldValue","Comments hereÖ","643_comments","fv1106",0,"n/a"
+"FieldValue","Comments hereÖ","644_comments","fv1107",0,"n/a"
+"FieldValue","Comments hereÖ","732_comments","fv1108",0,"n/a"
+"FieldValue","Comments hereÖ","353_comments","fv1109",0,"n/a"
+"FieldValue","Comments hereÖ","354_comments","fv1110",0,"n/a"
+"FieldValue","Comments hereÖ","355_comments","fv1111",0,"n/a"
+"FieldValue","Comments hereÖ","356_comments","fv1112",0,"n/a"
+"FieldValue","Comments hereÖ","357_comments","fv1113",0,"n/a"
+"FieldValue","Comments hereÖ","358_comments","fv1114",0,"n/a"
+"FieldValue","Comments hereÖ","359_comments","fv1115",0,"n/a"
+"FieldValue","Comments hereÖ","385_comments","fv1116",0,"n/a"
+"FieldValue","Comments hereÖ","402_comments","fv1117",0,"n/a"
+"FieldValue","Comments hereÖ","403_comments","fv1118",0,"n/a"
+"FieldValue","Comments hereÖ","404_comments","fv1119",0,"n/a"
+"FieldValue","Comments hereÖ","405_comments","fv1120",0,"n/a"
+"FieldValue","Comments hereÖ","406_comments","fv1121",0,"n/a"
+"FieldValue","Comments hereÖ","407_comments","fv1122",0,"n/a"
+"FieldValue","Comments hereÖ","408_comments","fv1123",0,"n/a"
+"FieldValue","Comments hereÖ","409_comments","fv1124",0,"n/a"
+"FieldValue","Comments hereÖ","410_comments","fv1125",0,"n/a"
+"FieldValue","Comments hereÖ","411_comments","fv1126",0,"n/a"
+"FieldValue","Comments hereÖ","412_comments","fv1127",0,"n/a"
+"FieldValue","Comments hereÖ","413_comments","fv1128",0,"n/a"
+"FieldValue","Comments hereÖ","417_comments","fv1129",0,"n/a"
+"FieldValue","Comments hereÖ","452_comments","fv1130",0,"n/a"
+"FieldValue","Comments hereÖ","488_comments","fv1131",0,"n/a"
+"FieldValue","Comments hereÖ","507_comments","fv1132",0,"n/a"
+"FieldValue","Comments hereÖ","518_comments","fv1133",0,"n/a"
+"FieldValue","Comments hereÖ","523_comments","fv1134",0,"n/a"
+"FieldValue","Comments hereÖ","524_comments","fv1135",0,"n/a"
+"FieldValue","Comments hereÖ","525_comments","fv1136",0,"n/a"
+"FieldValue","Comments hereÖ","526_comments","fv1137",0,"n/a"
+"FieldValue","Comments hereÖ","527_comments","fv1138",0,"n/a"
+"FieldValue","Comments hereÖ","528_comments","fv1139",0,"n/a"
+"FieldValue","Comments hereÖ","529_comments","fv1140",0,"n/a"
+"FieldValue","Comments hereÖ","530_comments","fv1141",0,"n/a"
+"FieldValue","Comments hereÖ","531_comments","fv1142",0,"n/a"
+"FieldValue","Comments hereÖ","532_comments","fv1143",0,"n/a"
+"FieldValue","Comments hereÖ","533_comments","fv1144",0,"n/a"
+"FieldValue","Comments hereÖ","534_comments","fv1145",0,"n/a"
+"FieldValue","Comments hereÖ","535_comments","fv1146",0,"n/a"
+"FieldValue","Comments hereÖ","536_comments","fv1147",0,"n/a"
+"FieldValue","Comments hereÖ","537_comments","fv1148",0,"n/a"
+"FieldValue","Comments hereÖ","538_comments","fv1149",0,"n/a"
+"FieldValue","Comments hereÖ","539_comments","fv1150",0,"n/a"
+"FieldValue","Comments hereÖ","540_comments","fv1151",0,"n/a"
+"FieldValue","Comments hereÖ","541_comments","fv1152",0,"n/a"
+"FieldValue","Comments hereÖ","542_comments","fv1153",0,"n/a"
+"FieldValue","Comments hereÖ","545_comments","fv1154",0,"n/a"
+"FieldValue","Comments hereÖ","546_comments","fv1155",0,"n/a"
+"FieldValue","Comments hereÖ","547_comments","fv1156",0,"n/a"
+"FieldValue","Comments hereÖ","548_comments","fv1157",0,"n/a"
+"FieldValue","Comments hereÖ","549_comments","fv1158",0,"n/a"
+"FieldValue","Comments hereÖ","550_comments","fv1159",0,"n/a"
+"FieldValue","Comments hereÖ","552_comments","fv1160",0,"n/a"
+"FieldValue","Comments hereÖ","553_comments","fv1161",0,"n/a"
+"FieldValue","Comments hereÖ","554_comments","fv1162",0,"n/a"
+"FieldValue","Comments hereÖ","555_comments","fv1163",0,"n/a"
+"FieldValue","Comments hereÖ","559_comments","fv1164",0,"n/a"
+"FieldValue","Comments hereÖ","560_comments","fv1165",0,"n/a"
+"FieldValue","Comments hereÖ","562_comments","fv1166",0,"n/a"
+"FieldValue","Comments hereÖ","563_comments","fv1167",0,"n/a"
+"FieldValue","Comments hereÖ","564_comments","fv1168",0,"n/a"
+"FieldValue","Comments hereÖ","565_comments","fv1169",0,"n/a"
+"FieldValue","Comments hereÖ","566_comments","fv1170",0,"n/a"
+"FieldValue","Comments hereÖ","569_comments","fv1171",0,"n/a"
+"FieldValue","Comments hereÖ","570_comments","fv1172",0,"n/a"
+"FieldValue","Comments hereÖ","572_comments","fv1173",0,"n/a"
+"FieldValue","Comments hereÖ","573_comments","fv1174",0,"n/a"
+"FieldValue","Comments hereÖ","574_comments","fv1175",0,"n/a"
+"FieldValue","Comments hereÖ","575_comments","fv1176",0,"n/a"
+"FieldValue","Comments hereÖ","579_comments","fv1177",0,"n/a"
+"FieldValue","Comments hereÖ","580_comments","fv1178",0,"n/a"
+"FieldValue","Comments hereÖ","581_comments","fv1179",0,"n/a"
+"FieldValue","Comments hereÖ","582_comments","fv1180",0,"n/a"
+"FieldValue","Comments hereÖ","583_comments","fv1181",0,"n/a"
+"FieldValue","Comments hereÖ","585_comments","fv1182",0,"n/a"
+"FieldValue","Comments hereÖ","599_comments","fv1183",0,"n/a"
+"FieldValue","Comments hereÖ","600_comments","fv1184",0,"n/a"
+"FieldValue","Comments hereÖ","603_comments","fv1185",0,"n/a"
+"FieldValue","Comments hereÖ","604_comments","fv1186",0,"n/a"
+"FieldValue","Comments hereÖ","607_comments","fv1187",0,"n/a"
+"FieldValue","Comments hereÖ","608_comments","fv1188",0,"n/a"
+"FieldValue","Comments hereÖ","609_comments","fv1189",0,"n/a"
+"FieldValue","Comments hereÖ","613_comments","fv1190",0,"n/a"
+"FieldValue","Comments hereÖ","616_comments","fv1191",0,"n/a"
+"FieldValue","Comments hereÖ","622_comments","fv1192",0,"n/a"
+"FieldValue","Comments hereÖ","641_comments","fv1193",0,"n/a"
+"FieldValue","Comments hereÖ","642_comments","fv1194",0,"n/a"
+"FieldValue","Comments hereÖ","646_comments","fv1195",0,"n/a"
+"FieldValue","Comments hereÖ","647_comments","fv1196",0,"n/a"
+"FieldValue","Comments hereÖ","648_comments","fv1197",0,"n/a"
+"FieldValue","Comments hereÖ","675_comments","fv1198",0,"n/a"
+"FieldValue","Comments hereÖ","676_comments","fv1199",0,"n/a"
+"FieldValue","Comments hereÖ","686_comments","fv1200",0,"n/a"
+"FieldValue","Comments hereÖ","689_comments","fv1201",0,"n/a"
+"FieldValue","Comments hereÖ","715_comments","fv1202",0,"n/a"
+"FieldValue","Comments hereÖ","386_comments","fv1203",0,"n/a"
+"FieldValue","Comments hereÖ","387_comments","fv1204",0,"n/a"
+"FieldValue","Comments hereÖ","388_comments","fv1205",0,"n/a"
+"FieldValue","Comments hereÖ","389_comments","fv1206",0,"n/a"
+"FieldValue","Comments hereÖ","390_comments","fv1207",0,"n/a"
+"FieldValue","Comments hereÖ","391_comments","fv1208",0,"n/a"
+"FieldValue","Comments hereÖ","394_comments","fv1209",0,"n/a"
+"FieldValue","Comments hereÖ","395_comments","fv1210",0,"n/a"
+"FieldValue","Comments hereÖ","396_comments","fv1211",0,"n/a"
+"FieldValue","Comments hereÖ","397_comments","fv1212",0,"n/a"
+"FieldValue","Comments hereÖ","398_comments","fv1213",0,"n/a"
+"FieldValue","Comments hereÖ","399_comments","fv1214",0,"n/a"
+"FieldValue","Comments hereÖ","400_comments","fv1215",0,"n/a"
+"FieldValue","Comments hereÖ","401_comments","fv1216",0,"n/a"
+"FieldValue","Comments hereÖ","414_comments","fv1217",0,"n/a"
+"FieldValue","Comments hereÖ","415_comments","fv1218",0,"n/a"
+"FieldValue","Comments hereÖ","416_comments","fv1219",0,"n/a"
+"FieldValue","Comments hereÖ","418_comments","fv1220",0,"n/a"
+"FieldValue","Comments hereÖ","419_comments","fv1221",0,"n/a"
+"FieldValue","Comments hereÖ","544_comments","fv1222",0,"n/a"
+"FieldValue","Comments hereÖ","578_comments","fv1223",0,"n/a"
+"FieldValue","Comments hereÖ","587_comments","fv1224",0,"n/a"
+"FieldValue","Comments hereÖ","625_comments","fv1225",0,"n/a"
+"FieldValue","Comments hereÖ","626_comments","fv1226",0,"n/a"
+"FieldValue","Comments hereÖ","627_comments","fv1227",0,"n/a"
+"FieldValue","Comments hereÖ","628_comments","fv1228",0,"n/a"
+"FieldValue","Comments hereÖ","629_comments","fv1229",0,"n/a"
+"FieldValue","Comments hereÖ","630_comments","fv1230",0,"n/a"
+"FieldValue","Comments hereÖ","631_comments","fv1231",0,"n/a"
+"FieldValue","Comments hereÖ","632_comments","fv1232",0,"n/a"
+"FieldValue","Comments hereÖ","633_comments","fv1233",0,"n/a"
+"FieldValue","Comments hereÖ","634_comments","fv1234",0,"n/a"
+"FieldValue","Comments hereÖ","636_comments","fv1235",0,"n/a"
+"FieldValue","Comments hereÖ","637_comments","fv1236",0,"n/a"
+"FieldValue","Comments hereÖ","638_comments","fv1237",0,"n/a"
+"FieldValue","Comments hereÖ","639_comments","fv1238",0,"n/a"
+"FieldValue","Comments hereÖ","640_comments","fv1239",0,"n/a"
+"FieldValue","Comments hereÖ","684_comments","fv1240",0,"n/a"
+"FieldValue","Comments hereÖ","449_comments","fv1241",0,"n/a"
+"FieldValue","Comments hereÖ","450_comments","fv1242",0,"n/a"
+"FieldValue","Comments hereÖ","612_comments","fv1243",0,"n/a"
+"FieldValue","Comments hereÖ","635_comments","fv1244",0,"n/a"
+"FieldValue","Comments hereÖ","650_comments","fv1245",0,"n/a"
+"FieldValue","Comments hereÖ","657_comments","fv1246",0,"n/a"
+"FieldValue","Comments hereÖ","658_comments","fv1247",0,"n/a"
+"FieldValue","Comments hereÖ","659_comments","fv1248",0,"n/a"
+"FieldValue","Comments hereÖ","660_comments","fv1249",0,"n/a"
+"FieldValue","Comments hereÖ","661_comments","fv1250",0,"n/a"
+"FieldValue","Comments hereÖ","662_comments","fv1251",0,"n/a"
+"FieldValue","Comments hereÖ","663_comments","fv1252",0,"n/a"
+"FieldValue","Comments hereÖ","664_comments","fv1253",0,"n/a"
+"FieldValue","Comments hereÖ","665_comments","fv1254",0,"n/a"
+"FieldValue","Comments hereÖ","666_comments","fv1255",0,"n/a"
+"FieldValue","Comments hereÖ","667_comments","fv1256",0,"n/a"
+"FieldValue","Comments hereÖ","668_comments","fv1257",0,"n/a"
+"FieldValue","Comments hereÖ","669_comments","fv1258",0,"n/a"
+"FieldValue","Comments hereÖ","670_comments","fv1259",0,"n/a"
+"FieldValue","Comments hereÖ","672_comments","fv1260",0,"n/a"
+"FieldValue","Comments hereÖ","673_comments","fv1261",0,"n/a"
+"FieldValue","Comments hereÖ","674_comments","fv1262",0,"n/a"
+"FieldValue","Comments hereÖ","731_comments","fv1263",0,"n/a"
+"FieldValue","Comments hereÖ","520_comments","fv1264",0,"n/a"
+"FieldValue","Comments hereÖ","521_comments","fv1265",0,"n/a"
+"FieldValue","Comments hereÖ","624_comments","fv1266",0,"n/a"
+"FieldValue","Comments hereÖ","649_comments","fv1267",0,"n/a"
+"FieldValue","Comments hereÖ","651_comments","fv1268",0,"n/a"
+"FieldValue","Comments hereÖ","653_comments","fv1269",0,"n/a"
+"FieldValue","Comments hereÖ","654_comments","fv1270",0,"n/a"
+"FieldValue","Comments hereÖ","619_comments","fv1271",0,"n/a"
+"FieldValue","Comments hereÖ","618_comments","fv1272",0,"n/a"
+"FieldValue","Comments hereÖ","682_comments","fv1273",0,"n/a"
+"FieldValue","Comments hereÖ","571_comments","fv1274",0,"n/a"
+"FieldValue","Comments hereÖ","679_comments","fv1275",0,"n/a"
+"FieldValue","Comments hereÖ","680_comments","fv1276",0,"n/a"
+"FieldValue","Comments hereÖ","681_comments","fv1277",0,"n/a"
+"FieldValue","Comments hereÖ","597_comments","fv1278",0,"n/a"
+"FieldValue","Comments hereÖ","363_comments","fv1279",0,"n/a"
+"FieldValue","Comments hereÖ","370_comments","fv1280",0,"n/a"
+"FieldValue","Comments hereÖ","371_comments","fv1281",0,"n/a"
+"FieldValue","Comments hereÖ","372_comments","fv1282",0,"n/a"
+"FieldValue","Comments hereÖ","373_comments","fv1283",0,"n/a"
+"FieldValue","Comments hereÖ","364_comments","fv1284",0,"n/a"
+"FieldValue","Comments hereÖ","365_comments","fv1285",0,"n/a"
+"FieldValue","Comments hereÖ","366_comments","fv1286",0,"n/a"
+"FieldValue","Comments hereÖ","367_comments","fv1287",0,"n/a"
+"FieldValue","Comments hereÖ","368_comments","fv1288",0,"n/a"
+"FieldValue","Comments hereÖ","369_comments","fv1289",0,"n/a"
+"FieldValue","Comments hereÖ","543_comments","fv1290",0,"n/a"
+"FieldValue","Comments hereÖ","592_comments","fv1291",0,"n/a"
+"FieldValue","Comments hereÖ","596_comments","fv1292",0,"n/a"
+"FieldValue","Comments hereÖ","598_comments","fv1293",0,"n/a"
+"FieldValue","Comments hereÖ","601_comments","fv1294",0,"n/a"
+"FieldValue","Comments hereÖ","605_comments","fv1295",0,"n/a"
+"FieldValue","Comments hereÖ","606_comments","fv1296",0,"n/a"
+"FieldValue","Comments hereÖ","610_comments","fv1297",0,"n/a"
+"FieldValue","Comments hereÖ","677_comments","fv1298",0,"n/a"
+"FieldValue","Comments hereÖ","678_comments","fv1299",0,"n/a"
+"FieldValue","Comments hereÖ","730_comments","fv1300",0,"n/a"
+"FieldValue","Comments hereÖ","617_comments","fv1301",0,"n/a"
+"FieldValue","Comments hereÖ","645_comments","fv1302",0,"n/a"
+"FieldValue","Comments hereÖ","380_comments","fv1303",0,"n/a"
+"FieldValue","Comments hereÖ","381_comments","fv1304",0,"n/a"
+"FieldValue","Comments hereÖ","382_comments","fv1305",0,"n/a"
+"FieldValue","Comments hereÖ","383_comments","fv1306",0,"n/a"
+"FieldValue","Comments hereÖ","374_comments","fv1307",0,"n/a"
+"FieldValue","Comments hereÖ","375_comments","fv1308",0,"n/a"
+"FieldValue","Comments hereÖ","376_comments","fv1309",0,"n/a"
+"FieldValue","Comments hereÖ","377_comments","fv1310",0,"n/a"
+"FieldValue","Comments hereÖ","378_comments","fv1311",0,"n/a"
+"FieldValue","Comments hereÖ","379_comments","fv1312",0,"n/a"
+"FieldValue","Comments hereÖ","384_comments","fv1313",0,"n/a"
+"FieldValue","Comments hereÖ","420_comments","fv1314",0,"n/a"
+"FieldValue","Comments hereÖ","434_comments","fv1315",0,"n/a"
+"FieldValue","Comments hereÖ","440_comments","fv1316",0,"n/a"
+"FieldValue","Comments hereÖ","584_comments","fv1317",0,"n/a"
+"FieldValue","Comments hereÖ","611_comments","fv1318",0,"n/a"
+"FieldValue","Comments hereÖ","620_comments","fv1319",0,"n/a"
+"FieldValue","Comments hereÖ","621_comments","fv1320",0,"n/a"
+"FieldValue","Comments hereÖ","655_comments","fv1321",0,"n/a"
+"FieldValue","Comments hereÖ","656_comments","fv1322",0,"n/a"
+"FieldValue","Comments hereÖ","685_comments","fv1323",0,"n/a"
+"FieldValue","Comments hereÖ","687_comments","fv1324",0,"n/a"
+"FieldValue","Comments hereÖ","706_comments","fv1325",0,"n/a"
+"FieldValue","Comments hereÖ","712_comments","fv1326",0,"n/a"
+"FieldValue","Comments hereÖ","713_comments","fv1327",0,"n/a"
+"FieldValue","Comments hereÖ","733_comments","fv1328",0,"n/a"
+"FieldValue","Comments hereÖ","690_comments","fv1329",0,"n/a"
+"FieldValue","Comments hereÖ","561_comments","fv1330",0,"n/a"
+"FieldValue","Comments hereÖ","683_comments","fv1331",0,"n/a"
+"FieldValue","Comments hereÖ","392_comments","fv1332",0,"n/a"
+"FieldValue","Comments hereÖ","393_comments","fv1333",0,"n/a"
+"FieldValue","Comments hereÖ","588_comments","fv1334",0,"n/a"
+"FieldValue","Comments hereÖ","589_comments","fv1335",0,"n/a"
+"FieldValue","Comments hereÖ","590_comments","fv1336",0,"n/a"
+"FieldValue","Comments hereÖ","421_comments","fv1337",0,"n/a"
+"FieldValue","Comments hereÖ","422_comments","fv1338",0,"n/a"
+"FieldValue","Comments hereÖ","423_comments","fv1339",0,"n/a"
+"FieldValue","Comments hereÖ","424_comments","fv1340",0,"n/a"
+"FieldValue","Comments hereÖ","442_comments","fv1341",0,"n/a"
+"FieldValue","Comments hereÖ","443_comments","fv1342",0,"n/a"
+"FieldValue","Comments hereÖ","444_comments","fv1343",0,"n/a"
+"FieldValue","Comments hereÖ","445_comments","fv1344",0,"n/a"
+"FieldValue","Comments hereÖ","708_comments","fv1345",0,"n/a"
+"FieldValue","Comments hereÖ","709_comments","fv1346",0,"n/a"
+"FieldValue","Comments hereÖ","710_comments","fv1347",0,"n/a"
+"FieldValue","Comments hereÖ","711_comments","fv1348",0,"n/a"
+"FieldValue","Comments hereÖ","425_comments","fv1349",0,"n/a"
+"FieldValue","Comments hereÖ","426_comments","fv1350",0,"n/a"
+"FieldValue","Comments hereÖ","427_comments","fv1351",0,"n/a"
+"FieldValue","Comments hereÖ","428_comments","fv1352",0,"n/a"
+"FieldValue","Comments hereÖ","429_comments","fv1353",0,"n/a"
+"FieldValue","Comments hereÖ","430_comments","fv1354",0,"n/a"
+"FieldValue","Comments hereÖ","431_comments","fv1355",0,"n/a"
+"FieldValue","Comments hereÖ","432_comments","fv1356",0,"n/a"
+"FieldValue","Comments hereÖ","433_comments","fv1357",0,"n/a"
+"FieldValue","Comments hereÖ","714_comments","fv1358",0,"n/a"
+"FieldValue","Comments hereÖ","435_comments","fv1359",0,"n/a"
+"FieldValue","Comments hereÖ","436_comments","fv1360",0,"n/a"
+"FieldValue","Comments hereÖ","437_comments","fv1361",0,"n/a"
+"FieldValue","Comments hereÖ","438_comments","fv1362",0,"n/a"
+"FieldValue","Comments hereÖ","439_comments","fv1363",0,"n/a"
+"FieldValue","Comments hereÖ","446_comments","fv1364",0,"n/a"
+"FieldValue","Comments hereÖ","700_comments","fv1365",0,"n/a"
+"FieldValue","Comments hereÖ","701_comments","fv1366",0,"n/a"
+"FieldValue","Comments hereÖ","702_comments","fv1367",0,"n/a"
+"FieldValue","Comments hereÖ","703_comments","fv1368",0,"n/a"
+"FieldValue","Comments hereÖ","441_comments","fv1369",0,"n/a"
+"FieldValue","Comments hereÖ","447_comments","fv1370",0,"n/a"
+"FieldValue","Comments hereÖ","448_comments","fv1371",0,"n/a"
+"FieldValue","Comments hereÖ","688_comments","fv1372",0,"n/a"
+"FieldValue","Comments hereÖ","704_comments","fv1373",0,"n/a"
+"FieldValue","Comments hereÖ","705_comments","fv1374",0,"n/a"
+"FieldValue","Comments hereÖ","707_comments","fv1375",0,"n/a"
+"FieldValue","Comments hereÖ","451_comments","fv1376",0,"n/a"
+"FieldValue","Comments hereÖ","453_comments","fv1377",0,"n/a"
+"FieldValue","Comments hereÖ","454_comments","fv1378",0,"n/a"
+"FieldValue","Comments hereÖ","455_comments","fv1379",0,"n/a"
+"FieldValue","Comments hereÖ","456_comments","fv1380",0,"n/a"
+"FieldValue","Comments hereÖ","457_comments","fv1381",0,"n/a"
+"FieldValue","Comments hereÖ","458_comments","fv1382",0,"n/a"
+"FieldValue","Comments hereÖ","459_comments","fv1383",0,"n/a"
+"FieldValue","Comments hereÖ","460_comments","fv1384",0,"n/a"
+"FieldValue","Comments hereÖ","461_comments","fv1385",0,"n/a"
+"FieldValue","Comments hereÖ","462_comments","fv1386",0,"n/a"
+"FieldValue","Comments hereÖ","463_comments","fv1387",0,"n/a"
+"FieldValue","Comments hereÖ","464_comments","fv1388",0,"n/a"
+"FieldValue","Comments hereÖ","465_comments","fv1389",0,"n/a"
+"FieldValue","Comments hereÖ","466_comments","fv1390",0,"n/a"
+"FieldValue","Comments hereÖ","467_comments","fv1391",0,"n/a"
+"FieldValue","Comments hereÖ","468_comments","fv1392",0,"n/a"
+"FieldValue","Comments hereÖ","469_comments","fv1393",0,"n/a"
+"FieldValue","Comments hereÖ","470_comments","fv1394",0,"n/a"
+"FieldValue","Comments hereÖ","471_comments","fv1395",0,"n/a"
+"FieldValue","Comments hereÖ","472_comments","fv1396",0,"n/a"
+"FieldValue","Comments hereÖ","473_comments","fv1397",0,"n/a"
+"FieldValue","Comments hereÖ","474_comments","fv1398",0,"n/a"
+"FieldValue","Comments hereÖ","623_comments","fv1399",0,"n/a"
+"FieldValue","Comments hereÖ","691_comments","fv1400",0,"n/a"
+"FieldValue","Comments hereÖ","692_comments","fv1401",0,"n/a"
+"FieldValue","Comments hereÖ","693_comments","fv1402",0,"n/a"
+"FieldValue","Comments hereÖ","694_comments","fv1403",0,"n/a"
+"FieldValue","Comments hereÖ","695_comments","fv1404",0,"n/a"
+"FieldValue","Comments hereÖ","696_comments","fv1405",0,"n/a"
+"FieldValue","Comments hereÖ","697_comments","fv1406",0,"n/a"
+"FieldValue","Comments hereÖ","698_comments","fv1407",0,"n/a"
+"FieldValue","Comments hereÖ","699_comments","fv1408",0,"n/a"
+"FieldValue","Comments hereÖ","522_comments","fv1409",0,"n/a"
+"FieldValue","Comments hereÖ","475_comments","fv1410",0,"n/a"
+"FieldValue","Comments hereÖ","476_comments","fv1411",0,"n/a"
+"FieldValue","Comments hereÖ","477_comments","fv1412",0,"n/a"
+"FieldValue","Comments hereÖ","478_comments","fv1413",0,"n/a"
+"FieldValue","Comments hereÖ","479_comments","fv1414",0,"n/a"
+"FieldValue","Comments hereÖ","480_comments","fv1415",0,"n/a"
+"FieldValue","Comments hereÖ","481_comments","fv1416",0,"n/a"
+"FieldValue","Comments hereÖ","482_comments","fv1417",0,"n/a"
+"FieldValue","Comments hereÖ","483_comments","fv1418",0,"n/a"
+"FieldValue","Comments hereÖ","484_comments","fv1419",0,"n/a"
+"FieldValue","Comments hereÖ","485_comments","fv1420",0,"n/a"
+"FieldValue","Comments hereÖ","486_comments","fv1421",0,"n/a"
+"FieldValue","Comments hereÖ","487_comments","fv1422",0,"n/a"
+"FieldValue","Comments hereÖ","489_comments","fv1423",0,"n/a"
+"FieldValue","Comments hereÖ","490_comments","fv1424",0,"n/a"
+"FieldValue","Comments hereÖ","492_comments","fv1425",0,"n/a"
+"FieldValue","Comments hereÖ","493_comments","fv1426",0,"n/a"
+"FieldValue","Comments hereÖ","503_comments","fv1427",0,"n/a"
+"FieldValue","Comments hereÖ","504_comments","fv1428",0,"n/a"
+"FieldValue","Comments hereÖ","505_comments","fv1429",0,"n/a"
+"FieldValue","Comments hereÖ","506_comments","fv1430",0,"n/a"
+"FieldValue","Comments hereÖ","491_comments","fv1431",0,"n/a"
+"FieldValue","Comments hereÖ","551_comments","fv1432",0,"n/a"
+"FieldValue","Comments hereÖ","556_comments","fv1433",0,"n/a"
+"FieldValue","Comments hereÖ","557_comments","fv1434",0,"n/a"
+"FieldValue","Comments hereÖ","558_comments","fv1435",0,"n/a"
+"FieldValue","Comments hereÖ","567_comments","fv1436",0,"n/a"
+"FieldValue","Comments hereÖ","568_comments","fv1437",0,"n/a"
+"FieldValue","Comments hereÖ","576_comments","fv1438",0,"n/a"
+"FieldValue","Comments hereÖ","577_comments","fv1439",0,"n/a"
+"FieldValue","Comments hereÖ","602_comments","fv1440",0,"n/a"
+"FieldValue","Comments hereÖ","614_comments","fv1441",0,"n/a"
+"FieldValue","Comments hereÖ","615_comments","fv1442",0,"n/a"
+"FieldValue","Comments hereÖ","652_comments","fv1443",0,"n/a"
+"FieldValue","Comments hereÖ","494_comments","fv1444",0,"n/a"
+"FieldValue","Comments hereÖ","495_comments","fv1445",0,"n/a"
+"FieldValue","Comments hereÖ","496_comments","fv1446",0,"n/a"
+"FieldValue","Comments hereÖ","497_comments","fv1447",0,"n/a"
+"FieldValue","Comments hereÖ","498_comments","fv1448",0,"n/a"
+"FieldValue","Comments hereÖ","499_comments","fv1449",0,"n/a"
+"FieldValue","Comments hereÖ","500_comments","fv1450",0,"n/a"
+"FieldValue","Comments hereÖ","501_comments","fv1451",0,"n/a"
+"FieldValue","Comments hereÖ","502_comments","fv1452",0,"n/a"
+"FieldValue","Comments hereÖ","508_comments","fv1453",0,"n/a"
+"FieldValue","Comments hereÖ","509_comments","fv1454",0,"n/a"
+"FieldValue","Comments hereÖ","510_comments","fv1455",0,"n/a"
+"FieldValue","Comments hereÖ","511_comments","fv1456",0,"n/a"
+"FieldValue","Comments hereÖ","512_comments","fv1457",0,"n/a"
+"FieldValue","Comments hereÖ","513_comments","fv1458",0,"n/a"
+"FieldValue","Comments hereÖ","514_comments","fv1459",0,"n/a"
+"FieldValue","Comments hereÖ","515_comments","fv1460",0,"n/a"
+"FieldValue","Comments hereÖ","516_comments","fv1461",0,"n/a"
+"FieldValue","Comments hereÖ","517_comments","fv1462",0,"n/a"
+"FieldValue","Comments hereÖ","519_comments","fv1463",0,"n/a"
+"FieldValue","Comments hereÖ","671_comments","fv1464",0,"n/a"
+"FieldValue","Comments hereÖ","716_comments","fv1465",0,"n/a"
+"FieldValue","Comments hereÖ","717_comments","fv1466",0,"n/a"
+"FieldValue","Comments hereÖ","718_comments","fv1467",0,"n/a"
+"FieldValue","Comments hereÖ","719_comments","fv1468",0,"n/a"
+"FieldValue","Comments hereÖ","720_comments","fv1469",0,"n/a"
+"FieldValue","Comments hereÖ","721_comments","fv1470",0,"n/a"
+"FieldValue","Comments hereÖ","722_comments","fv1471",0,"n/a"
+"FieldValue","Comments hereÖ","723_comments","fv1472",0,"n/a"
+"FieldValue","Comments hereÖ","724_comments","fv1473",0,"n/a"
+"FieldValue","Comments hereÖ","725_comments","fv1474",0,"n/a"
+"FieldValue","Comments hereÖ","726_comments","fv1475",0,"n/a"
+"FieldValue","Comments hereÖ","727_comments","fv1476",0,"n/a"
+"FieldValue","Comments hereÖ","728_comments","fv1477",0,"n/a"
+"FieldValue","Comments hereÖ","729_comments","fv1478",0,"n/a"
+"FieldValue","Source hereÖ","360_source","fv1479",0,"n/a"
+"FieldValue","Source hereÖ","361_source","fv1480",0,"n/a"
+"FieldValue","Source hereÖ","362_source","fv1481",0,"n/a"
+"FieldValue","Source hereÖ","586_source","fv1482",0,"n/a"
+"FieldValue","Source hereÖ","591_source","fv1483",0,"n/a"
+"FieldValue","Source hereÖ","593_source","fv1484",0,"n/a"
+"FieldValue","Source hereÖ","594_source","fv1485",0,"n/a"
+"FieldValue","Source hereÖ","595_source","fv1486",0,"n/a"
+"FieldValue","Source hereÖ","643_source","fv1487",0,"n/a"
+"FieldValue","Source hereÖ","644_source","fv1488",0,"n/a"
+"FieldValue","Source hereÖ","732_source","fv1489",0,"n/a"
+"FieldValue","Source hereÖ","353_source","fv1490",0,"n/a"
+"FieldValue","Source hereÖ","354_source","fv1491",0,"n/a"
+"FieldValue","Source hereÖ","355_source","fv1492",0,"n/a"
+"FieldValue","Source hereÖ","356_source","fv1493",0,"n/a"
+"FieldValue","Source hereÖ","357_source","fv1494",0,"n/a"
+"FieldValue","Source hereÖ","358_source","fv1495",0,"n/a"
+"FieldValue","Source hereÖ","359_source","fv1496",0,"n/a"
+"FieldValue","Source hereÖ","385_source","fv1497",0,"n/a"
+"FieldValue","Source hereÖ","402_source","fv1498",0,"n/a"
+"FieldValue","Source hereÖ","403_source","fv1499",0,"n/a"
+"FieldValue","Source hereÖ","404_source","fv1500",0,"n/a"
+"FieldValue","Source hereÖ","405_source","fv1501",0,"n/a"
+"FieldValue","Source hereÖ","406_source","fv1502",0,"n/a"
+"FieldValue","Source hereÖ","407_source","fv1503",0,"n/a"
+"FieldValue","Source hereÖ","408_source","fv1504",0,"n/a"
+"FieldValue","Source hereÖ","409_source","fv1505",0,"n/a"
+"FieldValue","Source hereÖ","410_source","fv1506",0,"n/a"
+"FieldValue","Source hereÖ","411_source","fv1507",0,"n/a"
+"FieldValue","Source hereÖ","412_source","fv1508",0,"n/a"
+"FieldValue","Source hereÖ","413_source","fv1509",0,"n/a"
+"FieldValue","Source hereÖ","417_source","fv1510",0,"n/a"
+"FieldValue","Source hereÖ","452_source","fv1511",0,"n/a"
+"FieldValue","Source hereÖ","488_source","fv1512",0,"n/a"
+"FieldValue","Source hereÖ","507_source","fv1513",0,"n/a"
+"FieldValue","Source hereÖ","518_source","fv1514",0,"n/a"
+"FieldValue","Source hereÖ","523_source","fv1515",0,"n/a"
+"FieldValue","Source hereÖ","524_source","fv1516",0,"n/a"
+"FieldValue","Source hereÖ","525_source","fv1517",0,"n/a"
+"FieldValue","Source hereÖ","526_source","fv1518",0,"n/a"
+"FieldValue","Source hereÖ","527_source","fv1519",0,"n/a"
+"FieldValue","Source hereÖ","528_source","fv1520",0,"n/a"
+"FieldValue","Source hereÖ","529_source","fv1521",0,"n/a"
+"FieldValue","Source hereÖ","530_source","fv1522",0,"n/a"
+"FieldValue","Source hereÖ","531_source","fv1523",0,"n/a"
+"FieldValue","Source hereÖ","532_source","fv1524",0,"n/a"
+"FieldValue","Source hereÖ","533_source","fv1525",0,"n/a"
+"FieldValue","Source hereÖ","534_source","fv1526",0,"n/a"
+"FieldValue","Source hereÖ","535_source","fv1527",0,"n/a"
+"FieldValue","Source hereÖ","536_source","fv1528",0,"n/a"
+"FieldValue","Source hereÖ","537_source","fv1529",0,"n/a"
+"FieldValue","Source hereÖ","538_source","fv1530",0,"n/a"
+"FieldValue","Source hereÖ","539_source","fv1531",0,"n/a"
+"FieldValue","Source hereÖ","540_source","fv1532",0,"n/a"
+"FieldValue","Source hereÖ","541_source","fv1533",0,"n/a"
+"FieldValue","Source hereÖ","542_source","fv1534",0,"n/a"
+"FieldValue","Source hereÖ","545_source","fv1535",0,"n/a"
+"FieldValue","Source hereÖ","546_source","fv1536",0,"n/a"
+"FieldValue","Source hereÖ","547_source","fv1537",0,"n/a"
+"FieldValue","Source hereÖ","548_source","fv1538",0,"n/a"
+"FieldValue","Source hereÖ","549_source","fv1539",0,"n/a"
+"FieldValue","Source hereÖ","550_source","fv1540",0,"n/a"
+"FieldValue","Source hereÖ","552_source","fv1541",0,"n/a"
+"FieldValue","Source hereÖ","553_source","fv1542",0,"n/a"
+"FieldValue","Source hereÖ","554_source","fv1543",0,"n/a"
+"FieldValue","Source hereÖ","555_source","fv1544",0,"n/a"
+"FieldValue","Source hereÖ","559_source","fv1545",0,"n/a"
+"FieldValue","Source hereÖ","560_source","fv1546",0,"n/a"
+"FieldValue","Source hereÖ","562_source","fv1547",0,"n/a"
+"FieldValue","Source hereÖ","563_source","fv1548",0,"n/a"
+"FieldValue","Source hereÖ","564_source","fv1549",0,"n/a"
+"FieldValue","Source hereÖ","565_source","fv1550",0,"n/a"
+"FieldValue","Source hereÖ","566_source","fv1551",0,"n/a"
+"FieldValue","Source hereÖ","569_source","fv1552",0,"n/a"
+"FieldValue","Source hereÖ","570_source","fv1553",0,"n/a"
+"FieldValue","Source hereÖ","572_source","fv1554",0,"n/a"
+"FieldValue","Source hereÖ","573_source","fv1555",0,"n/a"
+"FieldValue","Source hereÖ","574_source","fv1556",0,"n/a"
+"FieldValue","Source hereÖ","575_source","fv1557",0,"n/a"
+"FieldValue","Source hereÖ","579_source","fv1558",0,"n/a"
+"FieldValue","Source hereÖ","580_source","fv1559",0,"n/a"
+"FieldValue","Source hereÖ","581_source","fv1560",0,"n/a"
+"FieldValue","Source hereÖ","582_source","fv1561",0,"n/a"
+"FieldValue","Source hereÖ","583_source","fv1562",0,"n/a"
+"FieldValue","Source hereÖ","585_source","fv1563",0,"n/a"
+"FieldValue","Source hereÖ","599_source","fv1564",0,"n/a"
+"FieldValue","Source hereÖ","600_source","fv1565",0,"n/a"
+"FieldValue","Source hereÖ","603_source","fv1566",0,"n/a"
+"FieldValue","Source hereÖ","604_source","fv1567",0,"n/a"
+"FieldValue","Source hereÖ","607_source","fv1568",0,"n/a"
+"FieldValue","Source hereÖ","608_source","fv1569",0,"n/a"
+"FieldValue","Source hereÖ","609_source","fv1570",0,"n/a"
+"FieldValue","Source hereÖ","613_source","fv1571",0,"n/a"
+"FieldValue","Source hereÖ","616_source","fv1572",0,"n/a"
+"FieldValue","Source hereÖ","622_source","fv1573",0,"n/a"
+"FieldValue","Source hereÖ","641_source","fv1574",0,"n/a"
+"FieldValue","Source hereÖ","642_source","fv1575",0,"n/a"
+"FieldValue","Source hereÖ","646_source","fv1576",0,"n/a"
+"FieldValue","Source hereÖ","647_source","fv1577",0,"n/a"
+"FieldValue","Source hereÖ","648_source","fv1578",0,"n/a"
+"FieldValue","Source hereÖ","675_source","fv1579",0,"n/a"
+"FieldValue","Source hereÖ","676_source","fv1580",0,"n/a"
+"FieldValue","Source hereÖ","686_source","fv1581",0,"n/a"
+"FieldValue","Source hereÖ","689_source","fv1582",0,"n/a"
+"FieldValue","Source hereÖ","715_source","fv1583",0,"n/a"
+"FieldValue","Source hereÖ","386_source","fv1584",0,"n/a"
+"FieldValue","Source hereÖ","387_source","fv1585",0,"n/a"
+"FieldValue","Source hereÖ","388_source","fv1586",0,"n/a"
+"FieldValue","Source hereÖ","389_source","fv1587",0,"n/a"
+"FieldValue","Source hereÖ","390_source","fv1588",0,"n/a"
+"FieldValue","Source hereÖ","391_source","fv1589",0,"n/a"
+"FieldValue","Source hereÖ","394_source","fv1590",0,"n/a"
+"FieldValue","Source hereÖ","395_source","fv1591",0,"n/a"
+"FieldValue","Source hereÖ","396_source","fv1592",0,"n/a"
+"FieldValue","Source hereÖ","397_source","fv1593",0,"n/a"
+"FieldValue","Source hereÖ","398_source","fv1594",0,"n/a"
+"FieldValue","Source hereÖ","399_source","fv1595",0,"n/a"
+"FieldValue","Source hereÖ","400_source","fv1596",0,"n/a"
+"FieldValue","Source hereÖ","401_source","fv1597",0,"n/a"
+"FieldValue","Source hereÖ","414_source","fv1598",0,"n/a"
+"FieldValue","Source hereÖ","415_source","fv1599",0,"n/a"
+"FieldValue","Source hereÖ","416_source","fv1600",0,"n/a"
+"FieldValue","Source hereÖ","418_source","fv1601",0,"n/a"
+"FieldValue","Source hereÖ","419_source","fv1602",0,"n/a"
+"FieldValue","Source hereÖ","544_source","fv1603",0,"n/a"
+"FieldValue","Source hereÖ","578_source","fv1604",0,"n/a"
+"FieldValue","Source hereÖ","587_source","fv1605",0,"n/a"
+"FieldValue","Source hereÖ","625_source","fv1606",0,"n/a"
+"FieldValue","Source hereÖ","626_source","fv1607",0,"n/a"
+"FieldValue","Source hereÖ","627_source","fv1608",0,"n/a"
+"FieldValue","Source hereÖ","628_source","fv1609",0,"n/a"
+"FieldValue","Source hereÖ","629_source","fv1610",0,"n/a"
+"FieldValue","Source hereÖ","630_source","fv1611",0,"n/a"
+"FieldValue","Source hereÖ","631_source","fv1612",0,"n/a"
+"FieldValue","Source hereÖ","632_source","fv1613",0,"n/a"
+"FieldValue","Source hereÖ","633_source","fv1614",0,"n/a"
+"FieldValue","Source hereÖ","634_source","fv1615",0,"n/a"
+"FieldValue","Source hereÖ","636_source","fv1616",0,"n/a"
+"FieldValue","Source hereÖ","637_source","fv1617",0,"n/a"
+"FieldValue","Source hereÖ","638_source","fv1618",0,"n/a"
+"FieldValue","Source hereÖ","639_source","fv1619",0,"n/a"
+"FieldValue","Source hereÖ","640_source","fv1620",0,"n/a"
+"FieldValue","Source hereÖ","684_source","fv1621",0,"n/a"
+"FieldValue","Source hereÖ","449_source","fv1622",0,"n/a"
+"FieldValue","Source hereÖ","450_source","fv1623",0,"n/a"
+"FieldValue","Source hereÖ","612_source","fv1624",0,"n/a"
+"FieldValue","Source hereÖ","635_source","fv1625",0,"n/a"
+"FieldValue","Source hereÖ","650_source","fv1626",0,"n/a"
+"FieldValue","Source hereÖ","657_source","fv1627",0,"n/a"
+"FieldValue","Source hereÖ","658_source","fv1628",0,"n/a"
+"FieldValue","Source hereÖ","659_source","fv1629",0,"n/a"
+"FieldValue","Source hereÖ","660_source","fv1630",0,"n/a"
+"FieldValue","Source hereÖ","661_source","fv1631",0,"n/a"
+"FieldValue","Source hereÖ","662_source","fv1632",0,"n/a"
+"FieldValue","Source hereÖ","663_source","fv1633",0,"n/a"
+"FieldValue","Source hereÖ","664_source","fv1634",0,"n/a"
+"FieldValue","Source hereÖ","665_source","fv1635",0,"n/a"
+"FieldValue","Source hereÖ","666_source","fv1636",0,"n/a"
+"FieldValue","Source hereÖ","667_source","fv1637",0,"n/a"
+"FieldValue","Source hereÖ","668_source","fv1638",0,"n/a"
+"FieldValue","Source hereÖ","669_source","fv1639",0,"n/a"
+"FieldValue","Source hereÖ","670_source","fv1640",0,"n/a"
+"FieldValue","Source hereÖ","672_source","fv1641",0,"n/a"
+"FieldValue","Source hereÖ","673_source","fv1642",0,"n/a"
+"FieldValue","Source hereÖ","674_source","fv1643",0,"n/a"
+"FieldValue","Source hereÖ","731_source","fv1644",0,"n/a"
+"FieldValue","Source hereÖ","520_source","fv1645",0,"n/a"
+"FieldValue","Source hereÖ","521_source","fv1646",0,"n/a"
+"FieldValue","Source hereÖ","624_source","fv1647",0,"n/a"
+"FieldValue","Source hereÖ","649_source","fv1648",0,"n/a"
+"FieldValue","Source hereÖ","651_source","fv1649",0,"n/a"
+"FieldValue","Source hereÖ","653_source","fv1650",0,"n/a"
+"FieldValue","Source hereÖ","654_source","fv1651",0,"n/a"
+"FieldValue","Source hereÖ","619_source","fv1652",0,"n/a"
+"FieldValue","Source hereÖ","618_source","fv1653",0,"n/a"
+"FieldValue","Source hereÖ","682_source","fv1654",0,"n/a"
+"FieldValue","Source hereÖ","571_source","fv1655",0,"n/a"
+"FieldValue","Source hereÖ","679_source","fv1656",0,"n/a"
+"FieldValue","Source hereÖ","680_source","fv1657",0,"n/a"
+"FieldValue","Source hereÖ","681_source","fv1658",0,"n/a"
+"FieldValue","Source hereÖ","597_source","fv1659",0,"n/a"
+"FieldValue","Source hereÖ","363_source","fv1660",0,"n/a"
+"FieldValue","Source hereÖ","370_source","fv1661",0,"n/a"
+"FieldValue","Source hereÖ","371_source","fv1662",0,"n/a"
+"FieldValue","Source hereÖ","372_source","fv1663",0,"n/a"
+"FieldValue","Source hereÖ","373_source","fv1664",0,"n/a"
+"FieldValue","Source hereÖ","364_source","fv1665",0,"n/a"
+"FieldValue","Source hereÖ","365_source","fv1666",0,"n/a"
+"FieldValue","Source hereÖ","366_source","fv1667",0,"n/a"
+"FieldValue","Source hereÖ","367_source","fv1668",0,"n/a"
+"FieldValue","Source hereÖ","368_source","fv1669",0,"n/a"
+"FieldValue","Source hereÖ","369_source","fv1670",0,"n/a"
+"FieldValue","Source hereÖ","543_source","fv1671",0,"n/a"
+"FieldValue","Source hereÖ","592_source","fv1672",0,"n/a"
+"FieldValue","Source hereÖ","596_source","fv1673",0,"n/a"
+"FieldValue","Source hereÖ","598_source","fv1674",0,"n/a"
+"FieldValue","Source hereÖ","601_source","fv1675",0,"n/a"
+"FieldValue","Source hereÖ","605_source","fv1676",0,"n/a"
+"FieldValue","Source hereÖ","606_source","fv1677",0,"n/a"
+"FieldValue","Source hereÖ","610_source","fv1678",0,"n/a"
+"FieldValue","Source hereÖ","677_source","fv1679",0,"n/a"
+"FieldValue","Source hereÖ","678_source","fv1680",0,"n/a"
+"FieldValue","Source hereÖ","730_source","fv1681",0,"n/a"
+"FieldValue","Source hereÖ","617_source","fv1682",0,"n/a"
+"FieldValue","Source hereÖ","645_source","fv1683",0,"n/a"
+"FieldValue","Source hereÖ","380_source","fv1684",0,"n/a"
+"FieldValue","Source hereÖ","381_source","fv1685",0,"n/a"
+"FieldValue","Source hereÖ","382_source","fv1686",0,"n/a"
+"FieldValue","Source hereÖ","383_source","fv1687",0,"n/a"
+"FieldValue","Source hereÖ","374_source","fv1688",0,"n/a"
+"FieldValue","Source hereÖ","375_source","fv1689",0,"n/a"
+"FieldValue","Source hereÖ","376_source","fv1690",0,"n/a"
+"FieldValue","Source hereÖ","377_source","fv1691",0,"n/a"
+"FieldValue","Source hereÖ","378_source","fv1692",0,"n/a"
+"FieldValue","Source hereÖ","379_source","fv1693",0,"n/a"
+"FieldValue","Source hereÖ","384_source","fv1694",0,"n/a"
+"FieldValue","Source hereÖ","420_source","fv1695",0,"n/a"
+"FieldValue","Source hereÖ","434_source","fv1696",0,"n/a"
+"FieldValue","Source hereÖ","440_source","fv1697",0,"n/a"
+"FieldValue","Source hereÖ","584_source","fv1698",0,"n/a"
+"FieldValue","Source hereÖ","611_source","fv1699",0,"n/a"
+"FieldValue","Source hereÖ","620_source","fv1700",0,"n/a"
+"FieldValue","Source hereÖ","621_source","fv1701",0,"n/a"
+"FieldValue","Source hereÖ","655_source","fv1702",0,"n/a"
+"FieldValue","Source hereÖ","656_source","fv1703",0,"n/a"
+"FieldValue","Source hereÖ","685_source","fv1704",0,"n/a"
+"FieldValue","Source hereÖ","687_source","fv1705",0,"n/a"
+"FieldValue","Source hereÖ","706_source","fv1706",0,"n/a"
+"FieldValue","Source hereÖ","712_source","fv1707",0,"n/a"
+"FieldValue","Source hereÖ","713_source","fv1708",0,"n/a"
+"FieldValue","Source hereÖ","733_source","fv1709",0,"n/a"
+"FieldValue","Source hereÖ","690_source","fv1710",0,"n/a"
+"FieldValue","Source hereÖ","561_source","fv1711",0,"n/a"
+"FieldValue","Source hereÖ","683_source","fv1712",0,"n/a"
+"FieldValue","Source hereÖ","392_source","fv1713",0,"n/a"
+"FieldValue","Source hereÖ","393_source","fv1714",0,"n/a"
+"FieldValue","Source hereÖ","588_source","fv1715",0,"n/a"
+"FieldValue","Source hereÖ","589_source","fv1716",0,"n/a"
+"FieldValue","Source hereÖ","590_source","fv1717",0,"n/a"
+"FieldValue","Source hereÖ","421_source","fv1718",0,"n/a"
+"FieldValue","Source hereÖ","422_source","fv1719",0,"n/a"
+"FieldValue","Source hereÖ","423_source","fv1720",0,"n/a"
+"FieldValue","Source hereÖ","424_source","fv1721",0,"n/a"
+"FieldValue","Source hereÖ","442_source","fv1722",0,"n/a"
+"FieldValue","Source hereÖ","443_source","fv1723",0,"n/a"
+"FieldValue","Source hereÖ","444_source","fv1724",0,"n/a"
+"FieldValue","Source hereÖ","445_source","fv1725",0,"n/a"
+"FieldValue","Source hereÖ","708_source","fv1726",0,"n/a"
+"FieldValue","Source hereÖ","709_source","fv1727",0,"n/a"
+"FieldValue","Source hereÖ","710_source","fv1728",0,"n/a"
+"FieldValue","Source hereÖ","711_source","fv1729",0,"n/a"
+"FieldValue","Source hereÖ","425_source","fv1730",0,"n/a"
+"FieldValue","Source hereÖ","426_source","fv1731",0,"n/a"
+"FieldValue","Source hereÖ","427_source","fv1732",0,"n/a"
+"FieldValue","Source hereÖ","428_source","fv1733",0,"n/a"
+"FieldValue","Source hereÖ","429_source","fv1734",0,"n/a"
+"FieldValue","Source hereÖ","430_source","fv1735",0,"n/a"
+"FieldValue","Source hereÖ","431_source","fv1736",0,"n/a"
+"FieldValue","Source hereÖ","432_source","fv1737",0,"n/a"
+"FieldValue","Source hereÖ","433_source","fv1738",0,"n/a"
+"FieldValue","Source hereÖ","714_source","fv1739",0,"n/a"
+"FieldValue","Source hereÖ","435_source","fv1740",0,"n/a"
+"FieldValue","Source hereÖ","436_source","fv1741",0,"n/a"
+"FieldValue","Source hereÖ","437_source","fv1742",0,"n/a"
+"FieldValue","Source hereÖ","438_source","fv1743",0,"n/a"
+"FieldValue","Source hereÖ","439_source","fv1744",0,"n/a"
+"FieldValue","Source hereÖ","446_source","fv1745",0,"n/a"
+"FieldValue","Source hereÖ","700_source","fv1746",0,"n/a"
+"FieldValue","Source hereÖ","701_source","fv1747",0,"n/a"
+"FieldValue","Source hereÖ","702_source","fv1748",0,"n/a"
+"FieldValue","Source hereÖ","703_source","fv1749",0,"n/a"
+"FieldValue","Source hereÖ","441_source","fv1750",0,"n/a"
+"FieldValue","Source hereÖ","447_source","fv1751",0,"n/a"
+"FieldValue","Source hereÖ","448_source","fv1752",0,"n/a"
+"FieldValue","Source hereÖ","688_source","fv1753",0,"n/a"
+"FieldValue","Source hereÖ","704_source","fv1754",0,"n/a"
+"FieldValue","Source hereÖ","705_source","fv1755",0,"n/a"
+"FieldValue","Source hereÖ","707_source","fv1756",0,"n/a"
+"FieldValue","Source hereÖ","451_source","fv1757",0,"n/a"
+"FieldValue","Source hereÖ","453_source","fv1758",0,"n/a"
+"FieldValue","Source hereÖ","454_source","fv1759",0,"n/a"
+"FieldValue","Source hereÖ","455_source","fv1760",0,"n/a"
+"FieldValue","Source hereÖ","456_source","fv1761",0,"n/a"
+"FieldValue","Source hereÖ","457_source","fv1762",0,"n/a"
+"FieldValue","Source hereÖ","458_source","fv1763",0,"n/a"
+"FieldValue","Source hereÖ","459_source","fv1764",0,"n/a"
+"FieldValue","Source hereÖ","460_source","fv1765",0,"n/a"
+"FieldValue","Source hereÖ","461_source","fv1766",0,"n/a"
+"FieldValue","Source hereÖ","462_source","fv1767",0,"n/a"
+"FieldValue","Source hereÖ","463_source","fv1768",0,"n/a"
+"FieldValue","Source hereÖ","464_source","fv1769",0,"n/a"
+"FieldValue","Source hereÖ","465_source","fv1770",0,"n/a"
+"FieldValue","Source hereÖ","466_source","fv1771",0,"n/a"
+"FieldValue","Source hereÖ","467_source","fv1772",0,"n/a"
+"FieldValue","Source hereÖ","468_source","fv1773",0,"n/a"
+"FieldValue","Source hereÖ","469_source","fv1774",0,"n/a"
+"FieldValue","Source hereÖ","470_source","fv1775",0,"n/a"
+"FieldValue","Source hereÖ","471_source","fv1776",0,"n/a"
+"FieldValue","Source hereÖ","472_source","fv1777",0,"n/a"
+"FieldValue","Source hereÖ","473_source","fv1778",0,"n/a"
+"FieldValue","Source hereÖ","474_source","fv1779",0,"n/a"
+"FieldValue","Source hereÖ","623_source","fv1780",0,"n/a"
+"FieldValue","Source hereÖ","691_source","fv1781",0,"n/a"
+"FieldValue","Source hereÖ","692_source","fv1782",0,"n/a"
+"FieldValue","Source hereÖ","693_source","fv1783",0,"n/a"
+"FieldValue","Source hereÖ","694_source","fv1784",0,"n/a"
+"FieldValue","Source hereÖ","695_source","fv1785",0,"n/a"
+"FieldValue","Source hereÖ","696_source","fv1786",0,"n/a"
+"FieldValue","Source hereÖ","697_source","fv1787",0,"n/a"
+"FieldValue","Source hereÖ","698_source","fv1788",0,"n/a"
+"FieldValue","Source hereÖ","699_source","fv1789",0,"n/a"
+"FieldValue","Source hereÖ","522_source","fv1790",0,"n/a"
+"FieldValue","Source hereÖ","475_source","fv1791",0,"n/a"
+"FieldValue","Source hereÖ","476_source","fv1792",0,"n/a"
+"FieldValue","Source hereÖ","477_source","fv1793",0,"n/a"
+"FieldValue","Source hereÖ","478_source","fv1794",0,"n/a"
+"FieldValue","Source hereÖ","479_source","fv1795",0,"n/a"
+"FieldValue","Source hereÖ","480_source","fv1796",0,"n/a"
+"FieldValue","Source hereÖ","481_source","fv1797",0,"n/a"
+"FieldValue","Source hereÖ","482_source","fv1798",0,"n/a"
+"FieldValue","Source hereÖ","483_source","fv1799",0,"n/a"
+"FieldValue","Source hereÖ","484_source","fv1800",0,"n/a"
+"FieldValue","Source hereÖ","485_source","fv1801",0,"n/a"
+"FieldValue","Source hereÖ","486_source","fv1802",0,"n/a"
+"FieldValue","Source hereÖ","487_source","fv1803",0,"n/a"
+"FieldValue","Source hereÖ","489_source","fv1804",0,"n/a"
+"FieldValue","Source hereÖ","490_source","fv1805",0,"n/a"
+"FieldValue","Source hereÖ","492_source","fv1806",0,"n/a"
+"FieldValue","Source hereÖ","493_source","fv1807",0,"n/a"
+"FieldValue","Source hereÖ","503_source","fv1808",0,"n/a"
+"FieldValue","Source hereÖ","504_source","fv1809",0,"n/a"
+"FieldValue","Source hereÖ","505_source","fv1810",0,"n/a"
+"FieldValue","Source hereÖ","506_source","fv1811",0,"n/a"
+"FieldValue","Source hereÖ","491_source","fv1812",0,"n/a"
+"FieldValue","Source hereÖ","551_source","fv1813",0,"n/a"
+"FieldValue","Source hereÖ","556_source","fv1814",0,"n/a"
+"FieldValue","Source hereÖ","557_source","fv1815",0,"n/a"
+"FieldValue","Source hereÖ","558_source","fv1816",0,"n/a"
+"FieldValue","Source hereÖ","567_source","fv1817",0,"n/a"
+"FieldValue","Source hereÖ","568_source","fv1818",0,"n/a"
+"FieldValue","Source hereÖ","576_source","fv1819",0,"n/a"
+"FieldValue","Source hereÖ","577_source","fv1820",0,"n/a"
+"FieldValue","Source hereÖ","602_source","fv1821",0,"n/a"
+"FieldValue","Source hereÖ","614_source","fv1822",0,"n/a"
+"FieldValue","Source hereÖ","615_source","fv1823",0,"n/a"
+"FieldValue","Source hereÖ","652_source","fv1824",0,"n/a"
+"FieldValue","Source hereÖ","494_source","fv1825",0,"n/a"
+"FieldValue","Source hereÖ","495_source","fv1826",0,"n/a"
+"FieldValue","Source hereÖ","496_source","fv1827",0,"n/a"
+"FieldValue","Source hereÖ","497_source","fv1828",0,"n/a"
+"FieldValue","Source hereÖ","498_source","fv1829",0,"n/a"
+"FieldValue","Source hereÖ","499_source","fv1830",0,"n/a"
+"FieldValue","Source hereÖ","500_source","fv1831",0,"n/a"
+"FieldValue","Source hereÖ","501_source","fv1832",0,"n/a"
+"FieldValue","Source hereÖ","502_source","fv1833",0,"n/a"
+"FieldValue","Source hereÖ","508_source","fv1834",0,"n/a"
+"FieldValue","Source hereÖ","509_source","fv1835",0,"n/a"
+"FieldValue","Source hereÖ","510_source","fv1836",0,"n/a"
+"FieldValue","Source hereÖ","511_source","fv1837",0,"n/a"
+"FieldValue","Source hereÖ","512_source","fv1838",0,"n/a"
+"FieldValue","Source hereÖ","513_source","fv1839",0,"n/a"
+"FieldValue","Source hereÖ","514_source","fv1840",0,"n/a"
+"FieldValue","Source hereÖ","515_source","fv1841",0,"n/a"
+"FieldValue","Source hereÖ","516_source","fv1842",0,"n/a"
+"FieldValue","Source hereÖ","517_source","fv1843",0,"n/a"
+"FieldValue","Source hereÖ","519_source","fv1844",0,"n/a"
+"FieldValue","Source hereÖ","671_source","fv1845",0,"n/a"
+"FieldValue","Source hereÖ","716_source","fv1846",0,"n/a"
+"FieldValue","Source hereÖ","717_source","fv1847",0,"n/a"
+"FieldValue","Source hereÖ","718_source","fv1848",0,"n/a"
+"FieldValue","Source hereÖ","719_source","fv1849",0,"n/a"
+"FieldValue","Source hereÖ","720_source","fv1850",0,"n/a"
+"FieldValue","Source hereÖ","721_source","fv1851",0,"n/a"
+"FieldValue","Source hereÖ","722_source","fv1852",0,"n/a"
+"FieldValue","Source hereÖ","723_source","fv1853",0,"n/a"
+"FieldValue","Source hereÖ","724_source","fv1854",0,"n/a"
+"FieldValue","Source hereÖ","725_source","fv1855",0,"n/a"
+"FieldValue","Source hereÖ","726_source","fv1856",0,"n/a"
+"FieldValue","Source hereÖ","727_source","fv1857",0,"n/a"
+"FieldValue","Source hereÖ","728_source","fv1858",0,"n/a"
+"FieldValue","Source hereÖ","729_source","fv1859",0,"n/a"

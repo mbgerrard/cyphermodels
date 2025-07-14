@@ -1,0 +1,8 @@
+"fromLabelName","toLabelName","type"
+"Admin|BaseMetamodel","REQ|Artefacts","HAS_ARTEFACTS"
+"Admin|Domains","REQ|Root","RELATED_TO"
+"REQ|Root","REQ|MetamodelTemplates","RELATED_TO"
+"REQ|MetamodelTemplates","REQ|MMT01","RELATED_TO"
+"REQ|Root","REQ|ModelTemplates","RELATED_TO"
+"REQ|ModelTemplates","REQ|MT01","RELATED_TO"
+"REQ|ModelTemplates","REQ|MT02","RELATED_TO"
