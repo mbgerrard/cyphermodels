@@ -1,21 +1,21 @@
-"fromLabelName","toLabelName","type","typeProps"
-"Admin|NodeClasses","Customer|Class","HAS_CLASS",
-"Admin|NodeClasses","User|Class","HAS_CLASS",
-"Admin|NodeClasses","Project|Class","HAS_CLASS",
-"Admin|NodeClasses","Model|Class","HAS_CLASS",
-"Customer|Class","User|Class","HAS_USERS",
-"Customer|Class","Project|Class","HAS_PROJECTS",
-"Project|Class","User|Class","RECOGNISES",
-"Project|Class","Model|Class","HAS_MODELS",
-"Admin|NodeClasses","Field|Class","HAS_CLASS",
-"Admin|NodeClasses","FieldValue|Class","HAS_CLASS",
-"Admin|NodeClasses","LogEntry|Class","HAS_CLASS",
-"Admin|NodeClasses","MetaRequirement|Class","HAS_CLASS",
-"Admin|NodeClasses","Requirement|Class","HAS_CLASS",
-"Field|Class","FieldValue|Class","HAS_FIELDVALUE",
-"FieldValue|Class","FieldValue|Class","IS_PART_OF",
-"MetaRequirement|Class","MetaRequirement|Class","DERIVED_FROM","constraints:[]"
-"MetaRequirement|Class","MetaRequirement|Class","DECOMPOSED_FROM","constraints:[]"
-"MetaRequirement|Class","MetaRequirement|Class","REFERENCES","constraints:[]"
-"MetaRequirement|Class","Field|Class","HAS_FIELD",
-"Requirement|Class","FieldValue|Class","HAS_VALUE",
+"fromTmpID","toTmpID","type","constraints"
+"A02","C00","HAS_CLASS",
+"A02","U00","HAS_CLASS",
+"A02","P00","HAS_CLASS",
+"A02","M00","HAS_CLASS",
+"A02","0","HAS_CLASS",
+"A02","FV00","HAS_CLASS",
+"A02","L00","HAS_CLASS",
+"A02","MR00","HAS_CLASS",
+"A02","R00","HAS_CLASS",
+"C00","U00","HAS_USERS",
+"C00","P00","HAS_PROJECTS",
+"P00","U00","RECOGNISES",
+"P00","M00","HAS_MODELS",
+"MR00","MR00","DERIVED_FROM","['LIST OF STRING']"
+"MR00","MR00","DECOMPOSED_FROM","['LIST OF STRING']"
+"MR00","MR00","REFERENCES","['LIST OF STRING']"
+"MR00","0","HAS_FIELD",
+"R00","FV00","HAS_VALUE",
+"0","FV00","HAS_FIELDVALUE",
+"FV00","FV00","IS_PART_OF",

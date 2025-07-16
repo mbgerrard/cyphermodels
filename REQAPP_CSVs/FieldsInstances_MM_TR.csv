@@ -1,3 +1,3 @@
-"fieldprop","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
-"verificationMethod","Verification Method","Help text here…","LIST","STRING",7,"TR_verifmethod",True,False,False,True,True,True,,,False
-"riskControl","Risk Control","Help text here…","TAG","BOOLEAN",8,"TR_riskcontrol",True,False,False,True,True,False,,,
+"fieldprop","labels","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
+"verificationMethod","Field","Verification Method","Help text here…","LIST","STRING",7,"TR_verifmethod",True,False,False,True,True,True,,,False
+"riskControl","Field","Risk Control","Help text here…","TAG","BOOLEAN",8,"TR_riskcontrol",True,False,False,True,True,False,,,

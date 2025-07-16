@@ -1,9 +1,9 @@
-"fieldprop","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
-"title","Title","Help text here…","TEXT","STRING",0,,True,False,False,False,False,True,False,,
-"subject","Stakeholder","Help text here…","TREE","STRING",1,"SN_subject",True,False,False,False,False,True,,True,False
-"specification","Specification","Help text here…","TEXT","STRING",2,,True,False,False,False,False,True,False,,
-"comments","Comments","Help text here…","TEXT","STRING",3,,True,False,False,False,False,True,True,,
-"source","Source","Help text here…","TEXT","STRING",4,,True,False,False,False,False,True,True,,
-"displayId","ID","Help text here…","SUPPLIED","STRING",5,,True,False,False,False,False,False,,,
-"category","Category","Help text here…","TREE","STRING",6,"SN_category",True,False,False,False,False,True,,False,False
-"acceptanceCriterion","Acceptance Criteria","Help text here…","TEXT","STRING",7,,True,False,False,False,False,True,True,,
+"fieldprop","labels","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
+"title","Field","Title","Help text here…","TEXT","STRING",0,,True,False,False,False,False,True,False,,
+"subject","Field","Stakeholder","Help text here…","TREE","STRING",1,"SN_subject",True,False,False,False,False,True,,True,False
+"specification","Field","Specification","Help text here…","TEXT","STRING",2,,True,False,False,False,False,True,False,,
+"comments","Field","Comments","Help text here…","TEXT","STRING",3,,True,False,False,False,False,True,True,,
+"source","Field","Source","Help text here…","TEXT","STRING",4,,True,False,False,False,False,True,True,,
+"displayId","Field","ID","Help text here…","SUPPLIED","STRING",5,,True,False,False,False,False,False,,,
+"category","Field","Category","Help text here…","TREE","STRING",6,"SN_category",True,False,False,False,False,True,,False,False
+"acceptanceCriterion","Field","Acceptance Criteria","Help text here…","TEXT","STRING",7,,True,False,False,False,False,True,True,,
