@@ -1,4 +1,4 @@
-"startTmpID","startArtefactType","endTmpID","endArtefactType","type","constraints"
+"fromTmpID","fromArtefactType","toTmpID","toArtefactType","type","constraints"
 "MR02","Stakeholder","MR01","Purpose","DERIVED_FROM","None"
 "MR02","Stakeholder","MR02","Stakeholder","DERIVED_FROM","ParentNotDescendantBySAMEType"
 "MR03","Technical","MR02","Stakeholder","DERIVED_FROM","ChildIsTopLevel"
