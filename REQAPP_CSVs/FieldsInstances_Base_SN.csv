@@ -1,4 +1,4 @@
-"fieldprop","tmpID","labels","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
+"name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
 "title","Stakeholder","Field","Title","Help text here…","TEXT","STRING",0,,True,False,False,False,False,True,False,,
 "subject","Stakeholder","Field","Stakeholder","Help text here…","TREE","STRING",1,"SN_subject",True,False,False,False,False,True,,True,False
 "specification","Stakeholder","Field","Specification","Help text here…","TEXT","STRING",2,,True,False,False,False,False,True,False,,
