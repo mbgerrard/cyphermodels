@@ -5,3 +5,6 @@
 "MR03","Technical","MR03","Technical","DECOMPOSED_FROM","ParentSpecsParentComponent"
 "MR03","Technical","MR02","Stakeholder","REFERENCES","ParentNotDescendantByANYType"
 "MR03","Technical","MR03","Technical","REFERENCES","ParentNotDescendantByANYType"
+"D01","n/a","MR01","Purpose","HAS_META_ARTEFACT",
+"D01","n/a","MR02","Stakeholder","HAS_META_ARTEFACT",
+"D01","n/a","MR03","Technical","HAS_META_ARTEFACT",
