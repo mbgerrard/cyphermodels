@@ -1,8 +1,8 @@
-"fieldprop","labels","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
-"title","Field","Title","Help text here…","TEXT","STRING",0,,True,False,False,False,False,True,False,,
-"subject","Field","Component","Help text here…","TREE","STRING",1,"TR_subject",True,False,False,False,False,True,,True,False
-"specification","Field","Specification","Help text here…","TEXT","STRING",2,,True,False,False,False,False,True,False,,
-"comments","Field","Comments","Help text here…","TEXT","STRING",3,,True,False,False,False,False,True,True,,
-"source","Field","Source","Help text here…","TEXT","STRING",4,,True,False,False,False,False,True,True,,
-"displayId","Field","ID","Help text here…","SUPPLIED","STRING",5,,True,False,False,False,False,False,,,
-"category","Field","Category","Help text here…","TREE","STRING",6,"TR_category",True,False,False,False,False,True,,False,False
+"fieldprop","tmpID","labels","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
+"title","Technical","Field","Title","Help text here…","TEXT","STRING",0,,True,False,False,False,False,True,False,,
+"subject","Technical","Field","Component","Help text here…","TREE","STRING",1,"TR_subject",True,False,False,False,False,True,,True,False
+"specification","Technical","Field","Specification","Help text here…","TEXT","STRING",2,,True,False,False,False,False,True,False,,
+"comments","Technical","Field","Comments","Help text here…","TEXT","STRING",3,,True,False,False,False,False,True,True,,
+"source","Technical","Field","Source","Help text here…","TEXT","STRING",4,,True,False,False,False,False,True,True,,
+"displayId","Technical","Field","ID","Help text here…","SUPPLIED","STRING",5,,True,False,False,False,False,False,,,
+"category","Technical","Field","Category","Help text here…","TREE","STRING",6,"TR_category",True,False,False,False,False,True,,False,False
