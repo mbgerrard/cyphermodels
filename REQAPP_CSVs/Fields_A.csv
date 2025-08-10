@@ -1,6 +1,6 @@
 "name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyValueForPlaceholderAllowed","emptyValueForCompletedAllowed","treeRootSelectAllowed","multipleFieldValuesAllowed"
-"SN_acceptanceCriterion","Stakeholder","Field","Acceptance Criteria","Help text goes here","TEXT","STRING",20,True,False,False,True,True,True,True,False,,
-"SN_validationMethod","Stakeholder","Field","Validation Method","Help text goes here","LIST","STRING",21,True,False,False,True,True,True,True,False,,False
-"SN_userNeed","Stakeholder","Field","User Need","Help text goes here","TAG","BOOLEAN",22,True,False,False,True,True,False,True,False,,
-"TR_verificationMethod","Technical","Field","Verification Method","Help text goes here","LIST","STRING",20,True,False,False,True,True,True,True,False,,False
-"TR_riskControl","Technical","Field","Risk Control","Help text goes here","TAG","BOOLEAN",21,True,False,False,True,True,False,True,False,,
+"acceptanceCriterion","Stakeholder","Field","Acceptance Criteria","Help text goes here","TEXT","STRING",20,True,False,False,True,True,True,True,False,,
+"validationMethod","Stakeholder","Field","Validation Method","Help text goes here","LIST","STRING",21,True,False,False,True,True,True,True,False,,False
+"userNeed","Stakeholder","Field","User Need","Help text goes here","TAG","BOOLEAN",22,True,False,False,True,True,False,True,False,,
+"verificationMethod","Technical","Field","Verification Method","Help text goes here","LIST","STRING",20,True,False,False,True,True,True,True,False,,False
+"riskControl","Technical","Field","Risk Control","Help text goes here","TAG","BOOLEAN",21,True,False,False,True,True,False,True,False,,
