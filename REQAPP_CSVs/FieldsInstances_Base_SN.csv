@@ -1,9 +1,0 @@
-"name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
-"title","Stakeholder","Field","Title","Help text here…","TEXT","STRING",0,,True,False,False,False,False,True,False,,
-"subject","Stakeholder","Field","Stakeholder","Help text here…","TREE","STRING",1,"SN_subject",True,False,False,False,False,True,,True,False
-"specification","Stakeholder","Field","Specification","Help text here…","TEXT","STRING",2,,True,False,False,False,False,True,False,,
-"comments","Stakeholder","Field","Comments","Help text here…","TEXT","STRING",3,,True,False,False,False,False,True,True,,
-"source","Stakeholder","Field","Source","Help text here…","TEXT","STRING",4,,True,False,False,False,False,True,True,,
-"displayId","Stakeholder","Field","ID","Help text here…","SUPPLIED","STRING",5,,True,False,False,False,False,False,,,
-"category","Stakeholder","Field","Category","Help text here…","TREE","STRING",6,"SN_category",True,False,False,False,False,True,,False,False
-"acceptanceCriterion","Stakeholder","Field","Acceptance Criteria","Help text here…","TEXT","STRING",7,,True,False,False,False,False,True,True,,

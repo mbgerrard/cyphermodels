@@ -1,2 +1,2 @@
-"tmpID","labels","type","seq","obsolete","suspect","uid"
-"R00","Requirement|REQ","STRING","INTEGER","BOOLEAN","BOOLEAN","STRING"
+"name","tmpID","labels","type","seq","obsolete","suspect","uid","displayID"
+"Class","R00","Requirement|REQ","STRING","INTEGER","BOOLEAN","BOOLEAN","STRING","STRING"

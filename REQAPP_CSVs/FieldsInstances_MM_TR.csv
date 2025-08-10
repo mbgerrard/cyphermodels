@@ -1,3 +1,0 @@
-"name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","fieldValueSetId","visible","deleted","locked","deleteAllowed","displayNameEditAllowed","fieldValueEditAllowed","emptyFieldValueAllowed","treeTopSelectable","multipleFieldValuesAllowed"
-"verificationMethod","Technical","Field","Verification Method","Help text here…","LIST","STRING",7,"TR_verifmethod",True,False,False,True,True,True,,,False
-"riskControl","Technical","Field","Risk Control","Help text here…","TAG","BOOLEAN",8,"TR_riskcontrol",True,False,False,True,True,False,,,
