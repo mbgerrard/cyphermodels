@@ -153,7 +153,7 @@
 "fv0148","FieldValue","receive the DEVICE with the entire fluid path in a sterilized condition.","Stakeholder","specification",20,"N/A"
 "fv0149","FieldValue","experience that the DEVICE to stops operating within 5 secs of being removed from the body.","Stakeholder","specification",21,"N/A"
 "fv0150","FieldValue","be able to wear the DEVICE on the upper arm, abdomen, or thigh.","Stakeholder","specification",22,"N/A"
-"fv0151","FieldValue","be able to activate a "Pause" function that suspends all drug delivery indefinitely or until re-activation is requested.","Stakeholder","specification",23,"N/A"
+"fv0151","FieldValue","be able to activate a ""Pause"" function that suspends all drug delivery indefinitely or until re-activation is requested.","Stakeholder","specification",23,"N/A"
 "fv0152","FieldValue","be able to claim that the DEVICE has an irreversible needle protetion device.","Stakeholder","specification",24,"N/A"
 "fv0153","FieldValue","be able to claim that needle protection features are non-resettable.","Stakeholder","specification",25,"N/A"
 "fv0154","FieldValue","be able to claim that non-disposable parts have a storage shelf life at room temperature of 36 months.","Stakeholder","specification",26,"N/A"
@@ -735,12 +735,12 @@
 "fv0726","FieldValue"," neither require nor allow calibration or maintenance by the USER.","Technical","specification",9,"N/A"
 "fv0727","FieldValue"," consist only of the following two parts coupled to each other by the USER: 
 
-  1) the "CONTROLLER", incorporating 
+  1) the ""CONTROLLER"", incorporating 
      -  the active UI elements of the DEVICE,
      -  the programmable control logic of the DEVICE, 
      -  all electrical components of the DEVICE, and
 
-  2) the "POD", incorporating
+  2) the ""POD"", incorporating
      -  the Primary Packaging for 3 ml of the drug being delivered,
      -  all elements on the drug delivery pathway","Technical","specification",10,"N/A"
 "fv0728","FieldValue"," provide continuous and pre-programmed subcutaneous drug delivery.","Technical","specification",11,"N/A"
@@ -1096,7 +1096,7 @@ THEN operate according to the following sequence:
 * If the error verified is not impacting the integrity of the FW or the NVM, resume its normal operation mode
 * In case the same error is encountered again with a new coupled POD, automatically transit to SYSTEM_STATE_NRE.","Technical","specification",88,"N/A"
 "fv0806","FieldValue"," record the elapsed time from when the skin sensor stops detecting the presence of a surface.","Technical","specification",89,"N/A"
-"fv0807","FieldValue"," mark a POD as "used" following the initiation of the fluid path opening sequence, but prior to the piercing of the SEPTUM.","Technical","specification",90,"N/A"
+"fv0807","FieldValue"," mark a POD as ""used"" following the initiation of the fluid path opening sequence, but prior to the piercing of the SEPTUM.","Technical","specification",90,"N/A"
 "fv0808","FieldValue"," retain in memory the time elapsed since the first successful POD activation.","Technical","specification",91,"N/A"
 "fv0809","FieldValue"," execute air priming (purging) only when the DEVICE detects it is in contact with the User's skin.","Technical","specification",92,"N/A"
 "fv0810","FieldValue"," execute air priming (purging) as per [TRS-1795] without User intervention being required.","Technical","specification",93,"N/A"
@@ -1316,7 +1316,7 @@ Note: The test shall be performed with the DEVICE operated at worst-case conditi
    -  IEC 60086-1
    -  IEC 60086-2
    -  IEC 60086-6","Technical","specification",165,"N/A"
-"fv0883","FieldValue"," maintain BASIC SAFETY and ESSENTIAL PERFORMANCE following transport simulation (see requirement "Transport simulation" for specification) of the CONTROLLER and POD in their respective packaging, made after a duration of [TBD] in each of the following environmental conditions in the order provided:  
+"fv0883","FieldValue"," maintain BASIC SAFETY and ESSENTIAL PERFORMANCE following transport simulation (see requirement ""Transport simulation"" for specification) of the CONTROLLER and POD in their respective packaging, made after a duration of [TBD] in each of the following environmental conditions in the order provided:  
 
      1.  [TBD] °C to + 5 °C
      2.  + 5 °C to + 35 °C at 90% RH (non-condensing)
@@ -1426,10 +1426,10 @@ Note: The values above indicated refer to the maximum dimensions of the area whi
           -  not a valid USER action
 
    -  duration in the range [bolus_CLICK_MIN] to [bolus_CLICK_MAX]
-          -  Click Event: "short press" by the USER
+          -  Click Event: ""short press"" by the USER
 
    -  duration in the range [bolus_HOLD_MIN] to [bolus_HOLD_MAX]
-          -  Hold Event: "long press" by the USER
+          -  Hold Event: ""long press"" by the USER
 
    -  duration greater than [bolus_HOLD_MAX]
           -  not a valid USER action, and an information signal shall be produced to inform the USER that the button was stuck in a pressed position.","Technical","specification",204,"N/A"
@@ -1453,12 +1453,12 @@ Note: The values above indicated refer to the maximum dimensions of the area whi
 "fv0934","FieldValue"," have a Fluid Path Opening System (FPOS) that penetrates the Primary Container (CONTAINER) with a SEPTUM NEEDLE to gain access to the drug.","Technical","specification",217,"N/A"
 "fv0935","FieldValue"," have a FLUIDIC PATHWAY that allows the drug to flow from the Primary Container to the targeted delivery site.","Technical","specification",218,"N/A"
 "fv0936","FieldValue"," not leak primed drug fluid at any point under normal operating conditions.","Technical","specification",219,"N/A"
-"fv0937","FieldValue"," deliver [bolus_AVAILABLE_CYCLE] bolus pulses on the "HIGH" dose configuration setting.   
+"fv0937","FieldValue"," deliver [bolus_AVAILABLE_CYCLE] bolus pulses on the ""HIGH"" dose configuration setting.   
 
 Note: 95% coverage and 95% confidence.","Technical","specification",220,"N/A"
 "fv0938","FieldValue"," ensure that ETO gas is able to reach all surfaces that may come to contact the USER or the drug during use.","Technical","specification",221,"N/A"
 "fv0939","FieldValue"," be constructed of materials that are shown to withstand the ETO sterilization process without showing any degradation or lack of performance.","Technical","specification",222,"N/A"
-"fv0940","FieldValue"," deliver [basal_SET_PULSE_HOUR]*[THERAPY_CYCLE_DURATION] basal pulses on the "HIGH" dose configuration setting.   
+"fv0940","FieldValue"," deliver [basal_SET_PULSE_HOUR]*[THERAPY_CYCLE_DURATION] basal pulses on the ""HIGH"" dose configuration setting.   
 
 Note: 95% coverage and 95% confidence.","Technical","specification",223,"N/A"
 "fv0941","FieldValue"," have a drug inspection window that can withstand a force of [WINDOW_CRASH_FORCE].","Technical","specification",224,"N/A"
