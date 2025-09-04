@@ -1,2 +1,2 @@
-"tmpID","labels","value","reqType","fieldName","seq","parentId"
-"FV00","FieldValue","Class","N/A","N/A","INTEGER","N/A"
+"tmpID","labels","value","reqType","fieldName","uid","seq","parentId"
+"FV00","FieldValue","Class","N/A","N/A","STRING","INTEGER","N/A"
