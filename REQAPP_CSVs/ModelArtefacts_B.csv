@@ -1,5 +1,5 @@
 "labels","type","seq","obsolete","suspect","uid","displayID","fieldValueRefs"
-"Requirement|REQ","Purpose",0,False,False,,"0","fv0072|fv0009|fv0073|fv0074|fv0075"
+"Requirement|REQ","Purpose",0,False,False,,"0","fv0072|fv0073|fv0074|fv0075"
 "Requirement|REQ","Stakeholder",0,False,False,,"301","fv0076|fv0002|fv0128|fv0180|fv0232|fv0031|fv0284|fv0042|fv0068"
 "Requirement|REQ","Stakeholder",1,False,False,,"302","fv0077|fv0002|fv0129|fv0181|fv0233|fv0031|fv0285|fv0042|fv0068"
 "Requirement|REQ","Stakeholder",2,False,False,,"303","fv0078|fv0002|fv0130|fv0182|fv0234|fv0035|fv0286|fv0044|fv0068"
