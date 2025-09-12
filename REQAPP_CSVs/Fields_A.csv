@@ -1,6 +1,6 @@
-"name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","visible","deleted","locked","optionalForPlaceholder","deleteAllowed","displayNameEditAllowed","editFVAllowed","zeroFVsAllowed","multipleFVsAllowed","rootSelectAllowed","emptyStringFVAllowed"
-"acceptanceCriterion","Stakeholder","Field","Acceptance Criteria","Help text goes here","TEXT","STRING",20,True,False,False,True,True,True,True,False,,,False
-"validationMethod","Stakeholder","Field","Validation Method","Help text goes here","LIST","STRING",21,True,False,False,True,True,True,True,False,False,,False
-"userNeed","Stakeholder","Field","User Need","Help text goes here","SWITCH","BOOLEAN",22,True,False,False,True,True,True,False,False,,,
-"verificationMethod","Technical","Field","Verification Method","Help text goes here","LIST","STRING",20,True,False,False,True,True,True,True,False,False,,False
-"riskControl","Technical","Field","Risk Control","Help text goes here","SWITCH","BOOLEAN",21,True,False,False,True,True,True,False,False,,,
+"name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","visible","deleted","locked","inShortReq","optionalForPlaceholder","deleteAllowed","displayNameEditAllowed","editFVAllowed","zeroFVsAllowed","multipleFVsAllowed","rootSelectAllowed","emptyStringFVAllowed"
+"acceptanceCriterion","Stakeholder","Field","Acceptance Criteria","Help text goes here","TEXT","STRING",20,True,False,False,False,True,True,True,True,False,,,False
+"validationMethod","Stakeholder","Field","Validation Method","Help text goes here","LIST","STRING",21,True,False,False,False,True,True,True,True,False,False,,False
+"userNeed","Stakeholder","Field","User Need","Help text goes here","SWITCH","BOOLEAN",22,True,False,False,False,True,True,True,False,False,,,
+"verificationMethod","Technical","Field","Verification Method","Help text goes here","LIST","STRING",20,True,False,False,False,True,True,True,True,False,False,,False
+"riskControl","Technical","Field","Risk Control","Help text goes here","SWITCH","BOOLEAN",21,True,False,False,False,True,True,True,False,False,,,

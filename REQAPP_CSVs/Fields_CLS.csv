@@ -1,2 +1,2 @@
-"name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","visible","deleted","locked","optionalForPlaceholder","deleteAllowed","displayNameEditAllowed","editFVAllowed","zeroFVsAllowed","multipleFVsAllowed","rootSelectAllowed","emptyStringFVAllowed"
-"Class","F00","Field","STRING","STRING","STRING","STRING","INTEGER","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN"
+"name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","visible","deleted","locked","inShortReq","optionalForPlaceholder","deleteAllowed","displayNameEditAllowed","editFVAllowed","zeroFVsAllowed","multipleFVsAllowed","rootSelectAllowed","emptyStringFVAllowed"
+"Class","F00","Field","STRING","STRING","STRING","STRING","INTEGER","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN","BOOLEAN"
