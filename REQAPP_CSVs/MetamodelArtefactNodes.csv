@@ -1,4 +1,4 @@
 "tmpID","labels","name","type","artefactDisplayName","constraints"
-"MR01","MetaRequirement|REQ","Instance","PURPOSE","Purpose","Singleton"
+"MR01","MetaRequirement|REQ","Instance","PURPOSE","Purpose",
 "MR02","MetaRequirement|REQ","Instance","STAKEHOLDER","Stakeholder Need","MinimumOneHardParent"
 "MR03","MetaRequirement|REQ","Instance","TECHNICAL","Technical Requirement","MinimumOneHardParent"
