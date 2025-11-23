@@ -1,6 +1,6 @@
-"name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","visible","deleted","locked","inShortReq","optionalForPlaceholder","deleteAllowed","displayNameEditAllowed","editFVAllowed","zeroFVsAllowed","multipleFVsAllowed","rootSelectAllowed","emptyStringFVAllowed"
-"acceptanceCriterion","STAKEHOLDER","Field","Acceptance Criteria","Help text goes here","TEXT","STRING",20,True,False,False,False,True,True,True,True,False,False,False,False
-"validationMethod","STAKEHOLDER","Field","Validation Method","Help text goes here","LIST","STRING",21,True,False,False,False,True,True,True,True,False,False,False,False
-"userNeed","STAKEHOLDER","Field","User Need","Help text goes here","SWITCH","BOOLEAN",22,True,False,False,False,True,True,True,False,False,False,False,False
-"verificationMethod","TECHNICAL","Field","Verification Method","Help text goes here","LIST","STRING",20,True,False,False,False,True,True,True,True,False,False,False,False
-"riskControl","TECHNICAL","Field","Risk Control","Help text goes here","SWITCH","BOOLEAN",21,True,False,False,False,True,True,True,False,False,False,False,False
+"name","tmpID","labels","displayName","helpText","type","fieldValueType","seq","visible","deleted","locked","inShortReq","optionalForPlaceholder","deleteAllowed","displayNameEditAllowed","variableFV","changeFVAllowed","editFVAllowed","deleteFVAlways","zeroFVsAllowed","multipleFVsAllowed","rootSelectAllowed","emptyStringFVAllowed"
+"acceptanceCriterion","STAKEHOLDER","Field","Acceptance Criteria","Help text goes here","TEXT","STRING",20,True,False,False,False,True,True,True,False,False,True,False,False,False,False,False
+"validationMethod","STAKEHOLDER","Field","Validation Method","Help text goes here","LIST","STRING",21,True,False,False,False,True,True,True,True,True,True,False,False,False,False,False
+"userNeed","STAKEHOLDER","Field","User Need","Help text goes here","SWITCH","BOOLEAN",22,True,False,False,False,True,True,True,True,True,False,False,False,False,False,False
+"verificationMethod","TECHNICAL","Field","Verification Method","Help text goes here","LIST","STRING",20,True,False,False,False,True,True,True,True,True,True,False,False,False,False,False
+"riskControl","TECHNICAL","Field","Risk Control","Help text goes here","SWITCH","BOOLEAN",21,True,False,False,False,True,True,True,True,True,False,False,False,False,False,False
