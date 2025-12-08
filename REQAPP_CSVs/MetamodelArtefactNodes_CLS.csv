@@ -1,2 +1,2 @@
-"tmpID","labels","name","type","artefactDisplayName","constraints"
-"MR00","MetaRequirement|REQ","Class","STRING","STRING","ARRAY_STRING"
+"tmpID","labels","name","type","modeluid","artefactDisplayName","constraints"
+"MR00","MetaRequirement|REQ","Class","STRING","STRING","STRING","ARRAY_STRING"
