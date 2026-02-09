@@ -1,6 +1,6 @@
-"name","tmpID","labels","displayName","helpText","modeluid","seq","visible","deleted","locked","type","fieldValueType","isSelectable","emptyFVStringValid","rootFVSelectAllowed","multipleFVSelectAllowed","inShortReq","optionalForPlaceholder","systemControlled","userCanModifySelectableFVs","userCanEditDisplayName","unused1"
-"acceptanceCriterion","STAKEHOLDER","Field","Acceptance Criteria","Help text goes here","",20,True,False,False,"TEXT","STRING",False,False,False,False,False,True,False,False,False,False
-"validationMethod","STAKEHOLDER","Field","Validation Method","Help text goes here","",21,True,False,False,"LIST","STRING",True,False,False,False,False,True,False,True,False,False
-"userNeed","STAKEHOLDER","Field","User Need","Help text goes here","",22,True,False,False,"SWITCH","BOOLEAN",True,False,False,False,False,True,False,False,False,False
-"verificationMethod","TECHNICAL","Field","Verification Method","Help text goes here","",20,True,False,False,"LIST","STRING",True,False,False,False,False,True,False,True,False,False
-"riskControl","TECHNICAL","Field","Risk Control","Help text goes here","",21,True,False,False,"SWITCH","BOOLEAN",True,False,False,False,False,True,False,False,False,False
+"name","tmpID","labels","displayName","helpText","modeluid","uid","seq","visible","deleted","locked","type","fieldValueType","isSelectable","emptyFVStringValid","rootFVSelectAllowed","multipleFVSelectAllowed","inShortReq","optionalForPlaceholder","systemControlled","userCanModifySelectableFVs","userCanEditDisplayName","unused1"
+"acceptanceCriterion","STAKEHOLDER","Field","Acceptance Criteria","Help text goes here","",,20,True,False,False,"TEXT","STRING",False,False,False,False,False,True,False,False,False,False
+"validationMethod","STAKEHOLDER","Field","Validation Method","Help text goes here","",,21,True,False,False,"LIST","STRING",True,False,False,False,False,True,False,True,False,False
+"userNeed","STAKEHOLDER","Field","User Need","Help text goes here","",,22,True,False,False,"SWITCH","BOOLEAN",True,False,False,False,False,True,False,False,False,False
+"verificationMethod","TECHNICAL","Field","Verification Method","Help text goes here","",,20,True,False,False,"LIST","STRING",True,False,False,False,False,True,False,True,False,False
+"riskControl","TECHNICAL","Field","Risk Control","Help text goes here","",,21,True,False,False,"SWITCH","BOOLEAN",True,False,False,False,False,True,False,False,False,False
