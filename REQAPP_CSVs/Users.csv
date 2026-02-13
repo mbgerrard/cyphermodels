@@ -1,2 +1,2 @@
-"tmpID","labels","name","displayName","uid"
-"U01","User","root","User01","unassigned"
+"tmpID","labels","name","displayName","extid","uid"
+"U01","User","root","User01","user01@email.com","unassigned"
